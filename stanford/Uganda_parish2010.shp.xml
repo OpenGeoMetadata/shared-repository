@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <fileIdentifier>
+      <gco:CharacterString>edu.stanford.purl:hb557fg0018</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <parentIdentifier>
+      <gco:CharacterString>http://purl.stanford.edu/rb371kw9607.mods</gco:CharacterString>
+   </parentIdentifier>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <organisationName>
+            <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+         </organisationName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>650-723-2746</gco:CharacterString>
+                     </voice>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Stanford</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>California</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>94305</gco:CharacterString>
+                     </postalCode>
+                     <country>
+                        <gco:CharacterString>US</gco:CharacterString>
+                     </country>
+                     <electronicMailAddress>
+                        <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2014-10-21</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2007</gco:CharacterString>
+   </metadataStandardVersion>
+   <dataSetURI>
+      <gco:CharacterString>http://purl.stanford.edu/hb557fg0018</gco:CharacterString>
+   </dataSetURI>
+   <spatialRepresentationInfo>
+      <MD_VectorSpatialRepresentation>
+         <topologyLevel>
+            <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+         </topologyLevel>
+         <geometricObjects>
+            <MD_GeometricObjects>
+               <geometricObjectType>
+                  <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+               </geometricObjectType>
+               <geometricObjectCount>
+                  <gco:Integer>6255</gco:Integer>
+               </geometricObjectCount>
+            </MD_GeometricObjects>
+         </geometricObjects>
+      </MD_VectorSpatialRepresentation>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>0</gco:CharacterString>
+               </code>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Parish Boundaries: Uganda, 2010</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2012-07-05</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>http://purl.stanford.edu/hb557fg0018</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Uganda Bureau of Statistics</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Uganda Bureau of Statistics</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>256-041- 706000</gco:CharacterString>
+                                 </voice>
+                                 <facsimile>
+                                    <gco:CharacterString>256-041- 237553</gco:CharacterString>
+                                 </facsimile>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <city>
+                                    <gco:CharacterString>Kampala </gco:CharacterString>
+                                 </city>
+                                 <country>
+                                    <gco:CharacterString>UG</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>ubos@ubos.org</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+               <otherCitationDetails>
+                  <gco:CharacterString>Data originally accessed from Humanitarian Response Common Operational Dataset Registry: https://cod.humanitarianresponse.info/fr/node/4413. 05/25/2014.</gco:CharacterString>
+               </otherCitationDetails>
+               <collectiveTitle>
+                  <gco:CharacterString>Uganda GIS Maps and Data, 2000-2010</gco:CharacterString>
+               </collectiveTitle>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>This polygon shapefile contains the Level 6 Admininstrative Boundaries (parishes) for Uganda. This layer is based on 2006 data provided by Ugandan Bureau of Statistics (UBOS) and has been updated recently as Government of Uganda changed Administrative Boundaries to create some new districts and parish boundaries in 2010.</gco:CharacterString>
+         </abstract>
+         <purpose>
+            <gco:CharacterString>These data are intended for researchers, students, policy makers and the general public for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production.</gco:CharacterString>
+         </purpose>
+         <credit>
+            <gco:CharacterString>Uganda Bureau of Statistics. (2012) Parish Boundaries, Uganda, 2010. Uganda Bureau of Statistics.</gco:CharacterString>
+         </credit>
+         <status>
+            <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+         </status>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <organisationName>
+                  <gco:CharacterString>United Nations Office for the Coordination of Human Affairs</gco:CharacterString>
+               </organisationName>
+               <contactInfo>
+                  <CI_Contact>
+                     <address>
+                        <CI_Address>
+                           <electronicMailAddress>
+                              <gco:CharacterString>info@humanitarianresponse.info</gco:CharacterString>
+                           </electronicMailAddress>
+                        </CI_Address>
+                     </address>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <resourceMaintenance>
+            <MD_MaintenanceInformation>
+               <maintenanceAndUpdateFrequency>
+                  <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115">unknown</MD_MaintenanceFrequencyCode>
+               </maintenanceAndUpdateFrequency>
+            </MD_MaintenanceInformation>
+         </resourceMaintenance>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Uganda</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>geonames</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <edition>
+                        <gco:CharacterString>3.1</gco:CharacterString>
+                     </edition>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://www.geonames.org/ontology#</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>2010</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+               </type>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Parishes</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Administrative and political divisions</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>lcsh</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2011-04-26</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Downloadable Data</gco:CharacterString>
+               </keyword>
+               <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>Agreed to share publicly and authorized by Geo-IM Working group chaired by UBOS and UNOCHA as Secretariat. </gco:CharacterString>
+               </useLimitation>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>Uganda GIS Maps and Data, 2000-2010</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-07-05</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/rb371kw9607</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Uganda Bureau of Statistics</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Uganda Bureau of Statistics</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <phone>
+                                    <CI_Telephone>
+                                       <voice>
+                                          <gco:CharacterString>256-041- 706000</gco:CharacterString>
+                                       </voice>
+                                       <facsimile>
+                                          <gco:CharacterString>256-041- 237553</gco:CharacterString>
+                                       </facsimile>
+                                    </CI_Telephone>
+                                 </phone>
+                                 <address>
+                                    <CI_Address>
+                                       <city>
+                                          <gco:CharacterString>Kampala </gco:CharacterString>
+                                       </city>
+                                       <country>
+                                          <gco:CharacterString>UG</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>ubos@ubos.org</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation" codeSpace="ISOTC211/19115">largerWorkCitation</DS_AssociationTypeCode>
+               </associationType>
+               <initiativeType>
+                  <DS_InitiativeTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_InitiativeTypeCode" codeListValue="collection" codeSpace="ISOTC211/19115">collection</DS_InitiativeTypeCode>
+               </initiativeType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <characterSet>
+            <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+         </characterSet>
+         <topicCategory>
+            <MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.2.3552</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <extentTypeCode>
+                        <gco:Boolean>true</gco:Boolean>
+                     </extentTypeCode>
+                     <westBoundLongitude>
+                        <gco:Decimal>29.564175</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>35.004804</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>-1.480954</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>4.234708</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+         <extent>
+            <EX_Extent>
+               <description>
+                  <gco:CharacterString>ground condition</gco:CharacterString>
+               </description>
+               <temporalElement>
+                  <EX_TemporalExtent>
+                     <extent>
+                        <gml:TimePeriod gml:id="d0e702">
+                           <gml:beginPosition>2010-01-01T00:00:00</gml:beginPosition>
+                           <gml:endPosition>2010-12-31T00:00:00</gml:endPosition>
+                        </gml:TimePeriod>
+                     </extent>
+                  </EX_TemporalExtent>
+               </temporalElement>
+            </EX_Extent>
+         </extent>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <contentInfo>
+      <MD_FeatureCatalogueDescription>
+         <complianceCode>
+            <gco:Boolean>false</gco:Boolean>
+         </complianceCode>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <includedWithDataset>
+            <gco:Boolean>true</gco:Boolean>
+         </includedWithDataset>
+         <featureCatalogueCitation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Feature Catalog for Parish Boundaries: Uganda, 2010</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2012-07-05</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>4c51a7c0-b514-11e3-a5e2-0800200c9a66</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Uganda Bureau of Statistics</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+            </CI_Citation>
+         </featureCatalogueCitation>
+      </MD_FeatureCatalogueDescription>
+   </contentInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>Shapefile</gco:CharacterString>
+               </name>
+               <version gco:nilReason="missing"/>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>650-723-2746</gco:CharacterString>
+                                 </voice>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Stanford</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>94305</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <transferSize>
+                  <gco:Real>24.042</gco:Real>
+               </transferSize>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>http://purl.stanford.edu/hb557fg0018</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                     </protocol>
+                     <name>
+                        <gco:CharacterString>Uganda_OtherLand2006.shp</gco:CharacterString>
+                     </name>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+   <dataQualityInfo>
+      <DQ_DataQuality>
+         <scope>
+            <DQ_Scope>
+               <level>
+                  <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+               </level>
+            </DQ_Scope>
+         </scope>
+      </DQ_DataQuality>
+   </dataQualityInfo>
+</MD_Metadata>

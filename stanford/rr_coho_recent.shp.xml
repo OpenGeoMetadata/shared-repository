@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <fileIdentifier>
+      <gco:CharacterString>edu.stanford.purl:qt682yc7413</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <parentIdentifier>
+      <gco:CharacterString>http://purl.stanford.edu/zt526qk7324.mods</gco:CharacterString>
+   </parentIdentifier>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <individualName>
+            <gco:CharacterString>Colin Brooks</gco:CharacterString>
+         </individualName>
+         <organisationName>
+            <gco:CharacterString>University of California - Berkeley, IHRMP North Coast GIS Lab</gco:CharacterString>
+         </organisationName>
+         <positionName>
+            <gco:CharacterString>GIS Analyst</gco:CharacterString>
+         </positionName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>707-744-1270</gco:CharacterString>
+                     </voice>
+                     <facsimile>
+                        <gco:CharacterString>707-744-1040</gco:CharacterString>
+                     </facsimile>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>4070 University Road</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Hopland</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>CA</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>95449-9717</gco:CharacterString>
+                     </postalCode>
+                     <country>
+                        <gco:CharacterString>US</gco:CharacterString>
+                     </country>
+                     <electronicMailAddress>
+                        <gco:CharacterString>cbrooks@nature.berkeley.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2014-10-08</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2007</gco:CharacterString>
+   </metadataStandardVersion>
+   <dataSetURI>
+      <gco:CharacterString>http://purl.stanford.edu/qt682yc7413</gco:CharacterString>
+   </dataSetURI>
+   <spatialRepresentationInfo>
+      <MD_VectorSpatialRepresentation>
+         <topologyLevel>
+            <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+         </topologyLevel>
+         <geometricObjects>
+            <MD_GeometricObjects>
+               <geometricObjectType>
+                  <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+               </geometricObjectType>
+               <geometricObjectCount>
+                  <gco:Integer>249</gco:Integer>
+               </geometricObjectCount>
+            </MD_GeometricObjects>
+         </geometricObjects>
+      </MD_VectorSpatialRepresentation>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>26910</gco:CharacterString>
+               </code>
+               <codeSpace>
+                  <gco:CharacterString>EPSG</gco:CharacterString>
+               </codeSpace>
+               <version>
+                  <gco:CharacterString>8.2.6</gco:CharacterString>
+               </version>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Streams Containing Coho Salmon Populations: Russian River Basin, California, 1993-2002</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2002-08-30</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <edition>
+                  <gco:CharacterString>1.2</gco:CharacterString>
+               </edition>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>http://purl.stanford.edu/qt682yc7413</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Bob Coey</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Derek Acomb</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>IHRMP North Coast GIS Lab</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Hopland, CA</gco:CharacterString>
+                                 </deliveryPoint>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Colin Brooks</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+               <collectiveTitle>
+                  <gco:CharacterString>Russian River Watershed GIS</gco:CharacterString>
+               </collectiveTitle>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>This line shapefile represents coho salmon locations in California Dept. of Fish and Game records from biosampling and other surveys, plus other available records such as those of the Warm Springs Dam Hatchery and the Occidental Arts and Ecology Center. The underlying hydrology is the CDF-NCWAP 1:24,000 streams layer, which is derived from USGS 7.5-minute Digital Line Graph data. The line work should therefore match National Map Accuracy Standards for 1:24,000 scale data (90% of tested points in the original line work were within +/- 40 feet). This should represent a nearly complete inventory of streams where coho have been verified to be found since January of 1993, however this can be contrasted with the historical coho streams available in a seperate GIS layer.</gco:CharacterString>
+         </abstract>
+         <purpose>
+            <gco:CharacterString>This dataset depicts which streams in the Russian River basin have recently supported coho salmon. </gco:CharacterString>
+         </purpose>
+         <credit>
+            <gco:CharacterString>Circuit Rider Productions and National Oceanic and Atmospheric Administration (2002). Streams Containing Coho Salmon Populations: Russian River Basin, California, 1993-2002. Circuit Rider Productions.</gco:CharacterString>
+         </credit>
+         <status>
+            <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="underDevelopment" codeSpace="ISOTC211/19115">underDevelopment</MD_ProgressCode>
+         </status>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <individualName>
+                  <gco:CharacterString>Bob Coey</gco:CharacterString>
+               </individualName>
+               <organisationName>
+                  <gco:CharacterString>California Department of Fish and Game</gco:CharacterString>
+               </organisationName>
+               <positionName>
+                  <gco:CharacterString>Senior Basin Planner</gco:CharacterString>
+               </positionName>
+               <contactInfo>
+                  <CI_Contact>
+                     <phone>
+                        <CI_Telephone>
+                           <voice>
+                              <gco:CharacterString>707-744-8704</gco:CharacterString>
+                           </voice>
+                           <facsimile>
+                              <gco:CharacterString>707-744-1040</gco:CharacterString>
+                           </facsimile>
+                        </CI_Telephone>
+                     </phone>
+                     <address>
+                        <CI_Address>
+                           <electronicMailAddress>
+                              <gco:CharacterString>bcoey@dfg.ca.gov</gco:CharacterString>
+                           </electronicMailAddress>
+                        </CI_Address>
+                     </address>
+                     <hoursOfService>
+                        <gco:CharacterString>8-5 M-F</gco:CharacterString>
+                     </hoursOfService>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <resourceMaintenance>
+            <MD_MaintenanceInformation>
+               <maintenanceAndUpdateFrequency>
+                  <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="irregular" codeSpace="ISOTC211/19115">irregular</MD_MaintenanceFrequencyCode>
+               </maintenanceAndUpdateFrequency>
+            </MD_MaintenanceInformation>
+         </resourceMaintenance>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Sonoma County (Calif.)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Mendocino County (Calif.)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Russian River Watershed (Calif.)</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>geonames</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <edition>
+                        <gco:CharacterString>3.1</gco:CharacterString>
+                     </edition>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://www.geonames.org/ontology#</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>1993-2002</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+               </type>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Coho salmon</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>lcsh</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2011-04-26</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Downloadable Data</gco:CharacterString>
+               </keyword>
+               <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>No restrictions on access or use.</gco:CharacterString>
+               </useLimitation>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>This data set is available to the public, but Bob Coey, CA DFG, should be contacted for permission to reshare the data.</gco:CharacterString>
+               </useLimitation>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>Russian River Watershed GIS</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2002-10-24</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/zt526qk7324</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <address>
+                                    <CI_Address>
+                                       <city>
+                                          <gco:CharacterString>Windsor</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>California</gco:CharacterString>
+                                       </administrativeArea>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation" codeSpace="ISOTC211/19115">largerWorkCitation</DS_AssociationTypeCode>
+               </associationType>
+               <initiativeType>
+                  <DS_InitiativeTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_InitiativeTypeCode" codeListValue="collection" codeSpace="ISOTC211/19115">collection</DS_InitiativeTypeCode>
+               </initiativeType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <characterSet>
+            <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+         </characterSet>
+         <topicCategory>
+            <MD_TopicCategoryCode>environment</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>inlandWaters</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.2.3552</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <description>
+                  <gco:CharacterString>ground condition</gco:CharacterString>
+               </description>
+               <temporalElement>
+                  <EX_TemporalExtent>
+                     <extent>
+                        <gml:TimePeriod gml:id="d0e736">
+                           <gml:beginPosition>1993-01-01T00:00:00</gml:beginPosition>
+                           <gml:endPosition>2002-08-26T00:00:00</gml:endPosition>
+                        </gml:TimePeriod>
+                     </extent>
+                  </EX_TemporalExtent>
+               </temporalElement>
+            </EX_Extent>
+         </extent>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <extentTypeCode>
+                        <gco:Boolean>true</gco:Boolean>
+                     </extentTypeCode>
+                     <westBoundLongitude>
+                        <gco:Decimal>-123.158018</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>-122.561876</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>38.407621</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>38.720048</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <contentInfo>
+      <MD_FeatureCatalogueDescription>
+         <complianceCode>
+            <gco:Boolean>false</gco:Boolean>
+         </complianceCode>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <includedWithDataset>
+            <gco:Boolean>true</gco:Boolean>
+         </includedWithDataset>
+         <featureCatalogueCitation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Feature Catalog for Streams Containing Coho Salmon Populations: Russian River Basin, California, 1993-2002</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2002-08-30</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>ab2c0f5b-e2c8-4ce4-bffe-7ba9840cbb13</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <individualName>
+                        <gco:CharacterString>Colin Brooks</gco:CharacterString>
+                     </individualName>
+                     <organisationName>
+                        <gco:CharacterString>University of California - Berkeley, IHRMP North Coast GIS Lab</gco:CharacterString>
+                     </organisationName>
+                     <positionName>
+                        <gco:CharacterString>GIS Analyst</gco:CharacterString>
+                     </positionName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>707-744-1270</gco:CharacterString>
+                                 </voice>
+                                 <facsimile>
+                                    <gco:CharacterString>707-744-1040</gco:CharacterString>
+                                 </facsimile>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>4070 University Road</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Hopland</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>CA</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>95449-9717</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>cbrooks@nature.berkeley.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <individualName>
+                        <gco:CharacterString>Bob Coey</gco:CharacterString>
+                     </individualName>
+                     <organisationName>
+                        <gco:CharacterString>California Department of Fish and Game</gco:CharacterString>
+                     </organisationName>
+                     <positionName>
+                        <gco:CharacterString>Senior Basin Planner</gco:CharacterString>
+                     </positionName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>707-744-8704</gco:CharacterString>
+                                 </voice>
+                                 <facsimile>
+                                    <gco:CharacterString>707-744-1040</gco:CharacterString>
+                                 </facsimile>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>4070 University Road</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Hopland</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>CA</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>95449-9717</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>bcoey@dfg.ca.gov</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                           <hoursOfService>
+                              <gco:CharacterString>8-5 M-F</gco:CharacterString>
+                           </hoursOfService>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Derek Acomb</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>IHRMP North Coast GIS Lab</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Hopland, CA</gco:CharacterString>
+                                 </deliveryPoint>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+            </CI_Citation>
+         </featureCatalogueCitation>
+      </MD_FeatureCatalogueDescription>
+   </contentInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>Shapefile</gco:CharacterString>
+               </name>
+               <version gco:nilReason="missing"/>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <transferSize>
+                  <gco:Real>0.112</gco:Real>
+               </transferSize>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>http://purl.stanford.edu/qt682yc7413</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                     </protocol>
+                     <name>
+                        <gco:CharacterString>rr_coho-recent.shp</gco:CharacterString>
+                     </name>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+   <dataQualityInfo>
+      <DQ_DataQuality>
+         <scope>
+            <DQ_Scope>
+               <level>
+                  <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+               </level>
+            </DQ_Scope>
+         </scope>
+         <report>
+            <DQ_CompletenessOmission>
+               <measureDescription>
+                  <gco:CharacterString>Represents available CA DFG records from biosampling and other surveys, plus other available records such as those of the Warm Springs Dam Hatchery and the Occidental Arts and Ecology Center. This should represent a nearly complete inventory of streams where coho have been verified to be found since January of 1993.</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_CompletenessOmission>
+         </report>
+         <report>
+            <DQ_QuantitativeAttributeAccuracy>
+               <measureDescription>
+                  <gco:CharacterString>The designation as a "recent coho stream" should closely match available, verified records.</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_QuantitativeAttributeAccuracy>
+         </report>
+         <report>
+            <DQ_AbsoluteExternalPositionalAccuracy>
+               <measureDescription>
+                  <gco:CharacterString>The underlying hydrology is the CDF-NCWAP 1:24,000 streams layer, which is derived from USGS 7.5-minute Digital Line Graph data. The line work should therefore match National Map Accuracy Standards for 1:24,000 scale data (90% of tested points in the original line work were within +/- 40 feet).</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_AbsoluteExternalPositionalAccuracy>
+         </report>
+         <lineage>
+            <LI_Lineage>
+               <processStep>
+                  <LI_ProcessStep>
+                     <description>
+                        <gco:CharacterString>A summary of streams to have had coho found in them was provided by Bob Coey, CA DFG Central Coast Region Senior Basin Planner, in March, 2002. Colin Brooks, IHRMP GIS Analyst, matched these records to the CDF-NCWAP 1:24,000 streams layer (nchydro1) and created a GIS layer of these matched streams in ArcView 3.2a. An update of coho streams status was provided by Bob Coey in August, 2002, and C.Brooks updated the records and GIS layer. The data layer was reprojected from Teale Albers, NAD27 to UTM, Zone 10, NAD83 and the metadata was written in 8/2002.</gco:CharacterString>
+                     </description>
+                     <dateTime>
+                        <gco:DateTime>2002-08-30T00:00:00</gco:DateTime>
+                     </dateTime>
+                     <processor>
+                        <CI_ResponsibleParty>
+                           <individualName>
+                              <gco:CharacterString>Colin Brooks</gco:CharacterString>
+                           </individualName>
+                           <organisationName>
+                              <gco:CharacterString>University of California - Berkeley, IHRMP North Coast GIS Lab</gco:CharacterString>
+                           </organisationName>
+                           <positionName>
+                              <gco:CharacterString>GIS Analyst</gco:CharacterString>
+                           </positionName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <phone>
+                                    <CI_Telephone>
+                                       <voice>
+                                          <gco:CharacterString>707-744-1270</gco:CharacterString>
+                                       </voice>
+                                       <facsimile>
+                                          <gco:CharacterString>707-744-1040</gco:CharacterString>
+                                       </facsimile>
+                                    </CI_Telephone>
+                                 </phone>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>4070 University Road</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <city>
+                                          <gco:CharacterString>Hopland</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>CA</gco:CharacterString>
+                                       </administrativeArea>
+                                       <postalCode>
+                                          <gco:CharacterString>95449</gco:CharacterString>
+                                       </postalCode>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>cbrooks@nature.berkeley.edu</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                                 <hoursOfService>
+                                    <gco:CharacterString>8-5 M-F</gco:CharacterString>
+                                 </hoursOfService>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </processor>
+                  </LI_ProcessStep>
+               </processStep>
+            </LI_Lineage>
+         </lineage>
+      </DQ_DataQuality>
+   </dataQualityInfo>
+   <metadataMaintenance>
+      <MD_MaintenanceInformation>
+         <maintenanceAndUpdateFrequency>
+            <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115">unknown</MD_MaintenanceFrequencyCode>
+         </maintenanceAndUpdateFrequency>
+         <maintenanceNote>
+            <gco:CharacterString>Last metadata review date: 20020830</gco:CharacterString>
+         </maintenanceNote>
+      </MD_MaintenanceInformation>
+   </metadataMaintenance>
+</MD_Metadata>

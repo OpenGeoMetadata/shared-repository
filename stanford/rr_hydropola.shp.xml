@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <fileIdentifier>
+      <gco:CharacterString>edu.stanford.purl:ym034ms1211</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <parentIdentifier>
+      <gco:CharacterString>http://purl.stanford.edu/zt526qk7324.mods</gco:CharacterString>
+   </parentIdentifier>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <organisationName>
+            <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+         </organisationName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>650-723-2746</gco:CharacterString>
+                     </voice>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Stanford</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>California</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>94305</gco:CharacterString>
+                     </postalCode>
+                     <country>
+                        <gco:CharacterString>US</gco:CharacterString>
+                     </country>
+                     <electronicMailAddress>
+                        <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2014-10-16</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2007</gco:CharacterString>
+   </metadataStandardVersion>
+   <dataSetURI>
+      <gco:CharacterString>http://purl.stanford.edu/ym034ms1211</gco:CharacterString>
+   </dataSetURI>
+   <spatialRepresentationInfo>
+      <MD_VectorSpatialRepresentation>
+         <topologyLevel>
+            <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+         </topologyLevel>
+         <geometricObjects>
+            <MD_GeometricObjects>
+               <geometricObjectType>
+                  <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+               </geometricObjectType>
+               <geometricObjectCount>
+                  <gco:Integer>171</gco:Integer>
+               </geometricObjectCount>
+            </MD_GeometricObjects>
+         </geometricObjects>
+      </MD_VectorSpatialRepresentation>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>26910</gco:CharacterString>
+               </code>
+               <codeSpace>
+                  <gco:CharacterString>EPSG</gco:CharacterString>
+               </codeSpace>
+               <version>
+                  <gco:CharacterString>7.9.4</gco:CharacterString>
+               </version>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Hydrographic Polygons: Russian River Basin, California, 1998-2002</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2002-09-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>http://purl.stanford.edu/ym034ms1211</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <address>
+                              <CI_Address>
+                                 <city>
+                                    <gco:CharacterString>Windsor</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>info@circuitriderstudios.com</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+               <collectiveTitle>
+                  <gco:CharacterString>Russian River Watershed GIS</gco:CharacterString>
+               </collectiveTitle>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>This polygon shapefile represents flowing waters (rivers and streams), standing waters (lakes and ponds), and wetlands -- both natural and manmade. Polygon features have attribute codes that identify water bodies such as lakes, wide river segments, or swamps. Line features have attribute codes that represent streams or shorelines.</gco:CharacterString>
+         </abstract>
+         <purpose>
+            <gco:CharacterString>This dataset is intended mapping the flowing waters of the Russian River basin as well as an aid to watershed analysis and planning.</gco:CharacterString>
+         </purpose>
+         <credit>
+            <gco:CharacterString>Circuit Rider Productions and National Oceanic and Atmospheric Administration (2002). Hydrographic Polygons: Russian River Basin, California, 1998-2002. Circuit Rider Productions.</gco:CharacterString>
+         </credit>
+         <status>
+            <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+         </status>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <organisationName>
+                  <gco:CharacterString>Circuit Rider Productions, Inc. </gco:CharacterString>
+               </organisationName>
+               <positionName>
+                  <gco:CharacterString>GIS Coordinator </gco:CharacterString>
+               </positionName>
+               <contactInfo>
+                  <CI_Contact>
+                     <phone>
+                        <CI_Telephone>
+                           <voice>
+                              <gco:CharacterString>707.838.6641 </gco:CharacterString>
+                           </voice>
+                        </CI_Telephone>
+                     </phone>
+                     <address>
+                        <CI_Address>
+                           <deliveryPoint>
+                              <gco:CharacterString>9619 Old Redwood Highway </gco:CharacterString>
+                           </deliveryPoint>
+                           <city>
+                              <gco:CharacterString>Windsor</gco:CharacterString>
+                           </city>
+                           <administrativeArea>
+                              <gco:CharacterString>California</gco:CharacterString>
+                           </administrativeArea>
+                           <postalCode>
+                              <gco:CharacterString>95492 </gco:CharacterString>
+                           </postalCode>
+                           <country>
+                              <gco:CharacterString>US</gco:CharacterString>
+                           </country>
+                        </CI_Address>
+                     </address>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <resourceMaintenance>
+            <MD_MaintenanceInformation>
+               <maintenanceAndUpdateFrequency>
+                  <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+               </maintenanceAndUpdateFrequency>
+            </MD_MaintenanceInformation>
+         </resourceMaintenance>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Sonoma County (Calif.)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Mendocino County (Calif.)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Russian River Watershed (Calif.)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Russian River Watershed (Calif.)</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>geonames</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <edition>
+                        <gco:CharacterString>3.1</gco:CharacterString>
+                     </edition>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://www.geonames.org/ontology#</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>1998-2002</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+               </type>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Hydrology</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Watersheds</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Bodies of water</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Rivers</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>lcsh</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2011-04-26</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Downloadable Data</gco:CharacterString>
+               </keyword>
+               <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>No restrictions on access or use.</gco:CharacterString>
+               </useLimitation>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>Russian River Watershed GIS</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2002-10-24</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/zt526qk7324</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <address>
+                                    <CI_Address>
+                                       <city>
+                                          <gco:CharacterString>Windsor</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>California</gco:CharacterString>
+                                       </administrativeArea>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>info@circuitriderstudios.com</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>United States. National Oceanic and Atmospheric Administration</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation" codeSpace="ISOTC211/19115">largerWorkCitation</DS_AssociationTypeCode>
+               </associationType>
+               <initiativeType>
+                  <DS_InitiativeTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_InitiativeTypeCode" codeListValue="collection" codeSpace="ISOTC211/19115">collection</DS_InitiativeTypeCode>
+               </initiativeType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <characterSet>
+            <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+         </characterSet>
+         <topicCategory>
+            <MD_TopicCategoryCode>environment</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>inlandWaters</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <description>
+                  <gco:CharacterString>ground condition</gco:CharacterString>
+               </description>
+               <temporalElement>
+                  <EX_TemporalExtent>
+                     <extent>
+                        <gml:TimePeriod gml:id="d0e505">
+                           <gml:beginPosition>1998-01-01T00:00:00</gml:beginPosition>
+                           <gml:endPosition>2002-09-01T00:00:00</gml:endPosition>
+                        </gml:TimePeriod>
+                     </extent>
+                  </EX_TemporalExtent>
+               </temporalElement>
+            </EX_Extent>
+         </extent>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <extentTypeCode>
+                        <gco:Boolean>true</gco:Boolean>
+                     </extentTypeCode>
+                     <westBoundLongitude>
+                        <gco:Decimal>-123.370537</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>-122.576654</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>38.365901</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>39.360097</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+         <supplementalInformation>
+            <gco:CharacterString>MINOR1 - Major Minor // Code # Code # Element Description
+50 100 Alkali flat
+50 101 Reservoir
+50 102 Covered reservoir
+50 103 Glacier or permanent snowfield
+50 104 Salt evaporator
+50 105 Inundation area
+50 106 Fish hatchery or farm
+50 107 Industrial water impoundment
+50 108 Area to be submerged
+50 109 Sewage disposal pond/filtration bed
+50 110 Tailings pond
+50 111 Marsh, wetland, swamp, bog
+50 112 Mangrove area
+50 113 Rice Field
+50 114 Cranberry bog
+50 115 Flats(tidal, mud, sand, gravel)
+50 116 Bays, estuaries, gulfs, oceans, seas
+50 117 Shoal
+50 118 Soda evaporator
+50 119 Duck pond
+50 400 Rapids
+50 401 Falls
+50 402 Gravel pit/quarry filled w/water
+50 403 Gauging station
+50 404 Pumping station
+50 405 Water intake
+50 406 Dam or weir
+50 407 Canal lock or sluice gate
+50 408 Spillway
+50 409 Gate(flood, tidal, head, check)
+50 410 Rock
+50 411 Crevasse
+50 412 Stream
+50 413 Braided stream
+50 414 Ditch or canal
+50 415 Aqueduct
+50 416 Flume
+50 417 Penstock
+50 418 Siphon
+50 419 Channel in water area
+50 420 Wash or ephemeral drain
+50 421 Lake or pond
+50 422 Coral reef
+50 423 Sand in open water
+50 424 Spoil area
+50 425 Fish ladders
+50 601 Underground
+50 602 Overpassing
+50 603 Elevated
+50 604 Tunnel
+50 605 Right bank
+50 606 Left bank
+50 607 Under construction
+50 608 Salt
+50 609 Unsurveyed
+50 610 Intermittent
+50 611 Abandoned or discontinued
+50 612 Submerged or sunken
+50 613 Wooded
+50 614 Dry
+50 615 Mineral or hot (sulphur, alkali,etc.)
+50 616 Navigable transportation
+50 617 Underpassing
+50 618 Earthen construction
+50 000 Photo-revised feature
+
+WRCBLAKES - COLUMN ITEM NAME WIDTH OUTPUT TYPE N.DEC
+1 AREA 4 12 F 3
+5 PERIMETER 4 12 F 3
+9 WRCBLAKES# 4 5 B -
+13 WRCBLAKES-ID 4 5 B -
+17 F_G_CD 1 1 C - Need code
+18 OWNER 34 34 C - Owner
+52 OWNRTYPE 3 3 C - Owner Type
+(Code): BPP, PRV, PUB
+55 REC_NUM 40 40 C -
+95 MAX_AREA 16 16 I - Maximum Area (Units??)
+111 MXAREF 7 7 C - Code??
+118 SUM_SURF 16 16 I - Summer Surface area??
+134 S_S_REF 7 7 C -
+141 MAXDEPTH 16 16 I - Maximum Depth (Units?)
+157 M_D_REF 7 7 C -
+164 AB_G_F1 20 20 C - something about fish species
+184 AB_G_F2 20 20 C - ""
+204 AB_G_F3 20 20 C - ""
+224 OTH_NAM 25 25 C - Other Lake Name
+249 DEP_FL 16 16 I -
+265 DP_F_REF 7 7 C -
+272 MIN_SURF 16 16 I - Minimum surface area??
+288 M_S_REF 7 7 C -
+295 PRI_PROD 16 16 I - Primary Productivity
+311 L_Q_REF 7 7 C - empty
+318 DAM 16 16 I - Dam?? (numeric)
+334 D_NAME 25 25 C - Dam name
+359 LATITUDE 9 9 C - Latitude
+368 LATD 2 2 I - Latitude, Degrees
+370 LATM 2 2 I - Latitude, Minutes
+372 LATS 4 4 N 1 Latitude, Seconds
+376 LONGITUD 10 10 C - Longitude
+386 LOND 3 3 I - Longitude, Degrees
+389 LONM 2 2 I - Longitude, Minutes
+391 LONS 4 4 N 1 Longitude, Seconds
+395 TOWNSHIP 13 13 C - Township
+408 OPERATOR 25 25 C - Operator of Dam?
+433 INFLOW1 15 15 C - Inflow Stream 1
+448 INFLOW2 15 15 C Inflow Stream 2
+463 INFLOW3 15 15 C - Inflow Stream 3
+478 MAX_VOL 16 16 I - Maximum Volume (units)
+494 M_V_REF 7 7 C -
+501 MIN_VOL 16 16 I - Minimum Volume (units)
+517 AV_DPTH 16 16 I - Average Depth (units)
+533 A_D_REF 7 7 C -
+540 N_G_FSH1 20 20 C - something with fish species
+560 N_G_FSH2 20 20 C - ""
+580 N_G_FSH3 20 20 C - ""
+600 FISH_YLD 16 16 I - Fish Yield ? (units)
+616 F_Y_REF 7 7 C -
+623 FSH_CROP 16 16 I - Fish Crop?/
+639 F_C_REF 7 7 C -
+646 EUPHOT 4 4 C -
+650 E_Z_REF 7 7 C -
+657 THERMO 16 16 I -
+673 COUNTY 40 40 C - County
+*713 QUAD 12 12 C - Quadcodes?
+725 OUTFLOW 15 15 C - Outflow Stream
+740 DRN_AREA 16 16 I -
+756 D_A_REF 7 7 C -
+763 ELEVAT 16 16 I - Elevation of lake in feet
+779 ELE_REF 7 7 C -
+786 T_S_REF 7 7 C -
+793 DOM_FSH1 20 20 C - Dominant Fish 1?
+813 DOM_FSH2 20 20 C - Dominant Fish 2?
+833 DOM_FSH3 20 20 C - Dominant Fish 3?
+853 D_F_REF 7 7 C -
+860 NUISANCE 24 24 C - Nuisance - Codes?
+884 N_REF 7 7 C -
+891 IMP_WTR 16 16 I -
+907 I_W_REF 7 7 C - Empty
+914 LKNAM_FM 25 25 C - Lake name
+939 LAK_NM_F 16 16 I - Lake name code??
+955 ACC_FMT 9 9 C - Open/closed/fee/desig
+964 LAK_FMT 11 11 C - Lake/reservoir/etc/
+975 ACCR_FM 8 8 C - time periods
+983 CAL_FM 10 10 C - Empty
+993 TRO_FM 12 12 C - trophic level???
+1005 FISH_FM 13 13 C - Fish productivity??
+1018 FSHRY_FM 7 7 C - Fishery temperature related?
+1025 F_PLT_FM 8 8 C - Fish planting
+1033 SIGN_FM 3 3 C - No/yes?? Sign for lake name
+1036 STRAT_FM 3 3 C - No/yes??
+1039 OFLO_FM 3 3 C - No/yes??
+1042 N_PK_FM 19 19 C - National Park
+1061 N_F_FM 14 14 C - National Forest
+1075 W_P_FM 19 19 C - Wilderness area??
+1094 DWR_FM 16 16 C - District??
+1110 LAK_Q_FM 4 4 C - Lake quality
+1114 LAKES 1 1 I - Matched to lakes.pat
+1115 WRCBLAKES 4 5 B - Primary key
+
+STATECODE - 
+1 - completely within CA
+2 - partially with CA
+3 - completely outside CA</gco:CharacterString>
+         </supplementalInformation>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <contentInfo>
+      <MD_FeatureCatalogueDescription>
+         <complianceCode>
+            <gco:Boolean>false</gco:Boolean>
+         </complianceCode>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <includedWithDataset>
+            <gco:Boolean>true</gco:Boolean>
+         </includedWithDataset>
+         <featureCatalogueCitation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Feature Catalog for Hydrographic Polygons: Russian River Basin, California, 1998-2002</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2002-09-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>71234a08-67ce-4887-bf59-6499b72fbfc4</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+            </CI_Citation>
+         </featureCatalogueCitation>
+      </MD_FeatureCatalogueDescription>
+   </contentInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>Shapefile</gco:CharacterString>
+               </name>
+               <version gco:nilReason="missing"/>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>650-723-2746</gco:CharacterString>
+                                 </voice>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Stanford</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>94305</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <transferSize>
+                  <gco:Real>0.096</gco:Real>
+               </transferSize>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>http://purl.stanford.edu/ym034ms1211</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                     </protocol>
+                     <name>
+                        <gco:CharacterString>rr_hydropola.shp</gco:CharacterString>
+                     </name>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+   <dataQualityInfo>
+      <DQ_DataQuality>
+         <scope>
+            <DQ_Scope>
+               <level>
+                  <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+               </level>
+            </DQ_Scope>
+         </scope>
+         <lineage>
+            <LI_Lineage>
+               <statement>
+                  <gco:CharacterString>The original statewide layers of HYDROLINES and HYDROPOLYGONS were developed as coverages named hydrarca and hydropola by the Teale Data Center and the California Department of Fish and Game. Rr_hydropola.shp was created by Circuit Rider Productions, Inc. Rr_hydropola represents a portion of the hydraopola coverage that describes the rivers and lakes of the Russian River basin. The hydropoa polygon features were selected based on their spatial location within the extent of the Russian River basin. </gco:CharacterString>
+               </statement>
+            </LI_Lineage>
+         </lineage>
+      </DQ_DataQuality>
+   </dataQualityInfo>
+</MD_Metadata>

@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <fileIdentifier>
+      <gco:CharacterString>edu.stanford.purl:tw787hg9726</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <parentIdentifier>
+      <gco:CharacterString>http://purl.stanford.edu/vz960gb58522.mods</gco:CharacterString>
+   </parentIdentifier>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <organisationName>
+            <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+         </organisationName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>650-723-2746</gco:CharacterString>
+                     </voice>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>Mitchell Building, 2nd Floor</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Stanford</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>California</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>94305</gco:CharacterString>
+                     </postalCode>
+                     <country>
+                        <gco:CharacterString>US</gco:CharacterString>
+                     </country>
+                     <electronicMailAddress>
+                        <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2014-07-30</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2007</gco:CharacterString>
+   </metadataStandardVersion>
+   <dataSetURI>
+      <gco:CharacterString>http://purl.stanford.edu/tw787hg9726</gco:CharacterString>
+   </dataSetURI>
+   <spatialRepresentationInfo>
+      <MD_VectorSpatialRepresentation>
+         <topologyLevel>
+            <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+         </topologyLevel>
+         <geometricObjects>
+            <MD_GeometricObjects>
+               <geometricObjectType>
+                  <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+               </geometricObjectType>
+               <geometricObjectCount>
+                  <gco:Integer>2385</gco:Integer>
+               </geometricObjectCount>
+            </MD_GeometricObjects>
+         </geometricObjects>
+      </MD_VectorSpatialRepresentation>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>54004</gco:CharacterString>
+               </code>
+               <codeSpace>
+                  <gco:CharacterString>ESRI</gco:CharacterString>
+               </codeSpace>
+               <version>
+                  <gco:CharacterString>10.1.0</gco:CharacterString>
+               </version>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Mountains, 500 Meter Contours, Europe, 0-2000</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2010-01-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>http://purl.stanford.edu/tw787hg9726</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Nüssli, Marc-Antoine</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Nüssli, Christos</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Yverdon-les-Bains, Switzerland</gco:CharacterString>
+                                 </deliveryPoint>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+               <collectiveTitle>
+                  <gco:CharacterString>Euratlas Georeferenced Historical Vector Data</gco:CharacterString>
+               </collectiveTitle>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>This shapefile represents mountains, 500 meter contours, for Europe. Mountains are the same for all centuries. They are represented as polygons formed by the contours of five different heights: 200m, 500m, 1000m, 2000m and 3500m. This layer is part of the Euratlas Georeferenced Vector Data collection that is composed of 21 maps, one for each century from year 1 to year 2000. These maps depict the detailed political situation of Europe at the first day of each centennial year C.E. from year 1 to 2000. Each map is composed of two kinds of layers: physical features layers, such as seas and rivers, and political features layers, such as states and cities. Some layers also cover adjacent portions of North Africa and the Middle East.</gco:CharacterString>
+         </abstract>
+         <purpose>
+            <gco:CharacterString>This layer is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</gco:CharacterString>
+         </purpose>
+         <credit>
+            <gco:CharacterString>See Use Constraints.</gco:CharacterString>
+         </credit>
+         <status>
+            <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+         </status>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <organisationName>
+                  <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+               </organisationName>
+               <contactInfo>
+                  <CI_Contact>
+                     <phone>
+                        <CI_Telephone>
+                           <voice>
+                              <gco:CharacterString>0041 24 426 13 50</gco:CharacterString>
+                           </voice>
+                        </CI_Telephone>
+                     </phone>
+                     <address>
+                        <CI_Address>
+                           <deliveryPoint>
+                              <gco:CharacterString>Milieu 30</gco:CharacterString>
+                           </deliveryPoint>
+                           <city>
+                              <gco:CharacterString>Yverdon-les-Bains</gco:CharacterString>
+                           </city>
+                           <postalCode>
+                              <gco:CharacterString>1400</gco:CharacterString>
+                           </postalCode>
+                           <country>
+                              <gco:CharacterString>CH</gco:CharacterString>
+                           </country>
+                           <electronicMailAddress>
+                              <gco:CharacterString>webmaster@euratlas.net</gco:CharacterString>
+                           </electronicMailAddress>
+                        </CI_Address>
+                     </address>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <resourceMaintenance>
+            <MD_MaintenanceInformation>
+               <maintenanceAndUpdateFrequency>
+                  <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+               </maintenanceAndUpdateFrequency>
+            </MD_MaintenanceInformation>
+         </resourceMaintenance>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Europe</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>geonames</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <edition>
+                        <gco:CharacterString>3.1</gco:CharacterString>
+                     </edition>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://www.geonames.org/ontology#</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>0001-2000</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+               </type>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Contours (Cartography)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Altitudes</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Landforms</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Mountains</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>lcsh</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2011-04-26</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Downloadable Data</gco:CharacterString>
+               </keyword>
+               <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>
+            SITE  LICENSE AGREEMENT
+            for Euratlas®, SWITZERLAND Georeferenced Historical Vector Data between 
+           - Branner Earth Sciences Library &amp; Map Collections, Stanford University ("Licensee"), represented by Julie Sweetkind-Singer, Assistant Director of Geospatial, Cartographic and Scientific Data &amp; Services Acting Head Librarian
+            and
+            - Christos Nüssli ("Licensor") holder of the trademark Euratlas, author of Euratlas Periodis, periodical historical atlas of Europe, and owner of the proprietary rights in this work  and in the Georeferenced Historical Vector Data, that is a part of Euratlas Periodis
+            A. The Licensee acknowledges that the Georeferenced Historical Vector Data are original works protected by intellectual property legislation.
+            The Licensee will not acquire any ownership in the Data. Rather, he has a non-exclusive, non-transferable, limited license to install and to use the digital data, subject to the terms and conditions of this Agreement. The Licensee owns the physical media on which the Data are recorded, but the Licensor retains all ownership interests in the Data.
+            B. The licensee may install and use the Georeferenced Historical Vector Data on the Institution’s network or on the computers within the Institution while acknowledging the data source from Euratlas. 
+            The Licensee may give Authorized Users only access to the Georeferenced Historical Vector Data. Authorized Users are individuals at the Institution who are faculty, staff, students or on-site-users of the Institution’s library and campus computer network.
+            The Licensee agree to inform all Authorized Users about the Terms and Conditions of the Utilisation License below.
+            The Authorized Users may use the Georeferenced Historical Vector Data for teaching and research purposes only. At no time is commercial use authorized.
+            C. The Licensee undertakes himself to respect and to require the respect from the Authorized Users of the Utilisation License below.
+            
+            
+            
+            UTILISATION LICENSE
+            
+            
+            
+            Rights conferred by the license 
+            1.  The Licensee and the Authorized Users are authorised to use the vectorial data, alone or combined with other data, for the illustration of books, booklets and publications on paper and to disseminate them on these media. 
+            They are authorised to use the vectorial data for the creation of geographical maps or other graphic media as raster images (bitmap), capable of being disseminated on CD-ROMs.
+            They may also offer these documents, for purely illustrative purposes, on an Internet site.
+            Limitations on the granted rights 
+            2. Regardless of the medium (non-digital or digital as raster images) only representations as indicated under clause 1 above, may be disseminated and in no case the vectorial data themselves.  Moreover, these representations should not constitute the essence of the contents of the product (derived work) that will be disseminated, or of the contents of the Internet site on which they will be offered.  Lastly, any modifications and additions made should not contain any obviously illegal, humanly discriminatory or scientifically erroneous elements. 
+            All the rights conferred under clause 1 above are subject to the limitations appearing under clauses 3 and 4 below and to the respect of the obligatory mention indicated under clause 5 below. 
+            3. The Licensee and the Authorized Users may not entrust the vectorial data to an outsider. In no case may the rights conferred on the Licensee be yielded to an outsider.  
+            The Licensee and the Authorized Users shall not authorize or allow any third party to duplicate or reproduce the Data, in whole or in part, in any form or format whatsoever without the prior written consent of the Licensor, nor sell, loan, lease, distribute, transfer or sublicense the Data or otherwise assign any rights under this Agreement to any third party without the prior written consent of the Licensor.
+            4.   The Licensee and the Authorized Users may not disseminate a work, on any medium whatsoever, that could be an entire or substantial reconstitution of the Euratlas maps (Euratlas Periodis) from the vectorial data, e.g. for the publication of an historic atlas of Europe.  To be authorised, any work derived from the vectorial data must deal with a subject different from that of the Euratlas Periodis and any additions or modifications made must exceed 50% of the derived work both in the general presentation and in its content.  Moreover, the title of the derived work should not, whether alone or in combination, contain the expression "Periodical Historical Atlas of Europe" nor the names Euratlas and Periodis. 
+            Obligatory mention 
+            5.  (a)  Any graphical representation established from the Data as envisaged in clause 1, whatever the medium, must comprise the following mention: 
+            "© Copyright 2008, Christos Nüssli, Euratlas – www.euratlas.com, reproduction prohibited, utilisation license of (date of this agreement)"
+            (b)  When the modifications or additions made to the original work are, in the general presentation or its components, less than 70% of the derived work, the documentation accompanying the derived work will have to mention the original work and the Licensor’s rights, for example, in the following form: 
+            "map drawn with the Euratlas Georeferenced Historical Vector Data © Copyright 2008, Christos Nüssli, Euratlas – www.euratlas.com, reproduction prohibited, utilisation license of (date of this agreement)"
+            Guarantees and responsibilities 
+            6.  The Licensor has devoted its best efforts to collecting and preparing the vectorial data but it does not provide any guarantee or assurance, either express or tacit, deriving from the law or other sources, as to the exactness, utility, innovation, validity, extent, precision or adequacy of the data for a particular purpose. The Licensor will not be liable in any event for any loss of profits, breaking-off of an agreement, or any loss arising as a result of the inaccuracy or incompleteness in the Data.
+            7. The Licensor will not be liable to the Licensee in any respect for any claims, loss or injury alleged to have relsult from use or detention of the Data or of derived work.
+            Application and possible litigation 
+            8. This agreement is effective as of the date and time the Institution download the Georeferenced Historical Vector Data and shall apply throughout the duration of the legal copyright protection and without any territorial limitation.  
+            This Agreement shall be interpreted in accordance with the laws in force in Switzerland. The court having jurisdiction is the defendant's jurisdiction, that is :
+            - State of California, County of Santa Clara, in USA, for the Licensee
+            - Yverdon-les-Bains, Vaud, in Switzerland, for the Licensor.
+        </gco:CharacterString>
+               </useLimitation>
+               <accessConstraints>
+                  <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="restricted" codeSpace="ISOTC211/19115">restricted</MD_RestrictionCode>
+               </accessConstraints>
+               <useConstraints>
+                  <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="license" codeSpace="ISOTC211/19115">license</MD_RestrictionCode>
+               </useConstraints>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>Bibliography for Georeferenced Historical Vector Data 1</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2009-01-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/vz960gb58522</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>Yverdon-les-Bains, Switzerland</gco:CharacterString>
+                                       </deliveryPoint>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Nüssli, Christos</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Nüssli, Marc-Antoine</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="crossReference" codeSpace="ISOTC211/19115">crossReference</DS_AssociationTypeCode>
+               </associationType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>Euratlas Georeferenced Historical Vector Data</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2010-01-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/vz960gb58522</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Nüssli, Christos</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>EurAtlas-Nüssli</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>Yverdon-les-Bains, Switzerland</gco:CharacterString>
+                                       </deliveryPoint>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Nüssli, Marc-Antoine</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                     </presentationForm>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation" codeSpace="ISOTC211/19115">largerWorkCitation</DS_AssociationTypeCode>
+               </associationType>
+               <initiativeType>
+                  <DS_InitiativeTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_InitiativeTypeCode" codeListValue="collection" codeSpace="ISOTC211/19115">collection</DS_InitiativeTypeCode>
+               </initiativeType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <characterSet>
+            <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+         </characterSet>
+         <topicCategory>
+            <MD_TopicCategoryCode>geoscientificInformation</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>elevation</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <description>
+                  <gco:CharacterString>ground condition</gco:CharacterString>
+               </description>
+               <temporalElement>
+                  <EX_TemporalExtent>
+                     <extent>
+                        <gml:TimePeriod gml:id="d0e361">
+                           <gml:beginPosition>0001-01-01T00:00:00</gml:beginPosition>
+                           <gml:endPosition>2000-12-31T00:00:00</gml:endPosition>
+                        </gml:TimePeriod>
+                     </extent>
+                  </EX_TemporalExtent>
+               </temporalElement>
+            </EX_Extent>
+         </extent>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <extentTypeCode>
+                        <gco:Boolean>true</gco:Boolean>
+                     </extentTypeCode>
+                     <westBoundLongitude>
+                        <gco:Decimal>-17.735043</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>50.994807</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>19.659492</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>60.242017</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <contentInfo>
+      <MD_FeatureCatalogueDescription>
+         <complianceCode>
+            <gco:Boolean>false</gco:Boolean>
+         </complianceCode>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <includedWithDataset>
+            <gco:Boolean>true</gco:Boolean>
+         </includedWithDataset>
+         <featureCatalogueCitation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Feature Catalog for Mountains, 500 Meter Contours, Europe, 0-2000</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2010-01-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>fc_identifier</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Nüssli, Marc-Antoine</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+            </CI_Citation>
+         </featureCatalogueCitation>
+      </MD_FeatureCatalogueDescription>
+   </contentInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>Shapefile</gco:CharacterString>
+               </name>
+               <version gco:nilReason="missing"/>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>650-723-2746</gco:CharacterString>
+                                 </voice>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Mitchell Building, 2nd Floor</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Stanford</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>94305</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <transferSize>
+                  <gco:Real>2.087</gco:Real>
+               </transferSize>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>http://purl.stanford.edu/tw787hg9726</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                     </protocol>
+                     <name>
+                        <gco:CharacterString>mountains_500.shp</gco:CharacterString>
+                     </name>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+   <dataQualityInfo>
+      <DQ_DataQuality>
+         <scope>
+            <DQ_Scope>
+               <level>
+                  <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+               </level>
+            </DQ_Scope>
+         </scope>
+         <report>
+            <DQ_ConceptualConsistency>
+               <measureDescription>
+                  <gco:CharacterString>Unknown</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_ConceptualConsistency>
+         </report>
+         <report>
+            <DQ_CompletenessOmission>
+               <measureDescription>
+                  <gco:CharacterString>Unknown</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_CompletenessOmission>
+         </report>
+         <report>
+            <DQ_QuantitativeAttributeAccuracy>
+               <measureDescription>
+                  <gco:CharacterString>Unknown</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_QuantitativeAttributeAccuracy>
+         </report>
+         <report>
+            <DQ_AbsoluteExternalPositionalAccuracy>
+               <measureDescription>
+                  <gco:CharacterString>Unknown</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_AbsoluteExternalPositionalAccuracy>
+         </report>
+         <lineage>
+            <LI_Lineage>
+               <processStep>
+                  <LI_ProcessStep>
+                     <description>
+                        <gco:CharacterString>This vector shapefile was downloaded from the publisher in March of 2010. The shapefiles were exported to an ESRI ArcSDE 9.3.1 database with the ArcCatalog 9.3 "Feature Class to Feature Class" tool.</gco:CharacterString>
+                     </description>
+                     <dateTime>
+                        <gco:DateTime>2010-01-01T00:00:00</gco:DateTime>
+                     </dateTime>
+                     <processor>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Harvard Geospatial Library</gco:CharacterString>
+                           </organisationName>
+                           <positionName>
+                              <gco:CharacterString>GIS Technician</gco:CharacterString>
+                           </positionName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <phone>
+                                    <CI_Telephone>
+                                       <voice>
+                                          <gco:CharacterString>617-495-2417</gco:CharacterString>
+                                       </voice>
+                                       <facsimile>
+                                          <gco:CharacterString>617-496-0440</gco:CharacterString>
+                                       </facsimile>
+                                    </CI_Telephone>
+                                 </phone>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>Office for Information Systems</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>Harvard University Library</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>90 Mount Auburn Street</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <city>
+                                          <gco:CharacterString>Cambridge</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>MA</gco:CharacterString>
+                                       </administrativeArea>
+                                       <postalCode>
+                                          <gco:CharacterString>02138</gco:CharacterString>
+                                       </postalCode>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>hgl_ref@hulmail.harvard.edu</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                                 <hoursOfService>
+                                    <gco:CharacterString>Monday - Friday, 9:00 am - 4:00 pm EST-USA</gco:CharacterString>
+                                 </hoursOfService>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </processor>
+                     <source>
+                        <LI_Source>
+                           <sourceCitation>
+                              <CI_Citation>
+                                 <title gco:nilReason="missing"/>
+                                 <alternateTitle>
+                                    <gco:CharacterString>euratlas</gco:CharacterString>
+                                 </alternateTitle>
+                                 <date gco:nilReason="missing"/>
+                              </CI_Citation>
+                           </sourceCitation>
+                        </LI_Source>
+                     </source>
+                     <source>
+                        <LI_Source>
+                           <sourceCitation>
+                              <CI_Citation>
+                                 <title gco:nilReason="missing"/>
+                                 <alternateTitle>
+                                    <gco:CharacterString>SDE vector</gco:CharacterString>
+                                 </alternateTitle>
+                                 <date gco:nilReason="missing"/>
+                              </CI_Citation>
+                           </sourceCitation>
+                        </LI_Source>
+                     </source>
+                  </LI_ProcessStep>
+               </processStep>
+               <source>
+                  <LI_Source>
+                     <description>
+                        <gco:CharacterString>Source dataset</gco:CharacterString>
+                     </description>
+                     <sourceCitation>
+                        <CI_Citation>
+                           <title>
+                              <gco:CharacterString>Euratlas Georeferenced Historical Vector Data</gco:CharacterString>
+                           </title>
+                           <alternateTitle>
+                              <gco:CharacterString>euratlas</gco:CharacterString>
+                           </alternateTitle>
+                           <date>
+                              <CI_Date>
+                                 <date>
+                                    <gco:Date>2010-01-01</gco:Date>
+                                 </date>
+                                 <dateType>
+                                    <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                                 </dateType>
+                              </CI_Date>
+                           </date>
+                           <citedResponsibleParty>
+                              <CI_ResponsibleParty>
+                                 <organisationName>
+                                    <gco:CharacterString>Euratlas-Nüssli</gco:CharacterString>
+                                 </organisationName>
+                                 <contactInfo>
+                                    <CI_Contact>
+                                       <address>
+                                          <CI_Address>
+                                             <deliveryPoint>
+                                                <gco:CharacterString>Yverdon-les-Bains, Switzerland</gco:CharacterString>
+                                             </deliveryPoint>
+                                          </CI_Address>
+                                       </address>
+                                    </CI_Contact>
+                                 </contactInfo>
+                                 <role>
+                                    <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                                 </role>
+                              </CI_ResponsibleParty>
+                           </citedResponsibleParty>
+                           <citedResponsibleParty>
+                              <CI_ResponsibleParty>
+                                 <organisationName>
+                                    <gco:CharacterString>Nüssli, Christos</gco:CharacterString>
+                                 </organisationName>
+                                 <role>
+                                    <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                                 </role>
+                              </CI_ResponsibleParty>
+                           </citedResponsibleParty>
+                           <citedResponsibleParty>
+                              <CI_ResponsibleParty>
+                                 <organisationName>
+                                    <gco:CharacterString>EurAtlas-Nüssli</gco:CharacterString>
+                                 </organisationName>
+                                 <role>
+                                    <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                                 </role>
+                              </CI_ResponsibleParty>
+                           </citedResponsibleParty>
+                           <citedResponsibleParty>
+                              <CI_ResponsibleParty>
+                                 <organisationName>
+                                    <gco:CharacterString>Nüssli, Marc-Antoine</gco:CharacterString>
+                                 </organisationName>
+                                 <role>
+                                    <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                                 </role>
+                              </CI_ResponsibleParty>
+                           </citedResponsibleParty>
+                           <presentationForm>
+                              <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                           </presentationForm>
+                        </CI_Citation>
+                     </sourceCitation>
+                     <sourceExtent>
+                        <EX_Extent>
+                           <description>
+                              <gco:CharacterString>publication date</gco:CharacterString>
+                           </description>
+                           <temporalElement>
+                              <EX_TemporalExtent>
+                                 <extent>
+                                    <gml:TimeInstant gml:id="d0e454">
+                                       <gml:timePosition>2010-01-01</gml:timePosition>
+                                    </gml:TimeInstant>
+                                 </extent>
+                              </EX_TemporalExtent>
+                           </temporalElement>
+                        </EX_Extent>
+                     </sourceExtent>
+                  </LI_Source>
+               </source>
+            </LI_Lineage>
+         </lineage>
+      </DQ_DataQuality>
+   </dataQualityInfo>
+</MD_Metadata>

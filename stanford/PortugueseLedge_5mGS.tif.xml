@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <fileIdentifier>
+      <gco:CharacterString>edu.stanford.purl:sk620xk5169</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <parentIdentifier>
+      <gco:CharacterString>http://purl.stanford.edu/xj312cd7018.mods</gco:CharacterString>
+   </parentIdentifier>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <organisationName>
+            <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+         </organisationName>
+         <positionName>
+            <gco:CharacterString>Metadata Analyst</gco:CharacterString>
+         </positionName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>650-723-2746</gco:CharacterString>
+                     </voice>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>Mitchell Building, 2nd Floor</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Stanford</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>California</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>94305</gco:CharacterString>
+                     </postalCode>
+                     <electronicMailAddress>
+                        <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2014-02-20</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2007</gco:CharacterString>
+   </metadataStandardVersion>
+   <dataSetURI>
+      <gco:CharacterString>http://purl.stanford.edu/sk620xk5169</gco:CharacterString>
+   </dataSetURI>
+   <spatialRepresentationInfo>
+      <MD_Georectified>
+         <numberOfDimensions>
+            <gco:Integer>2</gco:Integer>
+         </numberOfDimensions>
+         <axisDimensionProperties>
+            <MD_Dimension>
+               <dimensionName>
+                  <MD_DimensionNameTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="column" codeSpace="ISOTC211/19115">column</MD_DimensionNameTypeCode>
+               </dimensionName>
+               <dimensionSize>
+                  <gco:Integer>1961</gco:Integer>
+               </dimensionSize>
+               <resolution>
+                  <gco:Measure uom="Meter">5.000000</gco:Measure>
+               </resolution>
+            </MD_Dimension>
+         </axisDimensionProperties>
+         <axisDimensionProperties>
+            <MD_Dimension>
+               <dimensionName>
+                  <MD_DimensionNameTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="row" codeSpace="ISOTC211/19115">row</MD_DimensionNameTypeCode>
+               </dimensionName>
+               <dimensionSize>
+                  <gco:Integer>1161</gco:Integer>
+               </dimensionSize>
+               <resolution>
+                  <gco:Measure uom="Meter">5.000000</gco:Measure>
+               </resolution>
+            </MD_Dimension>
+         </axisDimensionProperties>
+         <cellGeometry>
+            <MD_CellGeometryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CellGeometryCode" codeListValue="area" codeSpace="ISOTC211/19115">area</MD_CellGeometryCode>
+         </cellGeometry>
+         <transformationParameterAvailability>
+            <gco:Boolean>true</gco:Boolean>
+         </transformationParameterAvailability>
+         <checkPointAvailability>
+            <gco:Boolean>false</gco:Boolean>
+         </checkPointAvailability>
+         <cornerPoints>
+            <gml:Point gml:id="d0e792">
+               <gml:pos>586497.500000 4059197.500000</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <cornerPoints>
+            <gml:Point gml:id="d0e795">
+               <gml:pos>586497.500000 4065002.500000</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <cornerPoints>
+            <gml:Point gml:id="d0e798">
+               <gml:pos>596302.500000 4065002.500000</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <cornerPoints>
+            <gml:Point gml:id="d0e801">
+               <gml:pos>596302.500000 4059197.500000</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <centerPoint>
+            <gml:Point gml:id="d0e804">
+               <gml:pos>591400.000000 4062100.000000</gml:pos>
+            </gml:Point>
+         </centerPoint>
+         <pointInPixel>
+            <MD_PixelOrientationCode>center</MD_PixelOrientationCode>
+         </pointInPixel>
+      </MD_Georectified>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>26910</gco:CharacterString>
+               </code>
+               <codeSpace>
+                  <gco:CharacterString>EPSG</gco:CharacterString>
+               </codeSpace>
+               <version>
+                  <gco:CharacterString>7.4.1</gco:CharacterString>
+               </version>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>5-Meter Shaded Relief Multibeam Bathymetry Image (Grayscale): Portuguese Ledge, Monterey Bay, California, 2008</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2010-01-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>http://purl.stanford.edu/sk620xk5169</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Seafloor Mapping Lab</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Seafloor Mapping Lab</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>831-582-3529</gco:CharacterString>
+                                 </voice>
+                                 <facsimile>
+                                    <gco:CharacterString>831-582-3073</gco:CharacterString>
+                                 </facsimile>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Division of Science and Environmental Policy (SEP)</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>California State University, Monterey Bay</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>100 Campus Center</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Seaside</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>93955</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+               <collectiveTitle>
+                  <gco:CharacterString>California Seafloor Mapping Project</gco:CharacterString>
+               </collectiveTitle>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>This raster dataset is a 5-meter resolution grayscale GeoTIFF image containing multibeam bathymetry data for the Portuguese Ledge region of Monterey Bay, California. The surveys for Portuguese Ledge were conducted on June 14 &amp;amp; 16, 2008. This layer was created as part of the California Seafloor Mapping Project.</gco:CharacterString>
+         </abstract>
+         <purpose>
+            <gco:CharacterString>Marine data offered here represent the efforts of a comprehensive state waters mapping program for California launched by the California State Coastal Conservancy, Ocean Protection Council, Department of Fish and Game, and the NOAA National Marine Sanctuary Program. The ultimate goal is the creation of a high-resolution 1:24,000 scale geologic and habitat base map series covering all of California's 14,500 km2 state waters out to the 3 mile limit, and support of the state's Marine Life Protection Act Initiative (MLPA) goal to create a statewide network of Marine Protected Areas (MPAs). This statewide project requires, involves and leverages expertise from industry, resource management agencies and academia. The tiered mapping campaign involves the use of state-of-the-art sonar, LIDAR (aerial laser) and video seafloor mapping technologies; computer aided classification and visualization; expert geologic and habitat interpretations codified into strip maps spanning California's land/sea boundary; and the creation of an online, publicly accessible data repository for the dissemination of all mapping products.</gco:CharacterString>
+         </purpose>
+         <credit>
+            <gco:CharacterString>Seafloor Mapping Lab. (2010) 5-Meter Shaded Relief Multibeam Bathymetry Image (Grayscale): Portuguese Ledge, Monterey Bay, California, 2008. Seafloor Mapping Lab.</gco:CharacterString>
+         </credit>
+         <status>
+            <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+         </status>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <individualName>
+                  <gco:CharacterString>Rikk Kvitek, PhD</gco:CharacterString>
+               </individualName>
+               <organisationName>
+                  <gco:CharacterString>Seafloor Mapping Lab</gco:CharacterString>
+               </organisationName>
+               <positionName>
+                  <gco:CharacterString>Director</gco:CharacterString>
+               </positionName>
+               <contactInfo>
+                  <CI_Contact>
+                     <phone>
+                        <CI_Telephone>
+                           <voice>
+                              <gco:CharacterString>831.582.3529</gco:CharacterString>
+                           </voice>
+                           <voice>
+                              <gco:CharacterString>831.582.3529</gco:CharacterString>
+                           </voice>
+                           <facsimile>
+                              <gco:CharacterString>831.582.7073</gco:CharacterString>
+                           </facsimile>
+                        </CI_Telephone>
+                     </phone>
+                     <address>
+                        <CI_Address>
+                           <deliveryPoint>
+                              <gco:CharacterString>100 Campus Center, Bldg 13</gco:CharacterString>
+                           </deliveryPoint>
+                           <city>
+                              <gco:CharacterString>Seaside</gco:CharacterString>
+                           </city>
+                           <administrativeArea>
+                              <gco:CharacterString>California</gco:CharacterString>
+                           </administrativeArea>
+                           <postalCode>
+                              <gco:CharacterString>93955</gco:CharacterString>
+                           </postalCode>
+                           <country>
+                              <gco:CharacterString>US</gco:CharacterString>
+                           </country>
+                           <electronicMailAddress>
+                              <gco:CharacterString>rkvitek@csumb.edu</gco:CharacterString>
+                           </electronicMailAddress>
+                        </CI_Address>
+                     </address>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <resourceMaintenance>
+            <MD_MaintenanceInformation>
+               <maintenanceAndUpdateFrequency>
+                  <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+               </maintenanceAndUpdateFrequency>
+            </MD_MaintenanceInformation>
+         </resourceMaintenance>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Monterey Bay (Calif.)</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>geonames</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <edition>
+                        <gco:CharacterString>3.1</gco:CharacterString>
+                     </edition>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://www.geonames.org/ontology#</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>2008</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+               </type>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Continental margins</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Multibeam mapping</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>lcsh</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2011-04-26</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Downloadable Data</gco:CharacterString>
+               </keyword>
+               <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>These data are not copyrighted; however in the event that you publish or display results using any of the mapping data available on this download site, we request that you include the following acknowledgment: Data used in this study were acquired, processed, archived, and distributed by the Seafloor Mapping Lab of California State University Monterey Bay.</gco:CharacterString>
+               </useLimitation>
+               <accessConstraints>
+                  <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="restricted" codeSpace="ISOTC211/19115">restricted</MD_RestrictionCode>
+               </accessConstraints>
+               <useConstraints>
+                  <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="restricted" codeSpace="ISOTC211/19115">restricted</MD_RestrictionCode>
+               </useConstraints>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>California Seafloor Mapping Project</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2010-01-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/xj312cd7018</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Seafloor Mapping Lab</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Seafloor Mapping Lab</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <phone>
+                                    <CI_Telephone>
+                                       <voice>
+                                          <gco:CharacterString>831-582-3529</gco:CharacterString>
+                                       </voice>
+                                       <facsimile>
+                                          <gco:CharacterString>831-582-3073</gco:CharacterString>
+                                       </facsimile>
+                                    </CI_Telephone>
+                                 </phone>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>Division of Science and Environmental Policy (SEP)</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>California State University, Monterey Bay</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>100 Campus Center</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <city>
+                                          <gco:CharacterString>Seaside</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>California</gco:CharacterString>
+                                       </administrativeArea>
+                                       <postalCode>
+                                          <gco:CharacterString>93955</gco:CharacterString>
+                                       </postalCode>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation" codeSpace="ISOTC211/19115">largerWorkCitation</DS_AssociationTypeCode>
+               </associationType>
+               <initiativeType>
+                  <DS_InitiativeTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_InitiativeTypeCode" codeListValue="collection" codeSpace="ISOTC211/19115">collection</DS_InitiativeTypeCode>
+               </initiativeType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid" codeSpace="ISOTC211/19115">grid</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <characterSet>
+            <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+         </characterSet>
+         <topicCategory>
+            <MD_TopicCategoryCode>elevation</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>imageryBaseMapsEarthCover</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>inlandWaters</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <description>
+                  <gco:CharacterString>ground condition</gco:CharacterString>
+               </description>
+               <temporalElement>
+                  <EX_TemporalExtent>
+                     <extent>
+                        <gml:TimePeriod gml:id="d0e603">
+                           <gml:beginPosition>2008-06-14T00:00:00</gml:beginPosition>
+                           <gml:endPosition>2008-06-16T00:00:00</gml:endPosition>
+                        </gml:TimePeriod>
+                     </extent>
+                  </EX_TemporalExtent>
+               </temporalElement>
+            </EX_Extent>
+         </extent>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <extentTypeCode>
+                        <gco:Boolean>true</gco:Boolean>
+                     </extentTypeCode>
+                     <westBoundLongitude>
+                        <gco:Decimal>-122.031981</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>-121.921536</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>36.673526</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>36.726792</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+         <supplementalInformation>
+            <gco:CharacterString>MBES and side scan data for the South Monterey Bay region were acquired using a 200 KHz/ 400 KHz Reson 7125 sonar aboard the R/V VenTresca by the Seafloor Mapping Lab at California State University Monterey Bay. Prior to data collection, a series of planned survey lines were created using the survey navigation and planning software Hypack 2008 from Hypack, Inc. An Applanix POS/MV 320 v4 system was used to provide position and attitude data during data collection and accounted for vessel motion such as heave, pitch, and roll (position accuracy ± 2m, pitch, roll and heading accuracy ±0.02°, heave accuracy ± 5% or 5cm) with input from a Cnav® enabled NAVCON 2050 GPS. KGPS altitude data were used to account for tide cycle fluctuations and sound velocity profiles were collected with an Applied Microsystems SVPlus sound velocimeter. Data acquisition, post-processing, and final products derived from multibeam bathymetry data were handled by the Seafloor Mapping Lab at CSUMB.</gco:CharacterString>
+         </supplementalInformation>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <contentInfo>
+      <MD_ImageDescription>
+         <attributeDescription gco:nilReason="missing"/>
+         <contentType>
+            <MD_CoverageContentTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CoverageContentTypeCode" codeListValue="image" codeSpace="ISOTC211/19115">image</MD_CoverageContentTypeCode>
+         </contentType>
+         <dimension>
+            <MD_Band>
+               <descriptor>
+                  <gco:CharacterString>Band_1</gco:CharacterString>
+               </descriptor>
+               <maxValue>
+                  <gco:Real>255</gco:Real>
+               </maxValue>
+               <minValue>
+                  <gco:Real>26</gco:Real>
+               </minValue>
+               <units>
+                  <gml:UnitDefinition gml:id="d0e836">
+                     <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+                  </gml:UnitDefinition>
+               </units>
+               <bitsPerValue>
+                  <gco:Integer>8</gco:Integer>
+               </bitsPerValue>
+            </MD_Band>
+         </dimension>
+      </MD_ImageDescription>
+   </contentInfo>
+   <contentInfo>
+      <MD_FeatureCatalogueDescription>
+         <complianceCode>
+            <gco:Boolean>false</gco:Boolean>
+         </complianceCode>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <includedWithDataset>
+            <gco:Boolean>true</gco:Boolean>
+         </includedWithDataset>
+         <featureCatalogueCitation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Feature Catalog for 5-Meter Shaded Relief Multibeam Bathymetry Image (Grayscale): Portuguese Ledge, Monterey Bay, California, 2008</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2010-01-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>39f2fee8-10e6-4ac0-b559-7024b707625e</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Seafloor Mapping Lab</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+            </CI_Citation>
+         </featureCatalogueCitation>
+      </MD_FeatureCatalogueDescription>
+   </contentInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>GeoTIFF</gco:CharacterString>
+               </name>
+               <version gco:nilReason="missing"/>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>650-723-2746</gco:CharacterString>
+                                 </voice>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Stanford</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>94305</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>http://purl.stanford.edu/sk620xk5169</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                     </protocol>
+                     <name>
+                        <gco:CharacterString>PortugueseLedge_5mGS.tif</gco:CharacterString>
+                     </name>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+   <dataQualityInfo>
+      <DQ_DataQuality>
+         <scope>
+            <DQ_Scope>
+               <level>
+                  <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+               </level>
+            </DQ_Scope>
+         </scope>
+         <report>
+            <DQ_AbsoluteExternalPositionalAccuracy>
+               <measureDescription>
+                  <gco:CharacterString>±2 m horizontal, but varies with depth</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_AbsoluteExternalPositionalAccuracy>
+         </report>
+         <report>
+            <DQ_AbsoluteExternalPositionalAccuracy>
+               <measureDescription>
+                  <gco:CharacterString>± 20 cm vertical, but varies with depth</gco:CharacterString>
+               </measureDescription>
+               <result gco:nilReason="missing"/>
+            </DQ_AbsoluteExternalPositionalAccuracy>
+         </report>
+         <lineage>
+            <LI_Lineage>
+               <processStep>
+                  <LI_ProcessStep>
+                     <description>
+                        <gco:CharacterString>Multibeam bathymetry data were post-processed using CARIS HIPS and SIPS hydrographic data cleaning system software. Applanix POSPAC software (v 4.31) was used to process the logged POS M/V files and create a Smoothed Best Estimated Trajectory (SBET) composed of an integrated inertial/GPS solution for use in horizontal and vertical positioning of sounding data. Correction for vertical oscillation due to heave and tide was accomplished using these SBET files. Final x,y,z soundings, surface models, and derived products are relative to the NAVD88 Geoid09 vertical datum. Raw Reson s7k survey data was converted to HDCS format within CARIS HIPS. Erroneous soundings were removed via basic filtering and detailed swath and subset cleaning; the remaining high-confidence soundings were used in surface model creation and final product generation. Shaded-relief geotiffs were exported from a Combined Uncertainty and Bathymetry Estimator (CUBE) Surface with 2m (5m, or 10m) resolution in sunshaded grayscale and 10-color imagery. All x,y,z files, DEMs, shaded relief images, and other products were generated in the Universal Transverse Mercator (UTM) coordinate system, Zone 10N, NAD_83. Post-survey data cleaning, CUBE surface creation, and final products derived from post-processed multibeam bathymetry data were applied by the Seafloor Mapping Lab at CSUMB. Geotiff info (Caris) Vertical exaggeration 3 Elevation 45 Sun azimuth 45 Project info (Caris/Fledermaus) 2m, 0-85m depth Total # of lines 34 Linear distance (m) 80,335 Total # of soundings: 22,459,136 Soundings from AvGrid 869,929</gco:CharacterString>
+                     </description>
+                     <dateTime>
+                        <gco:DateTime>2010-12-31T00:00:00</gco:DateTime>
+                     </dateTime>
+                     <processor>
+                        <CI_ResponsibleParty>
+                           <individualName>
+                              <gco:CharacterString>Pat Iampietro</gco:CharacterString>
+                           </individualName>
+                           <organisationName>
+                              <gco:CharacterString>Seafloor Mapping Lab</gco:CharacterString>
+                           </organisationName>
+                           <positionName>
+                              <gco:CharacterString>Projects Manager, Chief Hydrographer</gco:CharacterString>
+                           </positionName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <phone>
+                                    <CI_Telephone>
+                                       <voice>
+                                          <gco:CharacterString>831.582.4214</gco:CharacterString>
+                                       </voice>
+                                       <facsimile>
+                                          <gco:CharacterString>831.582.3073</gco:CharacterString>
+                                       </facsimile>
+                                    </CI_Telephone>
+                                 </phone>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>100 Campus Center, Bldg 13</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <city>
+                                          <gco:CharacterString>Seaside</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>California</gco:CharacterString>
+                                       </administrativeArea>
+                                       <postalCode>
+                                          <gco:CharacterString>93955</gco:CharacterString>
+                                       </postalCode>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>piampietro@csumb.edu</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </processor>
+                  </LI_ProcessStep>
+               </processStep>
+            </LI_Lineage>
+         </lineage>
+      </DQ_DataQuality>
+   </dataQualityInfo>
+</MD_Metadata>

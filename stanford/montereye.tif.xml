@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <fileIdentifier>
+      <gco:CharacterString>edu.purl.stanford:vj961zt5484</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <parentIdentifier>
+      <gco:CharacterString>http://purl.stanford.edu/zv845sk1001.mods</gco:CharacterString>
+   </parentIdentifier>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <organisationName>
+            <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+         </organisationName>
+         <positionName>
+            <gco:CharacterString>Metadata Analyst</gco:CharacterString>
+         </positionName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>650-723-2746</gco:CharacterString>
+                     </voice>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Stanford</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>California</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>94305</gco:CharacterString>
+                     </postalCode>
+                     <country>
+                        <gco:CharacterString>US</gco:CharacterString>
+                     </country>
+                     <electronicMailAddress>
+                        <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2014-10-16</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2007</gco:CharacterString>
+   </metadataStandardVersion>
+   <dataSetURI>
+      <gco:CharacterString>http://purl.stanford.edu/vj961zt5484</gco:CharacterString>
+   </dataSetURI>
+   <spatialRepresentationInfo>
+      <MD_Georectified>
+         <numberOfDimensions>
+            <gco:Integer>2</gco:Integer>
+         </numberOfDimensions>
+         <axisDimensionProperties>
+            <MD_Dimension>
+               <dimensionName>
+                  <MD_DimensionNameTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="column" codeSpace="ISOTC211/19115">column</MD_DimensionNameTypeCode>
+               </dimensionName>
+               <dimensionSize>
+                  <gco:Integer>2859</gco:Integer>
+               </dimensionSize>
+               <resolution>
+                  <gco:Measure uom="Degree">0.000138</gco:Measure>
+               </resolution>
+            </MD_Dimension>
+         </axisDimensionProperties>
+         <axisDimensionProperties>
+            <MD_Dimension>
+               <dimensionName>
+                  <MD_DimensionNameTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="row" codeSpace="ISOTC211/19115">row</MD_DimensionNameTypeCode>
+               </dimensionName>
+               <dimensionSize>
+                  <gco:Integer>4935</gco:Integer>
+               </dimensionSize>
+               <resolution>
+                  <gco:Measure uom="Degree">0.000138</gco:Measure>
+               </resolution>
+            </MD_Dimension>
+         </axisDimensionProperties>
+         <cellGeometry>
+            <MD_CellGeometryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CellGeometryCode" codeListValue="area" codeSpace="ISOTC211/19115">area</MD_CellGeometryCode>
+         </cellGeometry>
+         <transformationParameterAvailability>
+            <gco:Boolean>true</gco:Boolean>
+         </transformationParameterAvailability>
+         <checkPointAvailability>
+            <gco:Boolean>false</gco:Boolean>
+         </checkPointAvailability>
+         <cornerPoints>
+            <gml:Point gml:id="d0e479">
+               <gml:pos>-121.912820 35.567691</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <cornerPoints>
+            <gml:Point gml:id="d0e482">
+               <gml:pos>-121.912820 36.251084</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <cornerPoints>
+            <gml:Point gml:id="d0e485">
+               <gml:pos>-121.516909 36.251084</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <cornerPoints>
+            <gml:Point gml:id="d0e488">
+               <gml:pos>-121.516909 35.567691</gml:pos>
+            </gml:Point>
+         </cornerPoints>
+         <centerPoint>
+            <gml:Point gml:id="d0e491">
+               <gml:pos>-121.714865 35.909388</gml:pos>
+            </gml:Point>
+         </centerPoint>
+         <pointInPixel>
+            <MD_PixelOrientationCode>center</MD_PixelOrientationCode>
+         </pointInPixel>
+      </MD_Georectified>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>4326</gco:CharacterString>
+               </code>
+               <codeSpace>
+                  <gco:CharacterString>EPSG</gco:CharacterString>
+               </codeSpace>
+               <version>
+                  <gco:CharacterString>7.9.4</gco:CharacterString>
+               </version>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Acoustic Reflexivity (Backscatter) Image: Upper Lucia Canyon, Monterey Bay, California, 1998</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2000-11-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>http://purl.stanford.edu/vj961zt5484</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Monterey Bay Aquarium Research Institute</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>831-775-1700</gco:CharacterString>
+                                 </voice>
+                                 <facsimile>
+                                    <gco:CharacterString>831-775-1620</gco:CharacterString>
+                                 </facsimile>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>P.O. Box 628</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>7700 Sandholdt Road</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Moss Landing</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>95039-0628</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>cdrom@mbari.org</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                           <contactInstructions>
+                              <gco:CharacterString>http://www.mbari.org</gco:CharacterString>
+                           </contactInstructions>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Monterey Bay Aquarium Research Institute</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>831-775-1700</gco:CharacterString>
+                                 </voice>
+                                 <facsimile>
+                                    <gco:CharacterString>831-775-1620</gco:CharacterString>
+                                 </facsimile>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>P.O. Box 628</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>7700 Sandholdt Road</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Moss Landing</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>95039-0628</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>cdrom@mbari.org</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                           <contactInstructions>
+                              <gco:CharacterString>http://www.mbari.org</gco:CharacterString>
+                           </contactInstructions>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+               <series>
+                  <CI_Series>
+                     <name>
+                        <gco:CharacterString>MBARI Digital Data Series</gco:CharacterString>
+                     </name>
+                     <issueIdentification>
+                        <gco:CharacterString>No. 3</gco:CharacterString>
+                     </issueIdentification>
+                  </CI_Series>
+               </series>
+               <otherCitationDetails>
+                  <gco:CharacterString>This layer was acquired from a CD-ROM compiled by the Monterey Bay Aquarium Research Institute (MBARI) during the Fall of 2000. It is intended to be used in conjunction with ArcView® (with the Spatial Analyst Extension), ArcExplorer (TM), or ARC/INFO® Geographic Information System (GIS) software by ESRI. </gco:CharacterString>
+               </otherCitationDetails>
+               <collectiveTitle>
+                  <gco:CharacterString>MBARI Monterey Bay Multibeam Survey</gco:CharacterString>
+               </collectiveTitle>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>This GeoTIFF shows multibeam backscatter imagery extraced from gridded bathymetry of Upper Lucia Canyon in Monterey Bay, California. Original bathymetric data were collected in 1998 using a 30kHz hull-mounted Simrad EM300 multibeam echo sounder system. Grids for this coverage area have cell size of 25 meters. This layer is part of the MBARI Monterey Bay Multibeam Survey collection, a compilation of data and imagery of the Monterey Bay and the adjacent seafloor, including coastline, imagery, and bathymetry. </gco:CharacterString>
+         </abstract>
+         <purpose>
+            <gco:CharacterString>This collection of data provides documented layers of of the Monterey Bay to persons/institutions of interest throughout the research and educational communities. These maps help define the geological variability of the seafloor and provide a detailed framework for future oceanographic research, monitoring, and management activities.</gco:CharacterString>
+         </purpose>
+         <credit>
+            <gco:CharacterString>Monterey Bay Aquarium Research Institute. (2000) Acoustic Reflexivity (Backscatter) Image: Upper Lucia Canyon, Monterey Bay, California, 1998. Monterey Bay Aquarium Research Institute.</gco:CharacterString>
+         </credit>
+         <status>
+            <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+         </status>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <organisationName>
+                  <gco:CharacterString>Monterey Bay Aquarium Research Institute</gco:CharacterString>
+               </organisationName>
+               <contactInfo>
+                  <CI_Contact>
+                     <phone>
+                        <CI_Telephone>
+                           <voice>
+                              <gco:CharacterString>831-775-1700</gco:CharacterString>
+                           </voice>
+                           <facsimile>
+                              <gco:CharacterString>831-775-1620</gco:CharacterString>
+                           </facsimile>
+                        </CI_Telephone>
+                     </phone>
+                     <address>
+                        <CI_Address>
+                           <deliveryPoint>
+                              <gco:CharacterString>P.O. Box 628</gco:CharacterString>
+                           </deliveryPoint>
+                           <deliveryPoint>
+                              <gco:CharacterString>7700 Sandholdt Road</gco:CharacterString>
+                           </deliveryPoint>
+                           <city>
+                              <gco:CharacterString>Moss Landing</gco:CharacterString>
+                           </city>
+                           <administrativeArea>
+                              <gco:CharacterString>California</gco:CharacterString>
+                           </administrativeArea>
+                           <postalCode>
+                              <gco:CharacterString>95039-0628</gco:CharacterString>
+                           </postalCode>
+                           <country>
+                              <gco:CharacterString>US</gco:CharacterString>
+                           </country>
+                           <electronicMailAddress>
+                              <gco:CharacterString>cdrom@mbari.org</gco:CharacterString>
+                           </electronicMailAddress>
+                        </CI_Address>
+                     </address>
+                     <contactInstructions>
+                        <gco:CharacterString>http://www.mbari.org</gco:CharacterString>
+                     </contactInstructions>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <resourceMaintenance>
+            <MD_MaintenanceInformation>
+               <maintenanceAndUpdateFrequency>
+                  <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+               </maintenanceAndUpdateFrequency>
+            </MD_MaintenanceInformation>
+         </resourceMaintenance>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Monterey Bay (Calif.)</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>geonames</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <edition>
+                        <gco:CharacterString>3.1</gco:CharacterString>
+                     </edition>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://www.geonames.org/ontology#</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>1998</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+               </type>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Bathymetric maps</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Multibeam mapping</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Digital elevation models</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>lcsh</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2011-04-26</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Downloadable Data</gco:CharacterString>
+               </keyword>
+               <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>Users are not permitted to make any commercial use of the data, to sell, assign, sublicense, or otherwise transfer the Data or to remove any copyright notice, without prior written permission from MBARI. The Data have not been designed as a navigational aid, and you are not permitted to use them for this purpose. In addition, you are not permitted to use MBARI's name or its initials (a registered trademark) or to suggest that  MBARI endorses your project or product, without its express written 
+consent.</gco:CharacterString>
+               </useLimitation>
+               <accessConstraints>
+                  <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="restricted" codeSpace="ISOTC211/19115">restricted</MD_RestrictionCode>
+               </accessConstraints>
+               <useConstraints>
+                  <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="restricted" codeSpace="ISOTC211/19115">restricted</MD_RestrictionCode>
+               </useConstraints>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>MBARI Monterey Bay Multibeam Survey</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2000-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/zv845sk1001</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Monterey Bay Aquarium Research Institute</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <phone>
+                                    <CI_Telephone>
+                                       <voice>
+                                          <gco:CharacterString>831-775-1700</gco:CharacterString>
+                                       </voice>
+                                       <facsimile>
+                                          <gco:CharacterString>831-775-1620</gco:CharacterString>
+                                       </facsimile>
+                                    </CI_Telephone>
+                                 </phone>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>P.O. Box 628</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>7700 Sandholdt Road</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <city>
+                                          <gco:CharacterString>Moss Landing</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>California</gco:CharacterString>
+                                       </administrativeArea>
+                                       <postalCode>
+                                          <gco:CharacterString>95039-0628</gco:CharacterString>
+                                       </postalCode>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>cdrom@mbari.org</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                                 <contactInstructions>
+                                    <gco:CharacterString>http://www.mbari.org</gco:CharacterString>
+                                 </contactInstructions>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Monterey Bay Aquarium Research Institute</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <phone>
+                                    <CI_Telephone>
+                                       <voice>
+                                          <gco:CharacterString>831-775-1700</gco:CharacterString>
+                                       </voice>
+                                       <facsimile>
+                                          <gco:CharacterString>831-775-1620</gco:CharacterString>
+                                       </facsimile>
+                                    </CI_Telephone>
+                                 </phone>
+                                 <address>
+                                    <CI_Address>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>P.O. Box 628</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <deliveryPoint>
+                                          <gco:CharacterString>7700 Sandholdt Road</gco:CharacterString>
+                                       </deliveryPoint>
+                                       <city>
+                                          <gco:CharacterString>Moss Landing</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>California</gco:CharacterString>
+                                       </administrativeArea>
+                                       <postalCode>
+                                          <gco:CharacterString>95039-0628</gco:CharacterString>
+                                       </postalCode>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>cdrom@mbari.org</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                                 <contactInstructions>
+                                    <gco:CharacterString>http://www.mbari.org</gco:CharacterString>
+                                 </contactInstructions>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author" codeSpace="ISOTC211/19115">author</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                     </presentationForm>
+                     <series>
+                        <CI_Series>
+                           <name>
+                              <gco:CharacterString>MBARI Digital Data Series</gco:CharacterString>
+                           </name>
+                           <issueIdentification>
+                              <gco:CharacterString>No. 3</gco:CharacterString>
+                           </issueIdentification>
+                        </CI_Series>
+                     </series>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation" codeSpace="ISOTC211/19115">largerWorkCitation</DS_AssociationTypeCode>
+               </associationType>
+               <initiativeType>
+                  <DS_InitiativeTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_InitiativeTypeCode" codeListValue="collection" codeSpace="ISOTC211/19115">collection</DS_InitiativeTypeCode>
+               </initiativeType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid" codeSpace="ISOTC211/19115">grid</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <characterSet>
+            <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+         </characterSet>
+         <topicCategory>
+            <MD_TopicCategoryCode>imageryBaseMapsEarthCover</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>inlandWaters</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <temporalElement>
+                  <EX_TemporalExtent>
+                     <extent>
+                        <gml:TimePeriod gml:id="d0e255">
+                           <gml:beginPosition>1998-06-01T00:00:00</gml:beginPosition>
+                           <gml:endPosition>1998-06-30T00:00:00</gml:endPosition>
+                        </gml:TimePeriod>
+                     </extent>
+                  </EX_TemporalExtent>
+               </temporalElement>
+            </EX_Extent>
+         </extent>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <extentTypeCode>
+                        <gco:Boolean>true</gco:Boolean>
+                     </extentTypeCode>
+                     <westBoundLongitude>
+                        <gco:Decimal>-121.91282</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>-121.516909</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>35.567691</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>36.251084</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+         <supplementalInformation>
+            <gco:CharacterString>A 560 square kilometer pockmark field containing approximately 1,500 individual depressions lies to the south of the Sur and Lucia Canyons. These features occur on a slope platform at depths ranging from 900 meters to 1,200 meters. The pockmarks have irregular circular rims and cross-sectional profiles resembling an inverted cone with inward dipping slopes of 5° to 6°. Diameters range from 130 meters to 260 meters, and depths from rim to bottom range from 8-12 meters, with the typical pockmark being 200 meters across and 10 meters deep. Pockmark densities range from 1.5/km2 in the north increasing to 6/km2 in the south. The southern extent of the pockmark field is unknown but almost certainly extends beyond the southern edge of the surveyed area.
+
+A levied channel with associated overbank deposits and abandoned channel scars bisects the pockmark field in an east-west direction. The overbank deposits appear to have obliterated previously existing pocks, while newer pocks form linear strings along partly buried older channels. Elsewhere they are distributed so as to maintain some optimum distance from each other, and only rarely do two or more pockmarks coalesce (Maher et al., 1998). </gco:CharacterString>
+         </supplementalInformation>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <contentInfo>
+      <MD_ImageDescription>
+         <attributeDescription gco:nilReason="missing"/>
+         <contentType>
+            <MD_CoverageContentTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CoverageContentTypeCode" codeListValue="image" codeSpace="ISOTC211/19115">image</MD_CoverageContentTypeCode>
+         </contentType>
+         <dimension>
+            <MD_Band>
+               <descriptor>
+                  <gco:CharacterString>Band_1</gco:CharacterString>
+               </descriptor>
+               <units>
+                  <gml:UnitDefinition gml:id="d0e519">
+                     <gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+                  </gml:UnitDefinition>
+               </units>
+               <bitsPerValue>
+                  <gco:Integer>8</gco:Integer>
+               </bitsPerValue>
+            </MD_Band>
+         </dimension>
+      </MD_ImageDescription>
+   </contentInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>Raster Dataset</gco:CharacterString>
+               </name>
+               <version gco:nilReason="missing"/>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>650-723-2746</gco:CharacterString>
+                                 </voice>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Stanford</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>94305</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>http://purl.stanford.edu/vj961zt5484</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                     </protocol>
+                     <name>
+                        <gco:CharacterString>montereye.tif</gco:CharacterString>
+                     </name>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+</MD_Metadata>
