@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="3.4" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+    <title>Shrines: Mazār-i Sharīf, Afghanistan, 2005</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Afghanistan Information Management Service</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <typeOfResource>software, multimedia</typeOfResource>
+  <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026297">Geospatial data</genre>
+  <genre authority="rdacontent" valueURI="http://rdvocab.info/termList/RDAContentType/1001">cartographic dataset</genre>
+  <originInfo>
+    <publisher>Afghanistan Information Management Service</publisher>
+    <place>
+      <placeTerm type="text">Kabul, Kabul, AF</placeTerm>
+    </place>
+    <dateIssued encoding="w3cdtf" keyDate="yes">2005</dateIssued>
+    <dateValid encoding="w3cdtf">2004</dateValid>
+    <dateValid encoding="w3cdtf">2005</dateValid>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form>Shapefile</form>
+    <digitalOrigin>born digital</digitalOrigin>
+  </physicalDescription>
+  <subject>
+    <cartographics>
+      <scale>1:5000</scale>
+      <projection>World Geodetic System (WGS84)</projection>
+      <coordinates>(E 67°6ʹ40ʺ--E 67°6ʹ40ʺ/N 36°42ʹ33ʺ--N 36°42ʹ33ʺ)</coordinates>
+    </cartographics>
+  </subject>
+  <abstract displayLabel="Abstract" lang="eng">This point dataset shows the location of shrines in the city of Mazār-i Sharīf. Afghanistan. This layer was mapped at 1:5,000 scale from the one meter IKONOS satellite imagery. This layer is part of the Topographic Maps of Afghanistan and Kabul dataset which contains shapefiles relating to district and provincial boundaries, land use, transportation, buildings and structures, rivers, settlements and other specific city data.</abstract>
+  <abstract displayLabel="Purpose" lang="eng">This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</abstract>
+  <note displayLabel="Preferred citation" lang="eng">Afghanistan Information Management Service (2005). Shrines: Mazār-i Sharīf, Afghanistan, 2005. Afghanistan Information Management Service. Available at: http://purl.stanford.edu/vq380ny7706</note>
+  <subject>
+    <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects.html" lang="eng">Shrines</topic>
+  </subject>
+  <subject>
+    <geographic lang="eng" valueURI="http://sws.geonames.org/8354719/" authority="geonames" authorityURI="http://www.geonames.org/ontology#">Mazār-i Sharīf (Afghanistan)</geographic>
+  </subject>
+  <subject>
+    <temporal encoding="w3cdtf">2004</temporal>
+  </subject>
+  <subject>
+    <temporal encoding="w3cdtf">2005</temporal>
+  </subject>
+  <subject>
+    <topic authority="ISO19115TopicCategory" authorityURI="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopicCategoryCode" valueURI="location">Location</topic>
+  </subject>
+  <subject>
+    <topic authority="ISO19115TopicCategory" authorityURI="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopicCategoryCode" valueURI="structure">Structure</topic>
+  </subject>
+  <location>
+    <url>http://purl.stanford.edu/vq380ny7706</url>
+  </location>
+  <recordInfo>
+    <recordContentSource>Stanford</recordContentSource>
+    <recordIdentifier>edu.stanford.purl:vq380ny7706</recordIdentifier>
+    <recordOrigin>This record was translated from ISO 19139 to MODS v.3 using an xsl transformation.</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+  <extension displayLabel="geo">
+    <rdf:RDF xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="http://purl.stanford.edu/vq380ny7706">
+        <dc:format>application/x-esri-shapefile; format=Shapefile</dc:format>
+        <dc:type>Dataset#Point</dc:type>
+        <gml:boundedBy>
+          <gml:Envelope gml:srsName="EPSG:4326">
+            <gml:lowerCorner>67.111038 36.709045</gml:lowerCorner>
+            <gml:upperCorner>67.111038 36.709045</gml:upperCorner>
+          </gml:Envelope>
+        </gml:boundedBy>
+        <dc:coverage rdf:resource="http://sws.geonames.org/8354719/about.rdf" dc:language="eng" dc:title="Mazār-i Sharīf (Afghanistan)"/>
+      </rdf:Description>
+    </rdf:RDF>
+  </extension>
+</mods>
