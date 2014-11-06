@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin/>
+        <pubdate>20050731</pubdate>
+        <title>Shrines: Mazār-i Sharīf, Afghanistan, 2005</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>Afghanistan Information Management Service</publish>
+        </pubinfo>
+        <onlink>http://purl.stanford.edu/vq380ny7706</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin/>
+            <pubdate>20050731</pubdate>
+            <title>Topographic Maps of Afghanistan and Kabul</title>
+            <pubinfo>
+              <pubplace/>
+              <publish>Afghanistan Information Management Service</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This point dataset shows the location of shrines in the city of Mazār-i Sharīf. Afghanistan. This layer was mapped at 1:5,000 scale from the one meter IKONOS satellite imagery. This layer is part of the Topographic Maps of Afghanistan and Kabul dataset which contains shapefiles relating to district and provincial boundaries, land use, transportation, buildings and structures, rivers, settlements and other specific city data.</abstract>
+      <purpose>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20040101</begdate>
+          <enddate>20050731</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>Unknown</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>67.111038</westbc>
+        <eastbc>67.111038</eastbc>
+        <northbc>36.709045</northbc>
+        <southbc>36.709045</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Shrines</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>location</themekey>
+        <themekey>structure</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>Mazār-i Sharīf (Afghanistan)</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2004</tempkey>
+        <tempkey>2005</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Secondary distribution by permission only. Please visit Afghanistan Information Management Service (AIMS) office for permission. Any secondary distribution must have this documentation appended..</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Afghanistan Information Management Service</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>UNDP/AIMS Salang Watt Next to Inhesarat House No.12 </address>
+          <city>Kabul</city>
+          <state>Kabul</state>
+          <country>AF</country>
+        </cntaddr>
+        <cntvoice>0093 (0) 70023272</cntvoice>
+        <cntemail>info@aims.org.af</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Afghanistan Information Management Service (2005). Shrines: Mazār-i Sharīf, Afghanistan, 2005. Afghanistan Information Management Service.</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>1</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>mazar_shrine_point</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>X_COORD</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Y_COORD</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MARK_TYPE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MARK_NAME</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TYPE_ID</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Bldg. 2nd floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Secondary distribution by permission only. Please visit Afghanistan Information Management Service (AIMS) office for permission. Any secondary distribution must have this documentation appended..</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20141105</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Bldg. 2nd floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
