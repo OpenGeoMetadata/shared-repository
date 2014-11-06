@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <fileIdentifier>
+      <gco:CharacterString>edu.stanford.purl:bk385yz6103</gco:CharacterString>
+   </fileIdentifier>
+   <language>
+      <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+   </language>
+   <characterSet>
+      <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+   </characterSet>
+   <parentIdentifier>
+      <gco:CharacterString>http://purl.stanford.edu/zt526qk7324.mods</gco:CharacterString>
+   </parentIdentifier>
+   <hierarchyLevel>
+      <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+   </hierarchyLevel>
+   <hierarchyLevelName>
+      <gco:CharacterString>dataset</gco:CharacterString>
+   </hierarchyLevelName>
+   <contact>
+      <CI_ResponsibleParty>
+         <organisationName>
+            <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+         </organisationName>
+         <contactInfo>
+            <CI_Contact>
+               <phone>
+                  <CI_Telephone>
+                     <voice>
+                        <gco:CharacterString>650-723-2746</gco:CharacterString>
+                     </voice>
+                  </CI_Telephone>
+               </phone>
+               <address>
+                  <CI_Address>
+                     <deliveryPoint>
+                        <gco:CharacterString>Branner Earth Sciences Library</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                     </deliveryPoint>
+                     <deliveryPoint>
+                        <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                     </deliveryPoint>
+                     <city>
+                        <gco:CharacterString>Stanford</gco:CharacterString>
+                     </city>
+                     <administrativeArea>
+                        <gco:CharacterString>California</gco:CharacterString>
+                     </administrativeArea>
+                     <postalCode>
+                        <gco:CharacterString>94305</gco:CharacterString>
+                     </postalCode>
+                     <country>
+                        <gco:CharacterString>US</gco:CharacterString>
+                     </country>
+                     <electronicMailAddress>
+                        <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                     </electronicMailAddress>
+                  </CI_Address>
+               </address>
+            </CI_Contact>
+         </contactInfo>
+         <role>
+            <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+         </role>
+      </CI_ResponsibleParty>
+   </contact>
+   <dateStamp>
+      <gco:Date>2014-10-15</gco:Date>
+   </dateStamp>
+   <metadataStandardName>
+      <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+   </metadataStandardName>
+   <metadataStandardVersion>
+      <gco:CharacterString>2007</gco:CharacterString>
+   </metadataStandardVersion>
+   <dataSetURI>
+      <gco:CharacterString>http://purl.stanford.edu/bk385yz6103</gco:CharacterString>
+   </dataSetURI>
+   <spatialRepresentationInfo>
+      <MD_VectorSpatialRepresentation>
+         <topologyLevel>
+            <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+         </topologyLevel>
+         <geometricObjects>
+            <MD_GeometricObjects>
+               <geometricObjectType>
+                  <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+               </geometricObjectType>
+               <geometricObjectCount>
+                  <gco:Integer>716</gco:Integer>
+               </geometricObjectCount>
+            </MD_GeometricObjects>
+         </geometricObjects>
+      </MD_VectorSpatialRepresentation>
+   </spatialRepresentationInfo>
+   <referenceSystemInfo>
+      <MD_ReferenceSystem>
+         <referenceSystemIdentifier>
+            <RS_Identifier>
+               <code>
+                  <gco:CharacterString>26910</gco:CharacterString>
+               </code>
+               <codeSpace>
+                  <gco:CharacterString>EPSG</gco:CharacterString>
+               </codeSpace>
+               <version>
+                  <gco:CharacterString>7.9.4</gco:CharacterString>
+               </version>
+            </RS_Identifier>
+         </referenceSystemIdentifier>
+      </MD_ReferenceSystem>
+   </referenceSystemInfo>
+   <identificationInfo>
+      <MD_DataIdentification>
+         <citation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Land Cover of Alluvial Areas: Russian River Main Stem, Alexander Valley Reach, Sonoma County, California, 1993</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2002-09-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>http://purl.stanford.edu/bk385yz6103</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <address>
+                              <CI_Address>
+                                 <city>
+                                    <gco:CharacterString>Windsor</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>info@circuitriderstudios.com</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+               <presentationForm>
+                  <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+               </presentationForm>
+               <collectiveTitle>
+                  <gco:CharacterString>Russian River Watershed GIS</gco:CharacterString>
+               </collectiveTitle>
+            </CI_Citation>
+         </citation>
+         <abstract>
+            <gco:CharacterString>This polygon shapefile describes the landuse and landcover of the Alexander Valley reach of the Russian River in 1993. The Alexander Valley Reach extent is defined by the Jimtown Bridge and Cloverdale, Sonoma Co. This dataset is one of six datasets that together, form the GIS data for the Russian River Resource Enhancement Plan and Public Access Plan (Enhancement Plan).Each of the .shp files listed above is intended to be linked to a .dbf using the 'ACADTEXT' attribute column. The .dbf files were created as a part of the original Enhancement Plan, not the Russian River Watershed GIS.Link this file with hab2_90.dbf for landuse/landcover information.Link this file with rip2_90.dbf for for riparian habitat successional status information.</gco:CharacterString>
+         </abstract>
+         <purpose>
+            <gco:CharacterString>This layer can be used for land use analysis and planning in the Russian River region of California.</gco:CharacterString>
+         </purpose>
+         <credit>
+            <gco:CharacterString>Circuit Rider Productions and National Oceanic and Atmospheric Administration (2002). Land Cover of Alluvial Areas: Russian River Main Stem, Alexander Valley Reach, Sonoma County, California, 1993. Circuit Rider Productions.</gco:CharacterString>
+         </credit>
+         <status>
+            <MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+         </status>
+         <pointOfContact>
+            <CI_ResponsibleParty>
+               <organisationName>
+                  <gco:CharacterString>Circuit Rider Productions, Inc. </gco:CharacterString>
+               </organisationName>
+               <positionName>
+                  <gco:CharacterString>GIS Coordinator </gco:CharacterString>
+               </positionName>
+               <contactInfo>
+                  <CI_Contact>
+                     <phone>
+                        <CI_Telephone>
+                           <voice>
+                              <gco:CharacterString>707.838.6641 </gco:CharacterString>
+                           </voice>
+                        </CI_Telephone>
+                     </phone>
+                     <address>
+                        <CI_Address>
+                           <deliveryPoint>
+                              <gco:CharacterString>9619 Old Redwood Highway </gco:CharacterString>
+                           </deliveryPoint>
+                           <city>
+                              <gco:CharacterString>Windsor</gco:CharacterString>
+                           </city>
+                           <administrativeArea>
+                              <gco:CharacterString>California</gco:CharacterString>
+                           </administrativeArea>
+                           <postalCode>
+                              <gco:CharacterString>95492 </gco:CharacterString>
+                           </postalCode>
+                           <country>
+                              <gco:CharacterString>US</gco:CharacterString>
+                           </country>
+                        </CI_Address>
+                     </address>
+                  </CI_Contact>
+               </contactInfo>
+               <role>
+                  <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+               </role>
+            </CI_ResponsibleParty>
+         </pointOfContact>
+         <resourceMaintenance>
+            <MD_MaintenanceInformation>
+               <maintenanceAndUpdateFrequency>
+                  <MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+               </maintenanceAndUpdateFrequency>
+            </MD_MaintenanceInformation>
+         </resourceMaintenance>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Sonoma County (Calif.)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Mendocino County (Calif.)</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Russian River Watershed (Calif.)</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>geonames</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2012-11-01</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <edition>
+                        <gco:CharacterString>3.1</gco:CharacterString>
+                     </edition>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://www.geonames.org/ontology#</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>1993</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="temporal" codeSpace="ISOTC211/19115">temporal</MD_KeywordTypeCode>
+               </type>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Alluvial plains</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Alluvial streams</gco:CharacterString>
+               </keyword>
+               <keyword>
+                  <gco:CharacterString>Land cover</gco:CharacterString>
+               </keyword>
+               <type>
+                  <MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+               </type>
+               <thesaurusName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>lcsh</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2011-04-26</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://id.loc.gov/authorities/subjects.html</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                  </CI_Citation>
+               </thesaurusName>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <descriptiveKeywords>
+            <MD_Keywords>
+               <keyword>
+                  <gco:CharacterString>Downloadable Data</gco:CharacterString>
+               </keyword>
+               <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+            </MD_Keywords>
+         </descriptiveKeywords>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>No restrictions on access or use.</gco:CharacterString>
+               </useLimitation>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <resourceConstraints>
+            <MD_LegalConstraints>
+               <useLimitation>
+                  <gco:CharacterString>No restrictions on access or use.</gco:CharacterString>
+               </useLimitation>
+            </MD_LegalConstraints>
+         </resourceConstraints>
+         <aggregationInfo>
+            <MD_AggregateInformation>
+               <aggregateDataSetName>
+                  <CI_Citation>
+                     <title>
+                        <gco:CharacterString>Russian River Watershed GIS</gco:CharacterString>
+                     </title>
+                     <date>
+                        <CI_Date>
+                           <date>
+                              <gco:Date>2002-10-24</gco:Date>
+                           </date>
+                           <dateType>
+                              <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                           </dateType>
+                        </CI_Date>
+                     </date>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/zt526qk7324</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <identifier>
+                        <MD_Identifier>
+                           <code>
+                              <gco:CharacterString>http://purl.stanford.edu/zt526qk7324</gco:CharacterString>
+                           </code>
+                        </MD_Identifier>
+                     </identifier>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                           </organisationName>
+                           <contactInfo>
+                              <CI_Contact>
+                                 <address>
+                                    <CI_Address>
+                                       <city>
+                                          <gco:CharacterString>Windsor</gco:CharacterString>
+                                       </city>
+                                       <administrativeArea>
+                                          <gco:CharacterString>California</gco:CharacterString>
+                                       </administrativeArea>
+                                       <country>
+                                          <gco:CharacterString>US</gco:CharacterString>
+                                       </country>
+                                       <electronicMailAddress>
+                                          <gco:CharacterString>info@circuitriderstudios.com</gco:CharacterString>
+                                       </electronicMailAddress>
+                                    </CI_Address>
+                                 </address>
+                              </CI_Contact>
+                           </contactInfo>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                     <citedResponsibleParty>
+                        <CI_ResponsibleParty>
+                           <organisationName>
+                              <gco:CharacterString>United States. National Oceanic and Atmospheric Administration</gco:CharacterString>
+                           </organisationName>
+                           <role>
+                              <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                           </role>
+                        </CI_ResponsibleParty>
+                     </citedResponsibleParty>
+                  </CI_Citation>
+               </aggregateDataSetName>
+               <associationType>
+                  <DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation" codeSpace="ISOTC211/19115">largerWorkCitation</DS_AssociationTypeCode>
+               </associationType>
+               <initiativeType>
+                  <DS_InitiativeTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_InitiativeTypeCode" codeListValue="collection" codeSpace="ISOTC211/19115">collection</DS_InitiativeTypeCode>
+               </initiativeType>
+            </MD_AggregateInformation>
+         </aggregationInfo>
+         <spatialRepresentationType>
+            <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+         </spatialRepresentationType>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <characterSet>
+            <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+         </characterSet>
+         <topicCategory>
+            <MD_TopicCategoryCode>inlandWaters</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>biota</MD_TopicCategoryCode>
+         </topicCategory>
+         <topicCategory>
+            <MD_TopicCategoryCode>imageryBaseMapsEarthCover</MD_TopicCategoryCode>
+         </topicCategory>
+         <environmentDescription>
+            <gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035</gco:CharacterString>
+         </environmentDescription>
+         <extent>
+            <EX_Extent>
+               <geographicElement>
+                  <EX_GeographicBoundingBox>
+                     <extentTypeCode>
+                        <gco:Boolean>true</gco:Boolean>
+                     </extentTypeCode>
+                     <westBoundLongitude>
+                        <gco:Decimal>-123.023507</gco:Decimal>
+                     </westBoundLongitude>
+                     <eastBoundLongitude>
+                        <gco:Decimal>-122.81944</gco:Decimal>
+                     </eastBoundLongitude>
+                     <southBoundLatitude>
+                        <gco:Decimal>38.653084</gco:Decimal>
+                     </southBoundLatitude>
+                     <northBoundLatitude>
+                        <gco:Decimal>38.830391</gco:Decimal>
+                     </northBoundLatitude>
+                  </EX_GeographicBoundingBox>
+               </geographicElement>
+            </EX_Extent>
+         </extent>
+         <extent>
+            <EX_Extent>
+               <description>
+                  <gco:CharacterString>ground condition</gco:CharacterString>
+               </description>
+               <temporalElement>
+                  <EX_TemporalExtent>
+                     <extent>
+                        <gml:TimePeriod gml:id="d0e917">
+                           <gml:beginPosition>1993-01-01T00:00:00</gml:beginPosition>
+                           <gml:endPosition>1993-12-31T00:00:00</gml:endPosition>
+                        </gml:TimePeriod>
+                     </extent>
+                  </EX_TemporalExtent>
+               </temporalElement>
+            </EX_Extent>
+         </extent>
+         <supplementalInformation>
+            <gco:CharacterString>Data Set Source: Sonoma County Planning Department (1990 aerial photos); American Digital Cartography, Inc. (digital base maps); U.S. Soil Conservation Service (1942 aerial photos - now archived at Sonoma State University).
+
+Data Source Form: 1:6,000-scale enlargements of rectified 1990 photos, printed on blueprint-quality paper and traced on stable mylar base; 1:8,286-scale enlargements of 1942 photos printed on heavy photo paper and traced on stable mylar base; digital maps based on USGS 1:100,000-scale DLGs; ground-truth of areas covered by riparian vegetation from 1992 ground surveys and 1:2,400-scale unrectified 1991 photos.
+
+METHODOLOGY:
+Feature boundaries were interpreted from aerial photos and manually traced on mylar. Mylar overlays were registered to a digital map based on USGS 1:1000,000-scale DLGs using the projective transformation routine in AutoCAD Release 12.0. Manual digitizing was done on a 24" x 36" CalComp Drawing Board II digitizing tablet. ArcCAD 11.2 was used to convert the AutoCAD drawings to GIS coverages by creating topology and links to the attribute data.
+
+DATA DICTIONARY: Item definitions, codes, and explanatory notes for the Russian River Resource Enhancement Plan Databases
+
+I. INTRODUCTION:
+
+The purpose of this data dictionary is to document the contents of the GIS attribute databases that were developed for the Russian River Resource Enhancement Plan, including information on GIS data set file names, item names in each database file, item definitions, data sources, and codes. Since a data dictionary must change and grow along with the database itself, the code changes that are inevitable in any on-going project have also been recorded here.
+
+The project's three study areas (Mendocino Study Area, Alexander Valley Study Area, and Middle Reach Study Area) were assigned codes of 100000, 200000, and 300000, respectively. Two attribute databases (Land Use and Habitat, Riparian Vegetation and Gravel Bar) were developed for each study area. These attribute databases were originally created in Lotus 1-2-3 spreadsheet format, then translated into dBase III+ format ("dbf" filename extension) for use with the ArcCAD GIS program.
+
+The database filenames for each study area consist of abbreviations referring to the type of data, the first digit of the study area code, the year of aerial photography; and a filename extension designating the file format. For example, Hab3_42.dbf is the name of the file containing habitat data for Study Area 300000 (Middle Reach), based on 1942 aerial photos, and stored in dbf file format.
+
+Each individual map polygon or sub-polygon in the database was assigned a composite ID number derived by summing up the values of the codes for Decade, Study Area, Zone, Bank, Polygon, and Sub-Polygon, as given below. For example, the ID number 9358159.1 designates a specific 1990-decade Middle Reach polygon in the Channel Zone on the Right-hand side, with Polygon Number 159 and Sub-Polygon Number 0.1.
+
+DECADE
+Code 4000000 = data was obtained from1940s aerial photos
+Code 9000000 = data was obtained from1990s aerial photos (actually 1988 in the case of the Mendocino Reach study area)
+
+STUDY_AREA
+Code 100000 = Mendocino Reach
+Code 200000 = Alexander Valley Reach
+Code 300000 = Middle Reach
+
+ZONE
+Code 50000 = Zone "C": The river channel and all areas covered by riparian vegetation along the Russian River's "main stem", including the wetted channel, active channel, vegetated channel, channel banks, and that portion of the floodplain between the top of the channel bank and the outer limit of "typical" riparian vegetation. This zone supports various seral stages of riparian vegetation, and it is assumed to be subject to relatively frequent flooding wherever there are no artificial flood control structures.
+
+Code 60000 = Zone "U": Upper or "historical" floodplain terraces along the main stem; i.e., all lowland areas between the outer limit of the main stem riparian vegetation and the study area boundaries, including the channels, riparian areas, and floodplains of tributary creeks. The relatively level terrace areas are nevertheless high enough that they are assumed to be only rarely subject to flooding by the river (as mapped in the present study this zone may include some small areas that are actually within the river's active floodplains and some other small areas that are actually above the historical flood elevations).
+
+Code 70000 = Zone "K": Uplands within the study area boundaries that are higher than the general level of the upper floodplain terraces along the main stem or its major tributaries, and which are separated from the floodplains by a distinct break in slope. It is assumed for the purposes of the present study that these upland areas are never subject to flooding by streamwaters.
+
+BANK
+Code 7000 = Mid-Channel
+Code 8000 = Right Bank (facing downstream).
+Code 9000 = Left Bank (facing downstream).
+
+POLYGON
+The identification code for an individual polygon is a whole number having from one to three digits within the range 1 to 999, inclusive. These numbers are unique within the same bank and zone, but are not necessarily unique among different zones.
+
+SUB_POLYGON
+Some polygons have been divided by a river mile marker into two or more parts. The sub-units of such a polygon are designated by decimal numbers.
+
+Note: On the field sheets the sub-polygons were originally designated by lower-case letters. In the present decimal-number system, sub-polygon 0.1 corresponds to the former sub-polygon a, sub-polygon 0.2 to the former sub-polygon b, etc.
+
+A "missing data" code of either "xxxx" (for text fields) or "9999" (for numerical fields) was assigned when data for a given map polygon was unavailable, in order to differentiate such cases from legitimate "blank" fields in the database.
+
+ 
+
+II. RIPARIAN VEGETATION AND GRAVEL BAR DATABASES
+
+dBASE III+ filenames: RIP1_90.dbf, RIP2_90.dbf, RIP3_90.dbf
+
+Item (1). Item Name: ACAD_TEXT\Field Width: 14\Data Type: Number
+A numerical field containing the unique user-assigned identification number for each map polygon (it was called ACAD_TEXT for reasons having to do with the ArcCAD GIS program). This item serves as the principal "key" for sorting database records and relating them to the map polygons. Due to additions and deletions of polygons during the map editing process, these ID numbers were not necessarily sequential.
+
+Item (2). Item Name: R_MILE\Field Width: 7\Data Type: Number
+The upstream "river mile" closest to the location of a polygon.
+
+Item (3). Item Name: AREA_HA\Field Width: 12\Data Type: Number
+The area of a given polygon in hectares. Area_Ha is the result of multiplying the area in square meters (as calculated by the GIS) by a conversion factor of 0.0001.
+
+Item (4). Item Name: AREA_AC\Field Width: 12\Data Type: Number
+The area of a given polygon in acres. Area_Ac is the result of multiplying the area in square meters (as calculated by the GIS) by a conversion factor of 0.000247.
+
+Item (5). Item Name: N_SIZE_CL\Field Width: 10\Data Type: Number
+A rough visual estimate of tree diameter at breast height (inches) for "... the stand's main, largest trees, excluding the occasional tree of exceptional size" (Northen 1991). Used for tree-dominated and mixed vegetation types only; not used for polygons with &lt; 10% cover. Codes and size class categories for dbh follow Northen's classification system (Northen 1991; 1992):
+
+Code 1 = Seedlings: &lt;1" dbh
+Code 2 = Saplings: 1"-6" dbh
+Code 3 = Small: 7"-11" dbh
+Code 4 = Medium: 12"-24" dbh
+Code 5 = Large: &gt;24" dbh
+
+Note: Although Northen's dbh class names are different from those used in the WHR system, his categories nevertheless correspond exactly to the first five WHR size classes (i.e., seedling, sapling, pole tree, small tree, medium/large tree).
+
+Item (6). Item Name: AV_HEIGHT\Field Width: 9\Data Type: Number
+A rough visual estimate of the height class (in feet) of the average overstory trees (i.e., dominants and co-dominants) within the polygon. Used for tree-dominated and mixed vegetation types only; not used for polygons with &lt;10% cover. Codes for height categories were assigned according to the following scheme:
+
+Code 1 = &lt;3'
+Code 2 = 3'-15'
+Code 3 = 16'-30'
+Code 4 = 31'-65'
+Code 5 = 66'-115'
+Code 6 = &gt;115'
+
+Item (7). Item Name: N_COVER\Field Width: 9\Data Type: Character
+A rough visual estimate of the percentage of ground surface within the entire polygon covered by vegetation of any type. Codes and categories for cover followed Northen's terminology (Northen 1991; 1992):
+
+Code u = "unvegetated" (&lt;10% cover)
+Code s = "sparsely vegetated" (11% - 50% cover)
+Code c = "well vegetated" (&gt; 50% cover)
+
+Item (8). Item Name: N_VEGTYPE\Field Width: 10\Data Type: Character
+A rough visual estimate of the predominant "vegetation type" (i.e., plant life form) within the polygon. Codes and categories for vegetation type follow Northen's classification system (Northen 1991; 1992):
+
+Code f = Forbs, Grasses, and/or "Shrubs" (interpreted here as woody plants 3'-15' tall)
+Code r = Giant Reed (Arundo)
+Code t = trees
+Code m = mixed type (No obvious predominance of any one of
+the above three vegetation types).
+
+Item (9). Item Name: AV_DBH\Field Width: 10\Data Type: Character
+A rough visual estimate (in inches) of the diameter class at breast height for the "average" or "typical" size of tree within the entire polygon. Used for tree-dominated and mixed vegetation types only; not used for polygons with &lt;10% cover:
+
+Code A = Seedling to Sapling size (&lt;1"-6"; WHR codes 1 and 2)
+Code B = Pole to Small size (7"-24"; WHR codes 3 and 4)
+Code C = Medium to Large size (&gt;24"; WHR code 5)
+
+Note: On our field sheets the "Size" category originally contained dbh size class information according to the standard WHR definitions (Mayer and Laudenslayer 1988). We subsequently modified our classification by lumping the five WHR size classes into the above three categories, and changing the name of this item to Av_dbh. Av_dbh differs from Item 2 above (N_Size_Class) in that the latter refers only to the dbh of "the stand's largest trees" (Northen 1991; 1992).
+
+Item (10). Item Name: N_SPPTYPE\Field Width: 12\Data Type: Character
+A rough visual determination of the predominant tree species within a polygon (i.e., any tree species having an estimated cover &gt;50%). Used for tree-dominated and mixed vegetation types only; not used for polygons with &lt;10% cover. If no single tree species constituted more than 50% of a stand, the code "ms" was recorded to indicate a mixture of tree species:
+
+Cottonwood = (fc) = PF
+White Alder = (wa) = AR
+Sandbar Willow = (sw) = SH
+Arroyo Willow = (aw) = SL
+Red and/or Yellow Willow = (rw) = SS
+Oregon Ash = (oa) = FR
+Boxelder = (be) = AN
+Black Walnut = (bw) = JH
+Valley Oak = (vo) = QL
+Coast Live Oak = (co) = QA
+Bay = (ba) = UC
+
+Note: The species codes shown in parentheses above are taken from Northen (1991; 1992). We originally used these codes on our fieldsheets, but they were later changed to upper-case letters matching the codes used in Items (13) and (14) below.
+
+Item (11). Item Name: N_STATUS\Field Width: 8\Data Type: Number
+A rough visual estimate of "successional status" based on presence, size class, and abundance of late successional tree species within a polygon. Categories for successional status follow Northen's classification system (Northen 1991; 1992):
+
+Code 0.1 = Vegetation either "absent" or largely so (less than 10% cover) or "sparse" (less than or equal to 50% cover).
+Code 1 = Greater than 50% cover, late successional trees absent, or present only as seedlings (= WHR seedling size) or an occasional larger individual.
+Code 2 = Greater than 50% cover, late successional trees present in "evident numbers" and of WHR sapling size.
+Code 3 = Greater than 50% cover, late successional trees present in "evident numbers" and of "small" size (= WHR pole size)
+Code 4 = Greater than 50% cover, late successional trees present in "evident numbers" and of "medium" size (= WHR small size)
+Code 5 = Greater than 50% cover, late successional trees present in "evident numbers" and of "large" size (= WHR med/large size)
+
+Note: In his previous work in the riparian zone of the Russian River, Northen (1991; 1992) designated "... Hind's Black Walnut and Box Elder, and to a lesser extent Oregon Ash", as the late successional or "climax" species in this plant community. He noted that he "... did not include White Alder as such, even though it may be when adjacent to an old, stable channel".
+
+Note: Northen did not specify what he meant by "evident numbers" in the above classification scheme; we interpreted it to mean "Individuals of late successional species abundant enough to be seen frequently without having to make a special search for them".
+
+Note: The "sub-status" category originally appearing on our field sheets was subsequently discarded.
+
+Item (12). Item Name: N_BARTYPE\Field Width: 12\Data Type: Character
+A rough visual estimate of the dominant particle size (i.e., gravel or fines) on the surface of point bars or alternate bars; also indicates the stage of geomorphological development of the bar, based on the presence, size, and degree of coalescence of hummocks. Codes and categories for bar type follow Northen's classification system (Northen 1991; 1992):
+
+Code lgr = Level or rounded cross-section; mainly gravel
+Code lvf = Level or rounded cross-section; mainly fines
+Code sh = Hummocks beginning to form (to 3' high)
+Code mh = Hummocks medium size (to 6' high)
+Code lh = Hummocks large size (&gt;6' high)
+Code ch = Hummocks large and coalescing into a terrace
+
+Item (13). Item Name: OVERSTORY\Field Width: 36\Data Type: Character
+A rough visual determination and listing of the commonest overstory tree species within a polygon (i.e., the "dominants" and co-dominants), chosen from the following species list (* indicates "late successional" species). For sites lacking any real "overstory", but containing scattered trees or scrubby growth, the commonest woody species were listed:
+
+Code, Tree Species, Common Name
+AN, Acer negundo, Boxelder *
+AC, Aesculus californica, Buckeye
+AR, Alnus rhombifolia, White Alder
+JH, Juglans californica *var. hindsii , Black Walnut
+QA, Quercus agrifolia, Coast Live Oak
+QL, Quercus lobata, Valley Oak
+QD, Quercus dumosa, Calif. Scrub Oak
+QK, Quercus kellogii, Calif. Black Oak
+QW, Quercus wislizenii, Interior Live Oak
+EU, Eucalyptus spp., Eucalyptus
+FR, Fraxinus latifolia, Oregon Ash *
+PF, Populus fremontii, Cottonwood
+SM, Sambucus mexicana, Elderberry
+UC, Umbellularia californica, California Bay
+PM, Pseudotsuga menziesii, Douglas Fir
+SS, Salix spp., mainly Red Willow (S. laevigata and/or Yellow Willow (S. lucida ssp. lasiandra)
+SH, Salix exigua, Sandbar Willow
+SL, Salix lasiolepis, Arroyo Willow
+
+Item (14). Item Name: UNDERSTORY\Field Width: 36\Data Type: Character
+A rough visual determination and listing of the commonest understory tree species within a polygon (if an understory was present), chosen from the same species list and codes given in Item (13) above.
+
+Item (15). Item Name: VINES\Field Width: 21\Data Type: Character
+A rough visual determination and listing of the commonest vine species within a polygon, chosen from the same species list and codes given in Item (16) below.
+
+Item (16). Item Name: SHRUBS\Field Width: 36\Data Type: Character
+A rough visual determination and listing of the commonest "shrub" or large herbaceous species (i.e., plants 3'-15' tall) within a polygon, chosen from the CRP species list and codes below (* indicates non-native species):
+
+Code, Shrub/Vine/Gd.Cover/Aquatic, Common Name:
+RS, Rubus spp., Blackberry
+BV, Baccharis salsifolia (=viminea), Mulefat
+BP, Baccharis pilularis, Coyotebush
+TD, Toxicodendron diversiloba, Poison Oak
+SY, Symphoricarpos spp., Snowberry
+RC, Rosa californica, Wild Rose
+AS, Arctostaphylos spp., Manzanita
+CO, Calycanthus occidentalis, Spicebush
+MU, Artemisia douglassii, Mugwort
+VC, Vitis californica, Wild Grape
+AA, Aristolochia californica, Dutch-man's Pipe
+RP, Rubus procerus, Himalaya Berry *
+AD, Arundo donax, Giant Reed *
+CM Conium maculatum, Poison Hemlock *
+BS, Brassica spp., Mustard *
+VS, Vinca spp., Periwinkle *
+CS, Centaurius solstitialis, Star Thistle *
+ES, Eremocarpus setigerus, Dove Weed *
+LS, Ludwigia spp., Water primrose *
+FV, Foeniculum vulgare, Fennel *
+RU, Juncus spp.; Cyperus spp., Rush
+SE, Eleocaris spp.; Carex spp., Sedge
+TS, Typha spp., Cattail
+TU, Scirpus spp., Tule
+U, Urtica spp., Nettle
+
+Item (17). Item Name: GR_COVER\Field Width: 62\Data Type: Character
+A rough visual estimate and listing of the commonest "ground cover" species (i.e., plants &lt;3' tall) within a polygon, chosen from the same species list and codes given in Item (16) above.
+
+Item (18). Item Name: PC_GR_COV\Field Width: 10\Data Type: Number
+A rough visual estimate of the per cent ground cover, using the following four classes:
+
+Code 1 = 0% - 25%
+Code 2 = 26% - 50%
+Code 3 = 51% - 75%
+Code 4 = 76% - 100%
+
+
+III. LAND USE AND HABITAT DATABASES
+
+dBASE III+ filenames: HAB2_42.dbf, HAB3_42.dbf, HAB1_90.dbf, HAB2_90.dbf, HAB3_90.dbf
+
+Item (1). Item Name: Acad_Text; Data Type: Number; Field Width: 14
+The same item described in Section II above.
+
+Item (2). Item Name: R_MILE\Field Width: 7\Data Type: Number
+The same item described in Section II above.
+
+Item (3). Item Name: AREA_HA\Field Width: 12\Data Type: Number
+The same item described in Section II above.
+
+Item (4). Item Name: AREA_AC\Field Width: 12\Data Type: Number
+The same item described in Section II above.
+
+Item (5). Item Name: LANDFORM\Field Width: 10\Data Type: Character
+Zone "K": Uplands
+Code H = Hill (as defined here, does not include riparian vegetation and wetted channels of tributary streams that occur in hilly areas)
+
+Zone "U": Upper Terraces and Tributary Streams
+Code S = Riparian Vegetation along tributary stream or artificial drainage channel
+Code W = Wetted Channel of tributary stream, or an artificial drainage channel (only shown where large enough to be mapped as a separate polygon)
+Code T = Upper Terraces; i.e., relatively level lowland areas between the edge of the mainstem riparian vegetation and the break in slope which indicates the beginning of the uplands.
+
+Note: Ground truth was not obtained for the tributary streams, hence these habitats were not subdivided further into bar types or vegetation types.
+
+Zone "C": Main Stem River Channel
+Code I = Immediate Bank: a narrow bank which makes an abrupt transition between the wetted channel and the upper terrace, with no intervening in-channel terrace or gravel bar.
+Code Tc = In-Channel Terrace: areas of intermediate elevation located between a gravel bar and the outer channel bank/upper terrrace. In-channel terraces may be in various stages of hummock formation, or they may be more-or-less level if the hummocks have already coalesced.
+Code P = Point Bar or Alternate Bar: gravel bars formed at bends in a stream's thalweg that follow bends in the stream channel are called point bars; bars formed where there is a meandering thalweg within a straight stream channel are called alternate bars. There is a gradation between the two types of bars which often makes them difficult to distinguish; they are therefore lumped together here.
+Code Wc = Wetted channel: that portion of the river's main channel (or a back channel connected to the mainchannel) in which surface water is visible.
+Code M = Mid-Channel Island, or emergent "riffle bar".
+
+Item (6). Item Name: LANDUSE\Field Width: 9\Data Type: Character
+and
+Item (7). Item Name: LANDCOVER\Field Width: 10\Data Type: Character
+
+Code A (Land Use) = Agricultural Land
+Code v (Land Cover) = Vineyard
+Code or (Land Cover) = Orchard
+Code rc (Land Cover) = Row Crops
+Code w (Land Cover) = Small Farm Pond (&lt; 5 acres)
+Code ot (Land Cover) = Other areas of presumed agricultural land use in which the cover type is uncertain; e.g., harvested crops, fallow fields, pastures, hayfields, etc.
+
+Code G (Land Use) = Gravel Extraction Pit (excluding pit margin)
+Code w (Land Cover) = Gravel pit filled with water
+
+Code Gmo (Land Use) = Gravel Pit Margin, "open" (i.e., &lt;10% cover)
+
+Code Gmv (Land Use) = Gravel Pit Margin, "vegetated" (i.e., &gt;10% cover)
+Code fs (Land Cover) = Forbs and Shrubs predominate, although scattered small trees may be present (use
+of this category is restricted to relatively early successional vegetation in habitats that are normally tree-dominated).
+Code rf (Land Cover) = Riparian Forest, Woodland, and/or
+Scrub
+
+Code Ig (Land Use) = Industrial Land (gravel processing facilities; mainly un-vegetated)
+
+Code Iot (Land Use) = Industrial Land (all other types of heavy industrial facilities; mainly un-vegetated)
+
+Code Iw (Land Use) = industrial-related water features (e.g. sewage treatment ponds)
+
+Code R (Land Use) = Rural Residential, Rural Public Facilities (e.g. schools), Rural Commercial Land, or Rural Golf Courses and other landscaped areas with 10-75% tree and/or grass cover
+Code w (Land Cover) = rural artificial reservoir (other
+than gravel pit or small farm pond)
+
+Code U (Land Use) = Urban Residential, Urban Public Facilities, Urban Commercial Land, Urban Parks
+Code b (Land Cover) = urban built-up or "barren" areas with &lt;10% tree cover
+Code t (Land Cover) = areas with 10-75% tree and/or grass cover within a zone of primarily urban land uses (e.g., residential areas; urban parks, golf courses, cemetaries, or other landscaped areas)
+Code f (Land Cover) = urban woodlot; isolated wooded area with &gt;75% tree cover within a zone of primarily urban land uses
+Code w (Land Cover) = artificial reservoir in urban area
+
+Code C (Land Use) = Major Transportation Infrastructure (e.g., multi-lane freeways or other limited-access highways; airport runways and facilities - including pavement and rights-of-way). Smaller roads (whether paved or unpaved) are not shown unless they form part of a polygon boundary.
+
+Code O (Land Use) = Open Land (i.e., mainly unvegetated land that is not presently in agricultural, industrial, residential, commercial, transportation, or urban use, with &lt;10% cover by herbs, shrubs, and/or trees).
+Code h (Land Cover) = areas (other than gravel bars or gravel pit margins) in which open condition is clearly the result of recent human disturbance by cutting, bulldozing, heavy vehicle traffic, etc.
+Code sc (Land Cover) = a gravel bar which has recently been "scraped" or "skimmed" to obtain aggregate.
+
+Code N (Land Use) = Non-Cultivated Vegetated Land (i.e., cultural, semi-natural, or natural vegetation - see definitions in report glossary), with &gt;10% cover by herbs, shrubs, and/or trees.
+Code eu (Land Cover) = Eucalyptus Forest
+Code df (Land Cover) = Douglas-Fir Forest
+Code fs (Land Cover) = Forbs and Shrubs predominate, although scattered small trees may be present. Use of this category is restricted to relatively early successional vegetation in habitats normally dominated by trees; it is not applied to chaparral, marsh, or grassland)
+Code gr (Land Cover) = Grassland or "Savanna" (i.e., grassland with widely-spaced shrubs and/or trees)
+Code mf (Land Cover) = Mixed Upland Forest (a varied mixture of broadleaf evergreen, conifer, and broadleaf deciduous trees)
+Code ow (Land Cover) = Oak/Hardwood Woodland or Forest (may include all oak species found in study area)
+Code rf (Land Cover) = Riparian Forest, Woodland, and/or Scrub
+Code rw (Land Cover) = Redwood Forest
+
+Note: The land form/land use/land cover classification scheme given in the preceding three items is a greatly modified and expanded version of a system developed by Philip Northen (see Northen 1991; 1992). CRP initially attempted to use a classification scheme identical to Northen's, but this turned out not to be feasible due to the smaller scale of our aerial photos (i.e., 1:6,000 instead of 1:2,400).
+
+For example, Northen's "Outer Bank" landform category was not mapped at our photo scale because its narrow width made it very difficult to interpret; it is included in our category of "In-channel Terrace". We also did not find it feasible to map dry secondary channels occurring on point bars as separate units, therefore Northen's "Open Secondary Channel" landform category was not used. If a wet secondary channel was connected to the main river channel at both ends and surface water was visible throughout its length, then it was mapped as a side loop of the main wetted channel. Backwater ponds (isolated wet areas in an otherwise dry secondary channel) or "lagoons" (wet, shallow embayments located where an otherwise dry secondary channel meets the main stem) were also mapped as wetted channel.
+
+Note: Urban forest was originally coded w (for "woods") in the data entry sheets, and the artificial reservoir category was not at first used for urban areas.
+
+Note: It sometimes happened that ground truth personnel estimated the cover in some polygons of the Open land use category to be greater than 10%. In such cases the ground truth estimate was given more weight than the airphoto estimate, because: a) a scattered cover of grasses, forbs and/or shrubs was often difficult to detect on the imagery used in this project, and b) the ground truth data was acquired more recently than the photo data.
+
+
+******************************************************************************
+NOTE: THE FOLLOWING ITEMS (8, 9, 10, 11, and 12) were originally included in the Habitat databases, but were later dropped because there was insufficient funding to complete the Wildlife Habitat Relationships (WHR) analysis for any of the study areas. However, a WHR analysis for the Middle Reach Study area was subsequently completed by CRP during a separate project funded by the Ukiah Cooperative Extension Office of the University of California at Davis. This involved a series of educational workshops for "grass roots" groups on the use of GIS and WHR methods in wildlife habitat analysis. For the sake of completeness, the WHR/CNDDB categories as used in these workshops are included here.
+******************************************************************************
+
+
+Item (8). Item Name: CNDDB\Field Width: 12\Data Type: Number
+and
+Item (9). Item Name: WHR\Field Width: 10\Data Type: Character
+The California Natural Diversity Data Base (CNDDB) and the Wildlife Habitat Relationships (WHR) system are used by the Department of Fish and Game to classify vegetation communities and wildlife habitats throughout the state (see Airola 1988; Holland 1986; Mayer and Laudenslayer 1988). In the present study, CRP used both of these systems to classify polygons, in addition to the land use/land cover classification scheme presented above. The approximate correspondences among these three classification systems is given in the following table, for those land cover units that may occur in the three study areas:
+
+-----------------------------------------------------------------------------------------------------------Land Cover Units Used in this Study, and Their Approximate Correspondence to Units in the WHR
+Habitat Type and CNDDB Natural Community Type Classification Systems1
+------------------------------------------------------------------------------------------------------------
+Land Cover Units (Used In This Study), WHR Codes,WHR Habitats, CNDDB Codes
+
+Forbs and Shrubs (successional)*2, CSC, Coastal Scrub, 32100
+Grassland/Savanna*3, PGS, Perennial Grassland, 41200
+Grassland/Savanna*3, AGS, Annual Grassland, 42200
+Freshwater Marsh, FEW, Fresh Water Emergent Wetland, 52400
+Vernal Pool, FEW, Fresh Water Emergent Wetland, 52500
+Riparian Forest and/or Scrub*4, VRI, Valley-Foothill Riparian, 61400 &amp; 63400
+Oak/Hardwood Woodland*5, (No General Oak Habitat Classification), 71100
+Oak/Hardwood Woodland*5, COW, Coastal Oak Woodland, 71160, 71120, 71150, 71200
+Oak/Hardwood Woodland*5, VOW, Valley Oak Woodland, 71130, 71210, 81300, 81600
+Oak/Hardwood Woodland*5, BOW, Blue Oak Woodland, 71140
+Oak/Hardwood Woodland*5, BOP, Blue Oak-Digger Pine, 71410, 71310, 71320
+Oak/Hardwood Woodland*5, MHW, Montane Hardwood, 81320
+Mixed Upland Forest*6, MHC, Montane Hardwood-Conifer, 81000, 81100, 81200, 81300
+Douglas-Fir Forest, DFR, Douglas-Fir, 81500
+Redwood Forest*7, RDW, Redwood, 61120, 82300, 82310, 82320
+
+Wetted Channel of Stream, RIV, Riverine, None
+Eucalyptus Forest, VOW*8, Eucalyptus, None
+Orchard or Vineyard, OVN, Orchard or Vineyard, None
+Row Crops, CRP, Crops, None
+Other Agricultural Land, PAS, Pasture, None
+Gravel Pits, Reservoirs, Ponds, LAC, Lacustrine, None
+Comm./Indust./Urban, URB, Urban, None
+R. Resid., Open, BAR, Barren, None
+------------------------------------------------------------------------------------------------------------
+Notes:
+
+*1 CNDDB codes are generally based on R. F. Holland (1986), and R. F. Holland's WHR-CNDDB correlations in the "Crosswalk Table" on pp. 23-39 in Mayer and Laudenslayer (1988). WHR Habitat names and codes are those listed in Mayer and Laudenslayer (1988) and the California Department of Fish and Game's WHR Computer Database (version 5.0). Since the intention of the WHR system is to classify major vegetative complexes at a scale sufficient to predict wildlife habitat relationships, most of its categories are at the association level of a vegetation classification or higher. A WHR habitat is generally broader than a "natural Community" type in the CNDDB system; i.e., a WHR habitat often encompasses more than one CNDDB community type.
+
+Where disturbance has removed a pre-existing tree cover and tree species have not yet re-colonized a site to any significant degree, the WHR system allows the coding of such units as the "seedling stage" of a tree-dominated habitat. In this project we preferred not to make assumptions regarding potential vegetation development; all such units were coded on the basis of their presently existing cover (e.g., "Open", "Grassland", or "Forbs and Shrubs").
+
+*2 Areas of forbs and shrubs that represent early successional stages of tree-dominated habitats in this part of Sonoma County frequently include dominants (e.g., Baccharis pilularis) typical of WHR Coastal Scrub habitat (CNDDB Northern [Franciscan] Coastal Scrub, 32100). Since the study areas are at the inland fringes of the distribution of Coastal Scrub, this habitat was used as an approximation of early successional stands.
+
+*3 All Grassland/Savanna cover units were assumed to be WHR Annual Grassland, unless determined by ground truth to be Perennial Grassland.
+
+*4 In the CNDDB system, Riparian Forest is 61400 and Riparian Scrub is 63400, but only the 61400 code was used here.
+
+*5 "Oak/Hardwood Woodlands" in this geographic area are very variable in composition and structure. The CNDDB code 71100 refers to all vegetation types dominated by oaks and other hardwoods, but unfortunately the WHR system does not contain a comparably general designation. The WHR code VOW (Valley Oak Woodland) was therefore used to represent all oak woodlands in the lower-elevation parts of the study area and COW (Coastal Oak Woodland) was used for all hillside oak woodlands, since those appeared to be the most common types. However, in any area where ground-truth data was not obtained it should be realized that stands labeled VOW or COW may actually comprise some of the other oak-and hardwood-dominated types listed in this table.
+
+*6 "Mixed Upland Forest" is a complex mixture of subtypes, most of which contain some percentage of Douglas-Fir. These subtypes vary from mixed hardwood woodlands with California Bay or oaks, to Mixed Evergreen and Redwood Forests, to forests strongly dominated by Douglas Fir. The WHR Douglas-Fir Habitat type (DFR) is broad enough to include all these local variants, but the CNDDB types are more restrictive. It should be noted that the CNDDB type called Douglas-Fir Forest (82400) actually refers to a Douglas-Fir/Sitka Spruce/Western Hemlock assemblage that does not occur within the project area. Most mixed upland forests containing Douglas-Fir in this area were therefore classified in the more general CNDDB category of "Broad-Leaved Upland Forest" (81000), and were correlated to WHR Montane Hardwood-Conifer Habitat (MHC). However, when the estimated canopy cover by Douglas-Fir exceeded 50% the stand was assigned to CNDDB Mixed North Slope Forest (81500) and correlated to WHR Douglas-Fir Habitat (DFR).
+
+*7 On the western side of the river basin in our study areas, the general distribution of Douglas-Fir Habitat given in Mayer and Laudenslayer (1988) completely overlaps that of Redwood Habitat. Where ground truth was lacking it was not always feasible to separate the two types on our aerial imagery. In doubtful cases, alluvial stands that appeared to be dominated by conifers were coded as WHR Redwood Habitat (RDW) and CNDDB Alluvial Redwood Forest (61120/82310); or as CNDDB Upland Redwood Forest (82320) if they occurred in canyon or moist upland sites.
+
+On the eastern side of the river basin, the overlap in Douglas-Fir and Redwood distributions is much smaller; any upland conifer-dominated stands in this area would be coded as WHR Douglas-Fir Habitat (DFR) and CNDDB Mixed North Slope Forest (81500), unless they were located in canyon sites judged to be more appropriate for CNDDB Upland Redwood Forest (82320).
+
+*8 Although Eucalyptus Forest is listed as a habitat type in Mayer and Laudenslayer (1988), iot is not included as a habitat type in version 5.0 of the CWHR database. For lack of a better designation, the few stands of Eucalyptus that were mapped in the present project were coded as VOW on the assumption that their wildlife habitat values are somewhat similar to oaks (although they do not provide the same food resources).
+
+Item (10). Item Name: P_CLOSE\Field Width: 10\Data Type: Character
+Canopy closure as estimated from aerial photos ("Photo-Closure") was classified into three categories:
+
+Code L = Low; from "10"% (i.e., 5-15%) up to "40"% (i.e., 35-45%)
+Code M = Medium; from &gt; "40"% up to "70"% (i.e., 65-75%)
+Code H = High; from &gt; "70"% up to 100%
+
+
+Note: The standard WHR system uses four classes for percent canopy closure (i.e., 10-24%, 25-39%, 40-59%, 60-100%). In the present project it was not feasible to distinguish such narrowly-defined categories because of the less-than-optimum quality of the available aerial photos; we therefore used the three broad classes defined above. In effect our scheme combined the first two WHR categories ("Sparse" and "Open") into a single class, while retaining classes similar to the WHR's "Moderate" and "Dense" categories.
+
+Note: Our class boundaries for percent canopy closure were deliberately "fuzzy"; i.e., instead of a class boundary being a single percentage value, our threshold criteria spanned a range of values. The dividing line between canopy closure classes was drawn by eye where there was a "noticeable change" in canopy density that fell within these ranges on the photos; the actual location of the line was therefore a matter of the judgement of the photo-interpreter. According to Thompson (1987) a similar procedure is used by USGS to produce vegetation cover information on 7.5 minute quad maps.
+
+Note: Within Zone C in Sonoma County, percent closure of the riparian vegetation canopy was visually estimated from 1:2,400 (1" = 200') prints of aerial photos flown in 1991 for the County Planning Department's Aggregate Monitoring Program. Aerial photos at 1:2,400-scale were not available outside Zone C in Sonoma County or for any part of the study area in Mendocino County; 1:6,000-scale photos were used in these areas to make canopy closure estimates.
+
+Item (11). Item Name: CROWN_SIZE\Field Width: 12\Data Type: Character
+We used 1:2,400-scale and 1:6,000-scale aerial photos to classify vegetation in terms of the average crown diameter of overstory trees. However, we modified the criteria of the WHR system (Mayer and Laudenslayer 1988) by dropping the "multi-layered" class (because it combines layering and cover criteria rather than just tree size), and lumping the remaining five WHR classes into three categories, as follows:
+
+Code A = Seedling to Sapling size (&lt;15'; WHR codes 1 and 2)
+Code B = Pole to Small size (15'-45'; WHR codes 3 and 4)
+Code C = Medium to Large size (&gt;45'; WHR code 5)
+
+The use of these three broad size classes was a deliberate tradeoff, intended to improve the accuracy of classification by accepting some loss of precision.
+
+Note: The WHR system assumes that there is a consistent relationship between crown diameter and dbh which can be applied to all species of conifers on the one hand and all species of hardwoods on the other. No doubt this is an over-simplification, but it enables the user of the WHR system to obtain a rough estimate of average tree dbh from aerial photos in areas or time periods for which ground truth data may be unavailable.
+
+The table below gives the correspondences among size class, conifer crown diameter, hardwood crown diameter, and dbh class that are assumed in the WHR system (Mayer and Laudenslayer 1988). Also shown are the actual sizes of tree crown images as they appear on aerial photos at the scales which were used in this project:
+
+WHR Code, WHR Size Class, WHR Conifer Crown Diam., WHR Hardwood Crown Diam., WHR dbh Class, Hdwood Crown Diam. on 1:6,000 Aerial Photos, Hdwood Crown Diam. on 1:2,400 Aerial Photos
+
+1, Seedling, n/a, n/a, &lt; 1", n/a, n/a
+2, Sapling, n/a, &lt; 15', 1-6", &lt; 0.8 mm, &lt; 1.9 mm
+3, Pole, &lt; 12', 15-30', 6-11", 0.8 - 1.5 mm, 1.9 - 3.8 mm
+4, Small, 12-24', 30-45', 11-24", 1.5 - 2.3 mm, 3.8 - 5.7 mm
+5, Med/Large, &gt; 24', &gt; 45', &gt; 24", &gt; 2.3 mm, &gt; 5.7 mm
+
+Note: The structural condition of an entire stand, i.e., its particular combination of average tree size and canopy closure, is called the "habitat stage" in WHR terminology. A concept similar to that of the WHR habitat stage (albeit at a coarser resolution) can be expressed in our system by combining the codes for our three crown size classes with the codes for our three canopy closure classes.
+
+For example, in our terminology the single habitat stage "BL" (consisting of "Pole to Small" size class trees with "Low" canopy closure) could include up to four of the WHR habitat stages: Pole/Sparse (3S), Pole/Open (3P), Small/Sparse (4S), and Small/Open (4P).
+
+Item (12). Item Name: ELEMENTS\Field Width: 160\Data Type: Character
+"Special Habitat Elements" are specific microhabitat components which are thought to be of importance to wildlife. The following set of elements was selected from the WHR list (see definitions in Mayer and Laudenslayer 1988); during the ground survey, a special effort was made to note the presence within a map polygon of any of these elements, regardless of quantity. Other elements that occurred frequently were also noted:
+
+Physical Elements:
+Code cl = cliff
+Code ba = bank
+Code po = pond
+
+Dead or Decadent Vegetation Elements:
+Code sn = snags (sound, rotten, small, medium, or large)
+Code st = stumps (sound, rotten, or hollow)
+Code sl = slash (small or large)
+Code br = brush pile: slash that has been moved into a pile
+Code lo = logs (medium or large)
+
+Live Vegetation Elements:
+Code tt = trees with broken tops
+Code tb = trees with loose bark
+Code tc = trees with cavities
+Code as = aquatic plants, submerged
+Code ae = aquatic plants, emergent
+
+Food Resources:
+Code fr = fruits
+Code se = seeds
+Code ac = acorns
+Code gr = grain
+
+Code be = berries
+Code co = cones
+Code fl = flowers
+Code ne = nectar</gco:CharacterString>
+         </supplementalInformation>
+      </MD_DataIdentification>
+   </identificationInfo>
+   <contentInfo>
+      <MD_FeatureCatalogueDescription>
+         <complianceCode>
+            <gco:Boolean>false</gco:Boolean>
+         </complianceCode>
+         <language>
+            <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+         </language>
+         <includedWithDataset>
+            <gco:Boolean>true</gco:Boolean>
+         </includedWithDataset>
+         <featureCatalogueCitation>
+            <CI_Citation>
+               <title>
+                  <gco:CharacterString>Feature Catalog for Land Cover of Alluvial Areas: Russian River Main Stem, Alexander Valley Reach, Sonoma County, California, 1993</gco:CharacterString>
+               </title>
+               <date>
+                  <CI_Date>
+                     <date>
+                        <gco:Date>2002-09-01</gco:Date>
+                     </date>
+                     <dateType>
+                        <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                     </dateType>
+                  </CI_Date>
+               </date>
+               <identifier>
+                  <MD_Identifier>
+                     <code>
+                        <gco:CharacterString>8a8aed3f-2688-476f-82d5-781af9243e31</gco:CharacterString>
+                     </code>
+                  </MD_Identifier>
+               </identifier>
+               <citedResponsibleParty>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Circuit Rider Productions</gco:CharacterString>
+                     </organisationName>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </citedResponsibleParty>
+            </CI_Citation>
+         </featureCatalogueCitation>
+      </MD_FeatureCatalogueDescription>
+   </contentInfo>
+   <distributionInfo>
+      <MD_Distribution>
+         <distributionFormat>
+            <MD_Format>
+               <name>
+                  <gco:CharacterString>Shapefile</gco:CharacterString>
+               </name>
+               <version gco:nilReason="missing"/>
+            </MD_Format>
+         </distributionFormat>
+         <distributor>
+            <MD_Distributor>
+               <distributorContact>
+                  <CI_ResponsibleParty>
+                     <organisationName>
+                        <gco:CharacterString>Stanford Geospatial Center</gco:CharacterString>
+                     </organisationName>
+                     <contactInfo>
+                        <CI_Contact>
+                           <phone>
+                              <CI_Telephone>
+                                 <voice>
+                                    <gco:CharacterString>650-723-2746</gco:CharacterString>
+                                 </voice>
+                              </CI_Telephone>
+                           </phone>
+                           <address>
+                              <CI_Address>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>Mitchell Bldg. 2nd floor</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <deliveryPoint>
+                                    <gco:CharacterString>397 Panama Mall</gco:CharacterString>
+                                 </deliveryPoint>
+                                 <city>
+                                    <gco:CharacterString>Stanford</gco:CharacterString>
+                                 </city>
+                                 <administrativeArea>
+                                    <gco:CharacterString>California</gco:CharacterString>
+                                 </administrativeArea>
+                                 <postalCode>
+                                    <gco:CharacterString>94305</gco:CharacterString>
+                                 </postalCode>
+                                 <country>
+                                    <gco:CharacterString>US</gco:CharacterString>
+                                 </country>
+                                 <electronicMailAddress>
+                                    <gco:CharacterString>brannerlibrary@stanford.edu</gco:CharacterString>
+                                 </electronicMailAddress>
+                              </CI_Address>
+                           </address>
+                        </CI_Contact>
+                     </contactInfo>
+                     <role>
+                        <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="distributor" codeSpace="ISOTC211/19115">distributor</CI_RoleCode>
+                     </role>
+                  </CI_ResponsibleParty>
+               </distributorContact>
+            </MD_Distributor>
+         </distributor>
+         <transferOptions>
+            <MD_DigitalTransferOptions>
+               <transferSize>
+                  <gco:Real>0.73</gco:Real>
+               </transferSize>
+               <onLine>
+                  <CI_OnlineResource>
+                     <linkage>
+                        <URL>http://purl.stanford.edu/bk385yz6103</URL>
+                     </linkage>
+                     <protocol>
+                        <gco:CharacterString>http</gco:CharacterString>
+                     </protocol>
+                     <name>
+                        <gco:CharacterString>rr_av_93.shp</gco:CharacterString>
+                     </name>
+                     <function>
+                        <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                     </function>
+                  </CI_OnlineResource>
+               </onLine>
+            </MD_DigitalTransferOptions>
+         </transferOptions>
+      </MD_Distribution>
+   </distributionInfo>
+</MD_Metadata>
