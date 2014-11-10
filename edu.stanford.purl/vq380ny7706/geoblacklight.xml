@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://purl.stanford.edu/vq380ny7706</field>
+    <field name="dc_identifier_s">http://purl.stanford.edu/vq380ny7706</field>
+    <field name="dc_title_s">Shrines: Mazār-i Sharīf, Afghanistan, 2005</field>
+    <field name="dc_description_s">This point dataset shows the location of shrines in the city of Mazār-i Sharīf. Afghanistan. This layer was mapped at 1:5,000 scale from the one meter IKONOS satellite imagery. This layer is part of the Topographic Maps of Afghanistan and Kabul dataset which contains shapefiles relating to district and provincial boundaries, land use, transportation, buildings and structures, rivers, settlements and other specific city data.This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</field>
+    <field name="dc_rights_s">Restricted</field>
+    <field name="dct_provenance_s">Stanford</field>
+    <field name="dct_references_s">{"http://schema.org/url":"http://purl.stanford.edu/vq380ny7706","http://schema.org/thumbnailUrl":"http://stacks-dev.stanford.edu/file/druid:vq380ny7706/preview.jpg","http://schema.org/DownloadAction":"http://stacks-dev.stanford.edu/file/druid:vq380ny7706/data.zip","http://www.loc.gov/mods/v3":"http://purl.stanford.edu/vq380ny7706.mods","http://www.isotc211.org/schemas/2005/gmd/":"http://purl.stanford.edu/vq380ny7706.iso19139","http://www.opengis.net/def/serviceType/ogc/wms":"http://kurma-podd1.stanford.edu/geoserver/wms","http://www.opengis.net/def/serviceType/ogc/wfs":"http://kurma-podd1.stanford.edu/geoserver/wfs","http://www.opengis.net/def/serviceType/ogc/wcs":"http://kurma-podd1.stanford.edu/geoserver/wcs"}</field>
+    <field name="layer_id_s">druid:vq380ny7706</field>
+    <field name="layer_slug_s">stanford-vq380ny7706</field>
+    <field name="layer_geom_type_s">Point</field>
+    <field name="layer_modified_dt">2014-11-06T20:54:03Z</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dc_publisher_s">Afghanistan Information Management Service</field>
+    <field name="dc_creator_sm">Afghanistan Information Management Service</field>
+    <field name="dc_subject_sm">Shrines</field>
+    <field name="dc_subject_sm">Location</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dct_issued_s">2005</field>
+    <field name="dct_temporal_sm">2004</field>
+    <field name="dct_temporal_sm">2005</field>
+    <field name="dct_spatial_sm">Mazār-i Sharīf (Afghanistan)</field>
+    <field name="dct_spatial_sm">Mazār-i Sharīf (Afghanistan)</field>
+    <field name="dc_relation_sm">http://sws.geonames.org/8354719/about.rdf</field>
+    <field name="georss_box_s">36.709045 67.111038 36.709045 67.111038</field>
+    <field name="georss_polygon_s">36.709045 67.111038 36.709045 67.111038 36.709045 67.111038 36.709045 67.111038 36.709045 67.111038</field>
+    <field name="solr_geom">ENVELOPE(67.111038, 67.111038, 36.709045, 36.709045)</field>
+    <field name="solr_bbox">67.111038 36.709045 67.111038 36.709045</field>
+    <field name="solr_sw_pt">36.709045,67.111038</field>
+    <field name="solr_ne_pt">36.709045,67.111038</field>
+    <field name="solr_year_i">2004</field>
+    <field name="solr_wms_url">http://kurma-podd1.stanford.edu/geoserver/wms</field>
+    <field name="solr_wfs_url">http://kurma-podd1.stanford.edu/geoserver/wfs</field>
+    <field name="solr_wcs_url">http://kurma-podd1.stanford.edu/geoserver/wcs</field>
+  </doc>
+</add>
