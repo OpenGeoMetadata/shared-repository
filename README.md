@@ -33,39 +33,34 @@ Some examples already established include Princeton [edu.princeton.arks](https:/
 
 ** Summarized from https://github.com/OpenGeoMetadata/metadatarepository/issues/3*
 
-Within its repository an organization has tremendous flexibility on how it organizes its metadata records. An optional file, `layers.json` is requested for easy mapping of layers to their location within an organization's repository. See basic and advanced directory structures below with examples of a `layer.json` file.
+Within its repository an organization has tremendous flexibility on how it organizes its metadata records. An optional file, `layers.json` is requested for easy mapping of layers to their location within an organization's repository (e.g., `Layer-Id : Folder`).
 
-#### Basic directory structure (1 - 250 records)
+#### Basic directory structure
 
-For an organization with less than 250 records a basic structure within your repository is achievable. A directory should be created for each layer (or item described). That directory shall be named based off of the identifier generated or given. Each directory shall contain the metadata for that layer, in whichever standardized format an institution deems appropriate.
+For an organization with a small number of records (e.g., 250 records), a basic structure within your repository is achievable. A directory should be created for *each* layer (or item described). That directory shall be named based off of the unique identifier generated or given. Each directory shall contain the metadata for that layer, in whichever standardized format an institution deems appropriate.
 
 **Directory structure**
 ```
 /layer123/fgdc.xml
 /layer124/fgdc.xml
 /layer125/fgdc.xml
-layers.json
 ```
 
-**layers.json**
-```
-{
-  "namespace:layer123": "layer123",
-  "namespace:layer124": "layer124",
-  "namespace:layer125": "layer125",
-  ...
-}
-```
-
-#### Advanced directory structure (> 250 records)
+#### Advanced directory structure
 
 For an organization with a large amount of described layers, a flat directory structure may be inappropriate due to performance issues. A more advanced directory structure may be needed. Examples of this could include:
 
 **Directory structure** ([View on Github](https://github.com/OpenGeoMetadata/edu.stanford.purl))
 ```
-/bb/338/jh/0716/iso19139.xml
-/bb/509/gh/7292/iso19139.xml
-/bc/899/yk/4538/iso19139.xml
+/bb/338/jh/0716/iso19110.xml
+               /iso19139.xml
+               /preview.jpg
+/bb/509/gh/7292/iso19110.xml
+               /iso19139.xml
+               /preview.jpg
+/bc/899/yk/4538/iso19110.xml
+               /iso19139.xml
+               /preview.jpg
 layers.json
 ```
 
