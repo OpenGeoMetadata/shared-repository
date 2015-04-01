@@ -67,9 +67,9 @@ layers.json
 **layers.json**([View on Github](https://github.com/OpenGeoMetadata/edu.stanford.purl/blob/master/layers.json))
 ```
 {
-  "edu.stanford.purl:bb338jh0716": "bb/338/jh/0716",
-  "edu.stanford.purl:bb509gh7292": "bb/509/gh/7292",
-  "edu.stanford.purl:bc899yk4538": "bc/899/yk/4538",
+  "druid:bb338jh0716": "bb/338/jh/0716",
+  "druid:bb509gh7292": "bb/509/gh/7292",
+  "druid:bc899yk4538": "bc/899/yk/4538",
   ...
 }
 ```
