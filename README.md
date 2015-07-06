@@ -31,7 +31,7 @@ Some examples already established include Princeton [edu.princeton.arks](https:/
 
 ### Structure within an organizations repository
 
-** Summarized from https://github.com/OpenGeoMetadata/metadatarepository/issues/3*
+** Summarized from https://github.com/OpenGeoMetadata/metadatarepository/issues/3 **
 
 Within its repository an organization has tremendous flexibility on how it organizes its metadata records. An optional file, `layers.json` is requested for easy mapping of layers to their location within an organization's repository (e.g., `Layer-Id : Folder`).
 
@@ -64,7 +64,7 @@ For an organization with a large amount of described layers, a flat directory st
 layers.json
 ```
 
-**layers.json**([View on Github](https://github.com/OpenGeoMetadata/edu.stanford.purl/blob/master/layers.json))
+**layers.json** ([View on Github](https://github.com/OpenGeoMetadata/edu.stanford.purl/blob/master/layers.json))
 ```
 {
   "druid:bb338jh0716": "bb/338/jh/0716",
