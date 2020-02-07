@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "c55867a4-3975-4965-87d4-5e14ce1d6e0b",
   "dc_title_s": "Centers for Disease Control and Prevention (CDC) Social Vulnerability Index (SVI)",
   "dc_description_s": "Social vulnerability refers to populations that are particularly vulnerable to disruption and health problems as a result of natural disasters, human-made disasters, climate change, and extreme weather. The Geospatial Research, Analysis, and Services Program (GRASP) within the CDC created the Social Vulnerability Index (SVI) to help flag areas where residents will be in greatest need of support and recovery assistance in the case of a disaster or extreme weather event.The index is comprised of four categories of vulnerability\u201c\u00e2\u20ac\u009dsocioeconomic status, household composition and disability, minority status and language, and housing and transportation. Data from the 2012-2016 ACS informs the score for each category. Socioeconomic vulnerability is comprised of population below poverty, unemployed population, low income population, and people with no high school diploma. Vulnerability due to household composition and disability is comprised of adults age 65 or older, children age 17 or younger, people over age 5 with a disability, and single parent households. The minority status and language category is comprised of minority population, defined as people of any race or ethnicity other than non-Hispanic White, and people over the age of five who speak English less than well. The housing and transportation category is a combination of housing units in multifamily buildings with ten or more units, mobile homes, crowded housing units (defined as housing units with more people than rooms), households with no available vehicle, and group quarters population (which includes dormitories, prisons, and people living in other institutions).The GRASP program combined the ACS variables into categories by assigning each geography a percentile ranking for that variable, then summing those percentiles to create an overall score within that category. Then percentile rankings were assigned for each of the four categories, which were summed to create the overall Social Vulnerability Index. The four social vulnerability levels\u201c\u00e2\u20ac\u009dLow, Low to Moderate, Moderate to High, and High\u201c\u00e2\u20ac\u009dare defined by dividing all tracts or counties in the country into quantiles based on the Social Vulnerability Index. Find more information on the CDC\u2018s Social Vulnerability Index at https://svi.cdc.gov/.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-c55867a4-3975-4965-87d4-5e14ce1d6e0b",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "523f3195-3793-407c-8329-76f9dfc2b840",
   "dc_title_s": "National Oceanic and Atmospheric Association (NOAA) Weather Conditions",
   "dc_description_s": "The National Oceanic and Atmospheric Association (NOAA) provides data on temperatures for each day of each month. The average maximum and minimum temperatures for each month are calculated by PolicyMap by taking the mean of the range provided by the NOAA and calculating a weighted average based on geographic area.The indices commonly known as the \u201cComfort Index\u201cinclude a Heat Index (HI) and a Wind Chill Temperature, both of which are calculated in degrees Fahrenheit. The HI is a measure of how hot it feels in July at the middle of the day when relative humidity is added to the temperature. The HI is derived from a calculation provided by the National Weather Service. Temperature and relative humidity data are provided by the NOAA. Wind chill is a measure of how cold it feels at the middle of the day when wind speed is added to the temperature. Wind chill is derived from a calculation provided by the National Weather Service. Temperature and wind speed data are provided by the NOAA. Wind chill temperature cannot be calculated for areas with temperatures of 50 degrees Fahrenheit or higher or for wind speeds less than 3 miles per hour.The NOAA provides data on precipitation and sun for each day of each month. The average annual rainfall days, the average annual snowfall days and the average annual sunny days are estimated by PolicyMap by taking the mean of the range provided for each type of day provided by the NOAA and calculating a weighted average based on geographic area.Each of these indicators is available for the continental United States and for selected parts of Alaska and Hawaii. They are not available for Puerto Rico.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-523f3195-3793-407c-8329-76f9dfc2b840",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

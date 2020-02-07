@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "6bf830b5-0266-4e4f-96f4-736ad9b6b2ba",
   "dc_title_s": "United States Department of Agriculture (USDA), Watershed Boundary Dataset",
   "dc_description_s": "The Watershed Boundary Dataset contains boundaries of watersheds throughout the country. According to the USDA, \u201cWatershed boundaries define the aerial extent of surface water drainage to a point.\u201cThe hydrologic units are nested in a hierarchical system, so basins are comprised of subbasins, subbasins, subbasins are comprised of watersheds, and watersheds are comprised of subwatersheds. The boundaries can assist in land use and water use planning.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-6bf830b5-0266-4e4f-96f4-736ad9b6b2ba",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

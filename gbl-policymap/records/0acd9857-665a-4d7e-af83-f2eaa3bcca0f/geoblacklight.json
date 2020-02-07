@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "0acd9857-665a-4d7e-af83-f2eaa3bcca0f",
   "dc_title_s": "DHS Immigration Yearbook",
   "dc_description_s": "The Department of Homeland Security\u2018s Yearbook of Immigration Statistics is an annual publication on documented foreign nationals in the United States. PolicyMap contains state and CBSA-level data on the number of people granted Legal Permanent Resident (LPR) status by region of birth and by selected countries. If the volume of immigrants receiving green cards in any year was more than 15,000 people, the country was included.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-0acd9857-665a-4d7e-af83-f2eaa3bcca0f",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

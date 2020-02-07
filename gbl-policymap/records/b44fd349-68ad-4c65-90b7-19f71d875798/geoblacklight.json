@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "b44fd349-68ad-4c65-90b7-19f71d875798",
   "dc_title_s": "HUD Federal Block Grant Allocations",
   "dc_description_s": "The US Department of Housing and Urban Development (HUD) releases annual funding allocations for the programs administered by the Office of Community Planning and Development (CPD). These programs include: Community Development Block Grants (CDBG); HOME Investment Partnerships (HOME); Housing Opportunities for Persons with AIDS (HOPWA); and Emergency Shelter Grants (ESG).These datasets are mapped according to CPD\u2018s custom boundaries for Formula Allocations. Data are mapped to the most recent boundaries available. See: https://hudgis-hud.opendata.arcgis.com/",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-b44fd349-68ad-4c65-90b7-19f71d875798",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

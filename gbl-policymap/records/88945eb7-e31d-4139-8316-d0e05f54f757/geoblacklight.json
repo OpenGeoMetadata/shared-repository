@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "88945eb7-e31d-4139-8316-d0e05f54f757",
   "dc_title_s": "National Center for Education Statistics",
   "dc_description_s": "The Common Core of Data (CCD) is a program of the U.S. Department of Education\u2018s National Center for Education Statistics that collects selected data about all public schools, public school districts and state education agencies in the United States every year. Data are supplied by state education agency officials. School district data was downloaded from the Elementary/Secondary Information System (ElSi), available at http:/ces.ed.gov/ccd/elsi/. Percentages calculated by PolicyMap (such as percent of students who are English Language Learners) were suppressed where the numerator was greater than the denominator (such as when a school district reported more English Language Learners than total students).",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-88945eb7-e31d-4139-8316-d0e05f54f757",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "d70b804f-fc10-44ee-a974-3dbba36dc8d2",
   "dc_title_s": "Census: Annual Survey of State and Local Government Finances",
   "dc_description_s": "The U.S. Census Annual Survey of State and Local Government Finances provides annual statistics on revenue, expenditure, debt, and assets for the 50 states and D.C. This survey includes calculation of special assessments revenue as a percentage of general revenue by governmental level. Data comes from the U.S. Census Annual Survey: https://www.census.gov/programs-surveys/gov-finances.html.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-d70b804f-fc10-44ee-a974-3dbba36dc8d2",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

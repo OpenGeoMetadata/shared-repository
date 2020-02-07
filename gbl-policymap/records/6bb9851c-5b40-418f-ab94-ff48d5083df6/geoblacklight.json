@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "6bb9851c-5b40-418f-ab94-ff48d5083df6",
   "dc_title_s": "United States Department of Agriculture (USDA) Rural Development, Single Family and Multifamily Ineligible Areas",
   "dc_description_s": "Areas determined as ineligible by USDA Rural Development for single family and multifamily property loans and grants. Data available for download at http://www.sc.egov.usda.gov/data/data_files.html.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-6bb9851c-5b40-418f-ab94-ff48d5083df6",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

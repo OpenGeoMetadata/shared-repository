@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "8d53376f-06bb-4e81-9c66-79ca9b8c48e5",
   "dc_title_s": "PolicyMap & American Community Survey (ACS)",
   "dc_description_s": "PolicyMap calculated local median income as a share of area median income using 2012-2016 American Community Survey (ACS) estimates of median household income and median family income. For all tracts and block groups located within Census-defined metropolitan areas, this calculation is local median income as a share of metro-area median income. For tracts and block groups outside of Census-defined metro areas, this is local median income as a share of the non-metro state median income.PolicyMap has chosen specific breaks in the data, following on commonly used and understood guidelines. PolicyMap subscribers can edit the breaks in the ranges if some other set of breaks is preferred.Please be aware that the thresholds and data sources used in this calculation can vary, and federal agencies may require specific calculations for some program applications. The Community Development Block Grant (CDBG) program defines low and moderate income tracts based on what percent of the population is low or moderate income, rather than by comparing median local values to the surrounding metro area (See HUD Community Development Block Grant Eligibility Criteria above). The Community Reinvestment Act (CRA) specifies what years of income data to include in the calculation and 2000 data for local median income and 2004 data for area median income. (See Community Reinvestment Act Eligibility Criteria above). Both CDBG and CRA low and moderate income calculations can be found on PolicyMap under the Federal Guidelines tab.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-8d53376f-06bb-4e81-9c66-79ca9b8c48e5",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

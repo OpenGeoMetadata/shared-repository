@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9a60a548-fb8d-4876-b071-d62c56e2b3c0",
   "dc_title_s": "HUD Low-Income Housing Tax Credit (LIHTC) Database",
   "dc_description_s": "PolicyMap downloaded the properties listed in HUD\u2018s LIHTC Database in July, 2018. HUD provided mapping coordinates for approximately 93% of these developments. The LIHTC program was created by the Tax Reform Act of 1986, and gives state and local LIHTC allocating agencies authority to issue tax credits for acquisition, rehabilitation or new construction of low income rental housing.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-9a60a548-fb8d-4876-b071-d62c56e2b3c0",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

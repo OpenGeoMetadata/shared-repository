@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "6b9339af-35db-427f-96c2-9e4e18df3b1b",
   "dc_title_s": "United States Elections Project",
   "dc_description_s": "The United States Elections Project uses multiple sources to calculate a voter turnout rate that takes into account the voting eligible population (VEP), and not just the voting age population (VAP). The turnout rate was calculated by dividing the number of votes for the highest office in the election (often president, governor, or congress) by the voting age population minus non-citizens and those in prison, on probation, or on parole, for states where such people are ineligible to vote. Some states permanently disenfranchise felons and people who have been judged mentally incompetent; these exclusions are not included in the data. Votes from people living overseas are counted in the vote total, but such people are not counted in the denominator, except at the national level. More information can be found at http://www.electproject.org/home/voter-turnout/faq.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-6b9339af-35db-427f-96c2-9e4e18df3b1b",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

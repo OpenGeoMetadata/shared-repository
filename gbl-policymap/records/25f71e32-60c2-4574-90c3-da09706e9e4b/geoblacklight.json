@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "25f71e32-60c2-4574-90c3-da09706e9e4b",
   "dc_title_s": "U.S. Bureau of Economic Analysis",
   "dc_description_s": "The Bureau of Economic Analysis provides data on the geographic distribution of economic activity within the country.Supplemental Nutrition Assistance Program (SNAP) benefits are issued to qualifying low-income individuals to supplement their ability to purchase food. Eligibility is determined by state authorities\u2018interpretations of Federal regulations. The U.S. Department of Agriculture (USDA) pays the cost of the assistance.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-25f71e32-60c2-4574-90c3-da09706e9e4b",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

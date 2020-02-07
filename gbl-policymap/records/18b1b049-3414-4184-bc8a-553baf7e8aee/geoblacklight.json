@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "18b1b049-3414-4184-bc8a-553baf7e8aee",
   "dc_title_s": "Environmental Protection Agency (EPA), Superfund Enterprise Management System",
   "dc_description_s": "Locations of Superfund sites are from EPA\u2018s Superfund Enterprise Management System. The Superfund program is an evaluation program for active and inactive hazardous waste sites. Sites on the National Priorities List (NPL) are included on PolicyMap, as well as sites proposed for the NPL or formerly on the NPL.Human exposure and groundwater migration information are environmental indicators based on metrics set by the EPA. These indicators are used to measure progress made through site cleanup activities.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-18b1b049-3414-4184-bc8a-553baf7e8aee",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

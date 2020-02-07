@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "84880cbd-7dbb-4980-a4da-3611d584d569",
   "dc_title_s": "United States Department of Agriculture (USDA), Soil Survey Geographic (SSURGO) Database",
   "dc_description_s": "The Soil Survey Geographic (SSURGO) Database contains data on prime farmland throughout the country based on soil quality. Included in this data are areas classified as \u201cAll areas are prime farmland\u201cand \u201cPrime Farmland if improved\u201c\u00c2\u009d.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-84880cbd-7dbb-4980-a4da-3611d584d569",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

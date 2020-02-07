@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "bb774a3d-8830-45c1-b0de-5acdf7b2e19b",
   "dc_title_s": "Centers for Medicare and Medicaid Services",
   "dc_description_s": "The Centers for Medicare and Medicaid Services\u2018chronic conditions data warehouse contains claims information for persons enrolled in the Medicare fee-for-service (FFS) program. Only information for beneficiaries enrolled in both Part A and Part B is included; information for beneficiaries who have died during the study year is included. Non-FFS Medicare beneficiaries are those with partial Part A and/or Part B coverage and people with more than one month of HMO coverage.Medicare Part A (hospital insurance) and Part B (medical insurance) cover individuals ages 65 and over who are receiving Social Security, people who have received disability benefits for at least two years, people who have amyotrophic lateral sclerosis (Lou Gehrig\u2018s disease) and receive disability benefits, and people who have end-stage renal disease (permanent kidney failure) and receive maintenance dialysis or a kidney transplant. Individuals with Medicare Advantage (Part C) and Medicare Prescription Drug Plan (Part D) coverage are not represented in the data.Chronic health condition data is based on CMS administrative enrollment and claims data for Medicare fee-for-service beneficiaries. A Medicare beneficiary is considered to have a chronic condition if there is a CMS claim indicating that the beneficiary received a service or treatment for that specific condition. Beneficiaries may have more than one of the chronic conditions listed. All dollar amounts in this data set are standardized by CMS to adjust for factors that result in different payment rates for the same service, including local variations in wages and payments Medicare makes to hospitals to advance program goals (including training doctors). The standardized values represent what Medicare would have paid in the absence of those adjustments. Because the state of Maryland is exempt from reporting special payments to Medicare, costs in Maryland were standardized using different factors than the nationwide model.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-bb774a3d-8830-45c1-b0de-5acdf7b2e19b",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

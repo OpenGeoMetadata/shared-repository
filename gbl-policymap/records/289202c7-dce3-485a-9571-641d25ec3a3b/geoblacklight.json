@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "289202c7-dce3-485a-9571-641d25ec3a3b",
   "dc_title_s": "Centers for Disease Control and Prevention (CDC) Infant Birth and Prenatal Care",
   "dc_description_s": "The Centers for Disease Control (CDC) dataset provides the number of births, the number and percent of infants born with birth weight under 2,500 ounces (low birthweight), the number and percent of infants born with birth weight under 1,500 ounces (very low birthweight), the number and percent of births where prenatal care began during the first trimester and the number and percent of births where prenatal care was received in only the third trimester or not at all. The CDC only reports numbers of births for counties with populations of 100,000.The CDC also provides numbers and rates for mothers under age 20. Additionally, this dataset includes the number and percent of births to mothers under the age of 20, with break outs for mother under age 18 and mothers 18 and 19 for select years. Data on prenatal care is only available for counties with populations of 100,000 or more.Beginning in 2007, data are reported from the 2003 U.S. standard Certificate of Live Birth, with additions of information on birth anomalies and several less variables related to maternal risk factors than the previous 2003 revision.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-289202c7-dce3-485a-9571-641d25ec3a3b",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

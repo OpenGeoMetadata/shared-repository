@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "71149f67-4c20-4b73-913d-e96650d501e0",
   "dc_title_s": "Environmental Protection Agency (EPA) Smart Location Database",
   "dc_description_s": "The Environmental Protection Agency\u2018s (EPA) Smart Location Database provides data on the relationship between land use and transportation efficiency. The Smart Location Database (SLD) summarizes several demographic, employment, and land use variables for Census block groups. PolicyMap made an excerpt from this larger body of work available on its platform.Frequency of transit service provides a general metric of the quality of public transit options in an area. EPA calculated transit frequency through an analysis of General Transit Feed Specification (GTFS) data between 4:00 and 7:00 PM on a weekday. Then, for each block group, EPA identified transit routes with service that stops within 0.4 km (0.25 miles). Finally, EPA summed aggregate service frequency by block group. Values for this metric are expressed as service frequency per hour of service. GTFS is a transit data reporting standard that allows public transit agencies to publish data in a standard format. EPA also calculated frequency of transit service per square mile by dividing frequency of transit service per hour by total land acreage then converting to units per square mile. Where the total land acreage was zero, total block group acreage was used as the denominator.To create the indicators on job or workforce accessibility by auto travel, the EPA joined an origin-destination matrix to employment and demographic data from the 2010 Census. Although the transit accessibility indicators were analyzed the same way as the auto accessibility, it was analyzed for evening peak travel period only, as this is normally the period of relatively intense levels of transit service.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-71149f67-4c20-4b73-913d-e96650d501e0",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

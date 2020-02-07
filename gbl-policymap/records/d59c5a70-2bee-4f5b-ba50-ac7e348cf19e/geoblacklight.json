@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "d59c5a70-2bee-4f5b-ba50-ac7e348cf19e",
   "dc_title_s": "Civil Rights Data Collection",
   "dc_description_s": "The Civil Rights Data Collection (CRDC) contains wide-ranging data on equity among public schools. The data is based on school district responses to a biennial survey conducted by the Office of Civil Rights in the Department of Education.The data currently being displayed on PolicyMap is a small subset of the total data offered in the CRDC. More information can be found on the CRDC website. Most indicators are broken out by student race and sex, but have been aggregated together on PolicyMap. Requests for additional CRDC data on PolicyMap can be made by e-mailing us.Percent indicators have all been derived by PolicyMap. Retention data (students held back) uses counts from the National Center for Education Statistics\u2018s Common Core of Data (NCES CCD) for its denominators. The rate of students who have taken the ACT or SAT exams per 100 seniors is not the percent of seniors who have taken the exams. Students younger than 12th grade may be included in the numerator, but the denominator is the count of 12th graders from the NCES CCD.School locations, names, district names, level, type, and charter school status are all from the NCES CCD for the 2011-2012 school year. The next version of this data will be for the 2013-2014 school year, and will be released in 2015.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-d59c5a70-2bee-4f5b-ba50-ac7e348cf19e",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

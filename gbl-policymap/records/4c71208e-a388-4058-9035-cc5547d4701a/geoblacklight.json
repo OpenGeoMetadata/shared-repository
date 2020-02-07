@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "4c71208e-a388-4058-9035-cc5547d4701a",
   "dc_title_s": "CDFI (Community Development Financial Institutions) Fund Priority Points",
   "dc_description_s": "The Community Development Financial Institutions (CDFI) Fund, a division of the US Department of the Treasury, is now using a priority point system for scoring its applications. Applicants are awarded up to 5 \u201cpriority points\u201cfor their commitment to serve communities facing the highest levels of distress.The score is tabulated using various distress indicators, which are also mapped on PolicyMap. These indicators are: poverty rates, median household income, unemployment rates, home foreclosures and high-cost mortgages.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-4c71208e-a388-4058-9035-cc5547d4701a",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

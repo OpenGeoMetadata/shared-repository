@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "b075459c-a400-4573-ba79-3927e32b64d9",
   "dc_title_s": "FDIC Branches",
   "dc_description_s": "The Federal Deposit Insurance Corporation releases data on failures and assistance transactions of financial institutions in the United States and its territories. This data draws on information from two FDIC databases: Failures and Assistance Transactions United States and Other Areas (Table BF01, available here: http://www2.fdic.gov/hsob/SelectRpt.asp?EntryTyp=30) which is updated on an ongoing basis, and the FDIC Institution Directory (http://www2.fdic.gov/idasp/main.asp), which is updated weekly. PolicyMap is updated on a quarterly basis. The data includes banks that have failed since October 1, 2000. The fields in the data for the assets and deposits of the acquiring bank are from the most recent quarterly report by the FDIC at the time of the most recent data update (this may be different than the acquiring bank information at the time of the initial bank closing). The FDIC\u2018s Summary of Deposits (SOD) is an annual survey of branch offices for all FDIC-insured institutions, including U.S. branches of foreign banks. Data is updated by the FDIC annually.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-b075459c-a400-4573-ba79-3927e32b64d9",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

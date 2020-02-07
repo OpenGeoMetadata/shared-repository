@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "2d1a583d-733b-489e-84fb-1b4b0ba36ca9",
   "dc_title_s": "United States Department of Agriculture, Economic Research Service (ERS/USDA) Oil and Gas Production in the U.S.",
   "dc_description_s": "The drilling process known as hydraulic fracturing (\u201cfracking\u201c\u00c2\u009d) developed in the 1990s and early 2000s has allowed the U.S. to profitably extract oil and gas reserves long trapped deep in shale and other formations. As a result, oil and gas production increased dramatically over the last two decades. Fracking involves shooting a mixture of water, sand, and chemicals at high pressures into underground rock formations, causing oil and gas to flow up to the surface.Researchers at the Economic Research Service (ERS) at the United States Department of Agriculture (USDA) acquired disaggregated data from State agencies and created this national dataset of county level onshore oil and gas production. While some states had county-level data available, in other cases ERS researchers aggregated well-level databases to estimate county production numbers.Raw data for natural gas is for gross withdrawals. Oil data includes natural gas liquids except for Colorado where the state reported them as natural gas withdrawals. State reported natural gas withdrawals were not available for Illinois and Indiana; ERS researchers used geocoded wells and total state production from the U.S. Energy Information Administration (EIA) to create these estimates.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-2d1a583d-733b-489e-84fb-1b4b0ba36ca9",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

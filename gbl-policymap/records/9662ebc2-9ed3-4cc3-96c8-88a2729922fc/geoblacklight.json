@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9662ebc2-9ed3-4cc3-96c8-88a2729922fc",
   "dc_title_s": "HUD Annual Homeless Assessment Report (AHAR)",
   "dc_description_s": "The U.S. Department of Housing and Urban Development (HUD) submits annual reports to Congress about homelessness in the United States. The reports include point-in-time counts of homeless persons on a single night in January based on local community counts. These counts are submitted annually to HUD by local Continuums of Care (CoC) as part of the competitive funding process.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-9662ebc2-9ed3-4cc3-96c8-88a2729922fc",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

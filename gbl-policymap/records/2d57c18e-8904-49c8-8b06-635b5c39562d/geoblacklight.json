@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "2d57c18e-8904-49c8-8b06-635b5c39562d",
   "dc_title_s": "Harvard/UC Berkeley Equality of Opportunity Project",
   "dc_description_s": "These data come from research put out by Harvard University and the University of California at Berkeley as part of The Equality of Opportunity Project. Through this project, the researchers set out to examine geographical differences in economic mobility rates throughout the country and to look at the impact of tax expenditures on intergenerational mobility. As part of this study, the researchers released data on the probability that a child growing up with parents with an annual household income in a certain income quintile will have an annual household in a certain quintile as an adult. On PolicyMap, we used this data to display the percent chance that children from low- and middle-income families will achieve certain income ranges as adults.These data are mapped to Commuting Zones (CZs), which PolicyMap created using geographic crosswalks provided by the source. Based on Census data, CZs are geographical aggregations of counties based on commuting patterns that are similar to metro areas but also cover rural areas. Children are assigned to the CZ based on their location at age 16 (no matter where they live today), and the location is thus interpreted as where the child grew up.For a full report on the researchers\u2018findings, see http://obs.rc.fas.harvard.edu/chettyax_expenditure_soi_whitepaper.pdf. For more information about the Equality of Opportunity Project or the Commuting Zone geography, visit http://www.equality-of-opportunity.org.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-2d57c18e-8904-49c8-8b06-635b5c39562d",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

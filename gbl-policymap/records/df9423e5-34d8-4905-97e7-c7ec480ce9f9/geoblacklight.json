@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "df9423e5-34d8-4905-97e7-c7ec480ce9f9",
   "dc_title_s": "Administrative Office of the U.S. Courts",
   "dc_description_s": "The Administrative Office of the U.S. Courts provides information on consumer and business bankruptcy filings. Where the source data showed bankruptcies in one county in multiple districts (for example, El Paso, Texas bankruptcies in Pennsylvania\u2018s Eastern district as well as Texas\u2018s Western district), the counts from the county in each district were added together. Where a county was not listed in the source data, we attributed zero bankruptcies.For the percent of non-business bankruptcies as a percent of population, we used the age 18 and over population from the Census\u2018s County Population Estimates. The year of data used for the population is in some cases a year previous to the bankruptcy data, because the latest year of population data has not yet come out.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-df9423e5-34d8-4905-97e7-c7ec480ce9f9",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

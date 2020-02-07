@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9a018e4e-63a0-49fc-97b6-1f4dd9176349",
   "dc_title_s": "HUD Racially and Ethnically-Concentrated Areas of Poverty",
   "dc_description_s": "This dataset, provided by the US Department of Housing and Urban Development (HUD), identifies census tracts that meet or exceed HUD\u2018s established thresholds for racially and ethnically-concentrated areas of poverty (R/ECAPs). These tracts have a non-white population that is greater than or equal to 50% and meet either of the following poverty criteria: the poverty rate of a tract is 1) higher than 40% or 2) more than three times the average poverty rate of tracts in the metropolitan area. The racial/ethnic threshold is lowered to 20% for tracts that are located outside of metropolitan/micropolitan areas. HUD used component data from the decennial census (2010) and the American Community Survey (2009-2013) to determine which geographies met these criteria in 2010, and component data from Brown Longitudinal Tract Database, based on decennial census data from 2000 and 1990, to determine R/ECAP geographies for 1990 and 2000. HUD provides data from all years at the 2010 census tract boundaries. HUD recommends program participants identify R/ECAP areas in assessments of the barriers to fair and inclusive housing. For more information, see the HUD website subsection on Affirmatively Furthering Fair Housing at https://www.hudexchange.info/programs/affh/resources/.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-9a018e4e-63a0-49fc-97b6-1f4dd9176349",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

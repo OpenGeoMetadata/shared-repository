@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "15d592e2-dfd3-4ca0-853c-be6dd1012ebe",
   "dc_title_s": "Pitney Bowes ZIP Code Boundaries",
   "dc_description_s": "ZIP Code boundary files on PolicyMap are licensed from Pitney Bowes. Pitney Bowes builds its ZIP codes boundary files from individual addresses to align boundaries with streets; it is the source recommended for business by the US Postal Service.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-15d592e2-dfd3-4ca0-853c-be6dd1012ebe",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

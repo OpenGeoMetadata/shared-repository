@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "2ba5cec8-8261-483d-a67c-f7df09ebf862",
   "dc_title_s": "Federal Housing Finance Agency (FHFA)",
   "dc_description_s": "The housing price index (HPI) is a broad measure of the movement of single-family house prices based on transactions involving conforming, conventional mortgages purchased or securitized by Fannie Mae or Freddie Mac. The HPI is a weighted, repeat-sales index, meaning that it measures average price changes in repeat sales or refinancings on the same properties.The annual indices for smaller geographies should be considered developmental. As with the standard FHFA HPIs, revisions to these indexes may reflect the impact of new data or technical adjustments. Indexes are calibrated using appraisal values and sales prices for mortgages bought or guaranteed by Fannie Mae and Freddie Mac. An index is not reported in cases where sample sizes on mortgage transactions are too small for a given geographic area. These indices were developed as part of FHFA Working Paper 16-01 (Bogin, A., Doerner, W. and Larson, W. (2016). Local House Price Dynamics: New Indices and Stylized Facts. Federal Housing Finance Agency, Working Paper 16-01.) The working paper may be accessed at http://www.fhfa.gov/papers/wp1601.aspx.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-2ba5cec8-8261-483d-a67c-f7df09ebf862",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

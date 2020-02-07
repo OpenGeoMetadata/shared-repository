@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "4fdfb4a8-f87a-488e-a3f4-3925e8113700",
   "dc_title_s": "Institute of Museum and Library Services, Public Libraries Survey",
   "dc_description_s": "The Public Libraries Survey (PLS) is conducted annually by the IMLS. The data file includes all public libraries and outlets identified by state library agencies in the 50 States, the District of Columbia, and the outlying areas of Guam, the Northern Mariana Islands, Puerto Rico and the U.S. Virgin Islands.Library outlet locations include central libraries, branches, bookmobiles, and books-by-mail locations. Points were geocoded by IMLS based on addresses provided by the survey respondent (library administrator), and in some cases were matched to the center point of the postal zip code or zip code division. IMLS was able to locate 99.9% of library outlets on a map.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-4fdfb4a8-f87a-488e-a3f4-3925e8113700",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [
