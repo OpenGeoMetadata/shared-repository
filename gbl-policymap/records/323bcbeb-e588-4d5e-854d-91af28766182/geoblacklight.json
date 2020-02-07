@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "PolicyMap & GreatSchools",
+  "dc_description_s": "PolicyMap calculated the shortest distance within 50 miles to a public school with a GreatSchools Overall School Rating of 9 or 10 for each Census Tract in the same state. This representation of access to high performing public schools is limited by the fact that GreatSchools does not assign a rating to every public school in the nation. GreatSchools school ratings should not be compared across states; as such, a public school with a 9 or a 10 in one state may not be comparable to a public school with a 9 or a 10 in another state. This analysis does not take into account political boundaries or catchment areas within states that may make a public school inaccessible.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-323bcbeb-e588-4d5e-854d-91af28766182",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "PolicyMap calculation of GreatSchools data"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "School Performance",
+    "School Ratings"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.greatschools.net\"}"
+}

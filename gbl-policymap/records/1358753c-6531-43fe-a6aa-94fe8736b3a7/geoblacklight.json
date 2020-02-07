@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "University of Richmond, University of Maryland, Virginia Tech, and Johns Hopkins University and Mapping Inequality: Redlining in New Deal America",
+  "dc_description_s": "Mapping Inequality: Redlining in New Deal America, published by the Digital Scholarship Lab at University of Richmond in collaboration with University of Maryland, Virginia Tech, and Johns Hopkins University, includes a collection of digital maps on area security and descriptions for major urban centers developed by the Home Owners\u2018Loan Corporation (HOLC) from 1935 to 1940. The maps include color coded areas based on grades assigned to them by HOLC officers. Grades were assigned based on input from mortgage lenders, developers, and real estate appraisers, and were used as a measure of credit worthiness and risk on neighborhood and metropolitan levels. Area grades range from A to D, with A denoting \u201c\u00cb\u0153Excellent\u2018, B denoting \u201c\u00cb\u0153Still Desirable\u2018, C denoting \u201c\u00cb\u0153Definitely Declining\u2018, and D denoting \u2018Hazardous\u2018. According to the source, project researchers made the digital maps publicly available \u201cin the hope that the public will be able to understand the effects of federal housing policy and local implementation in their own communities.\u201c\u00c2\u009dOn PolicyMap, this dataset is available for a total of 148 urban regions across the U.S., in 28 states. The Home Owners\u2018Loan Corporation (HOLC) originally compiled this information for nearly 250 cities. After downloading the shapefiles from the Mapping Inequality website, PolicyMap merged and dissolved the polygons by grade level for each urban region to ease navigation of the dataset. The data is made available by the source through a CC-NC-SA license and thus is available for general PolicyMap users but is not available for licensing through our API. Licensing information can be found here.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-1358753c-6531-43fe-a6aa-94fe8736b3a7",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "University of Richmond",
+    "University of Maryland",
+    "Virginia Tech",
+    "and Johns Hopkins University"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Residential Lending",
+    "Neighborhood Risk"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "1935",
+    "1936",
+    "1937",
+    "1938",
+    "1939",
+    "1940"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "1940",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://dsl.richmond.edu/panorama/redlining/#loc=3/45.40/-114.79&opacity=0.8&text=intro\"}"
+}

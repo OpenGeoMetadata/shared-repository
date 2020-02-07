@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "United States Department of Agriculture (USDA) Agricultural Marketing Service",
+  "dc_description_s": "Farmers\u2018market points are taken from USDA\u2018s Agricultural Marketing Service (AMS) through the Farmers\u2018Market Directory. The Directory is a reporting system where local farmers\u2018market managers list the locations of their markets and basic details. The data may not include all farmers\u2018markets. AMS reports geographic coordinates as reported through the Directory. PolicyMap geocoded market addresses whose geographic coordinates fell outside the reported county, and was able to display 99% of the provided locations on a map.The Farmers\u2018Market Directory is updated on a rolling basis. AMS data will be updated on PolicyMap annually.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-5ef8778d-a42a-4265-a285-0d419d4264a2",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture",
+    "Agricultural Marketing Service"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Local Foods"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.ams.usda.gov/local-food-directories/farmersmarkets\"}"
+}

@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "HUD Affirmatively Furthering Fair Housing (AFFH)",
+  "dc_description_s": "As part of its Affirmatively Furthering Fair Housing (AFFH) initiative, HUD released a series of opportunity indices. To assist PolicyMap users engaged in AFFH efforts, PolicyMap has loaded the following opportunity indices to PolicyMap: low poverty index, labor market engagement index, school proficiency index, low transportation cost index, transit trips index, jobs proximity index and environmental health index. For more information about the component data and methodology that HUD used in creating these indices, please consult their AFFH data documentation here.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-8ee4f560-aa13-4296-81d7-0f7021b3bc75",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Dept. Housing and Urban Development (HUD)"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Poverty",
+    "Transportation Costs",
+    "Transit",
+    "Job Proximity",
+    "School Proficiency",
+    "Environmental Health"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2015",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.hudexchange.info/resource/4848/affh-data-documentation/\"}"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "CRA (Community Reinvestment Act) Eligibility Criteria",
+  "dc_description_s": "The Community Reinvestment Act (CRA), which was enacted by Congress in 1977, is intended to encourage depository institutions to help meet the credit needs of the communities in which they operate, including low- and moderate-income neighborhoods, consistent with safe and sound banking operations. CRA requires that each insured depository institution\u2018s record in helping meet the credit needs of its entire community be evaluated periodically. These examinations are conducted by federal agencies: the Board of Governors of the Federal Reserve System (FRB), the Federal Deposit Insurance Corporation (FDIC), the Office of the Comptroller of the Currency (OCC), and the Office of Thrift Supervision (OTS). That record is taken into account in considering an institution\u2018s application for deposit facilities, including mergers and acquisitions.In order to gauge CRA performance, the evaluation looks for bank activity in low- and moderate-income neighborhoods, nonmetropolitan distressed and underserved areas, and federally designated disaster areas. These areas are identified by calculating tract income level. This is the Median Family Income (MFI) of each tract divided by Area Median Family Income (AMFI). Starting in 2012, the CRA changed its formula by calculating AMFI (now designated as \u201cMetropolitan Median Family Income\u201c\u00c2\u009d) using Census\u20182011-2015 American Community Survey estimates. For AMFI the CRA relies on HUD\u2018s 2004 MSA/MD MFI. For tracts located outside of an MSA/MD, the MFI used in the denominator is the statewide non-MSA/MD MFI. This figure is calculated using incomes from all areas of a state that are not assigned to MSA/MDs. For additional information on data and calculations see: http://www.ffiec.gov/geocode/help3.aspxThe tract income level is defined as follows:If the Median Family Income % is < 50% then the Income Level is Low. If the Median Family Income % is >= 50% and < 80% then the Income Level is Moderate.If the Median Family Income % is >= 80% and < 120% then the Income Level is Middle.If the Median Family Income % is >=120% then the Income Level is Upper.If the Median Family Income % is 0% then the Income Level is Not Known.Tracts are CRA eligible if they are low- or moderate-income, or if they are nonmetropolitan middle income tracts designated by FFIEC as distressed or underserved. Distressed middle income tracts are those with: (1) Unemployment rate at least 1.5 times the national average or (2) Poverty rate of 20% or greater or (3) Population loss of 10% or more between the 1990 and 2000 census, or a net migration loss of 5% or more between 1995 and 2000. Underserved middle-income tract are those designated by the Economic Research Service of the United States Department of Agriculture with an \u201curban influence code\u201cof 7, 10, 11 or 12. Lists of these tracts are released annually and available on the CRA website at: http://www.ffiec.gov/cra/examinations.htm. PolicyMap also provides the distressed and underserved designation for tracts that were designated as such in the previous year but not the current year because of the allowance of a one-year \u201clag period.\u201cAccording to the source, \u201cthis lag period will be in effect for the 12 months immediately following the date when a census tract that was designated distressed or underserved is removed from the designation list. Revitalization or stabilization activities undertaken during the lag period will receive consideration as community development activities if they would have been considered to have a primary purpose of community development if the census tract in which they were located were still designated as distressed or underserved.\u201cFor more information, see page 24 of this Federal Register document: https://www.gpo.gov/fdsys/pkg/FR-2016-07-25/pdf/2016-16693.pdfTo identify tracts that are \u201cdesignated disaster areas\u201cconsult the Federal Emergency Management Agency (FEMA) website: http://wwww.fema.gov. Disaster areas are not mapped in PolicyMap because they are subject to frequent changes.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-32b569f9-c5d3-46d6-a684-f03dd588e4c0",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Federal Financial Institutions Examination Council (FFIEC)",
+    "US Department of Housing and Urban Development (HUD)",
+    "US Census"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Cra Eligible Census Tracts"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.ffiec.gov/CRA/\"}"
+}

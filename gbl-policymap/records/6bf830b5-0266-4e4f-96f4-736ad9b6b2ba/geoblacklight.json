@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "United States Department of Agriculture (USDA), Watershed Boundary Dataset",
+  "dc_description_s": "The Watershed Boundary Dataset contains boundaries of watersheds throughout the country. According to the USDA, \u201cWatershed boundaries define the aerial extent of surface water drainage to a point.\u201cThe hydrologic units are nested in a hierarchical system, so basins are comprised of subbasins, subbasins, subbasins are comprised of watersheds, and watersheds are comprised of subwatersheds. The boundaries can assist in land use and water use planning.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-6bf830b5-0266-4e4f-96f4-736ad9b6b2ba",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Coordinated effort between the United States Department of Agriculture-Natural Resources Conservation Service (USDA-NRCS)",
+    "the United States Geological Survey (USGS)",
+    "and the Environmental Protection Agency (EPA)"
+  ],
+  "dc_subject_sm": [
+    "Watersheds",
+    "Subwatersheds",
+    "Basins",
+    "Environment"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/water/watersheds/dataset/\"}"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Appalachian Regional Commission Distressed Areas",
+  "dc_description_s": "The Appalachian Regional Commission designates certain counties and tracts as \u201cdistressed areas\u201cin order to identify and monitor the economic status of areas within Appalachia. The designations are based on an index that compares economic indicators of Appalachian counties and tracts to national averages. The index employs three-year average unemployment rates, per capita market incomes, and poverty rates to rank every county in the nation. Counties are designated as distressed, at-risk, transitional, competitive, or attainment, based on this rank, where distressed counties rank as mostly economically depressed (worst 10% economic performance in the nation) and attainment the most economically strong (best 10% economic performance in the nation).In addition to all census tracts located in distressed counties, census tracts in at-risk or transitional counties are considered \u201cdistressed areas\u201cif they have a median family income 67% or less than the national average and a poverty rate 150% of the national average or greater.Distressed areas are updated annually using the most recently available American Community Survey five-year estimates. Distressed areas for 2012 are presented at the 2000 census tract boundaries, and 2013-2019 distressed areas are presented at the 2010 boundaries.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-82f025c8-1143-4ea0-832e-4a266e70341d",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Appalachian Regional Commission"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "County Economic Status And Distressed Areas In Appalachia"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2019",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.arc.gov/appalachian_region/countyeconomicstatusanddistressedareasinappalachia.asp\"}"
+}

@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Bureau of Economic Analysis: Personal Income",
+  "dc_description_s": "Personal income consists of income received in return for provision of labor, land, and capital used in current production, as well as other income such as personal current transfer receipts. It is the sum of wages and salaries, supplements to wages and salaries, proprietors\u2018income with inventory valuation and capital consumption adjustments, rental income of persons with capital consumption adjustment, personal dividend income, personal interest income, and personal current transfer receipts, less contributions for government social insurance plus the adjustment for residence.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-bad3956f-a218-4e97-a806-7040127c4b1e",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Bureau of Economic Analysis"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Income"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://bea.gov/newsreleases/regional/lapi/lapi_newsrelease.htm\"}"
+}

@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "IRS Statistics of Income and Migration Data",
+  "dc_description_s": "The Internal Revenue Service\u2018s Statistics of Income (IRS SOI) division produces annual estimates of migration flows using domestic and foreign tax returns. Returns are matched to returns from the previous year using the primary tax filer\u2018s social security number. If the address associated with the return is located in a different county than the previous year, the return is identified as a migrant. In-migrants are those who filed tax returns in different counties, states, or abroad in the previous year but filed locally in the current year; out-migrants filed taxes locally in the previous year but filed in different counties, states, or abroad for the current year.Individual taxpayers cannot be identified, either directly or indirectly, from these tabulations. The data released by the IRS for these calculations have undergone suppression procedures to ensure no inappropriate disclosure of information.There are two limitations to the completeness of that data that should be considered when using IRS migration data. First, up to the 2009-2010 time period, the data only capture returns processed by late September of the year following the tax year, which covers roughly 95-98 percent of all returns. Second, those who are not required to file tax returns are not counted by the IRS, so lower income people and senior citizens are likely underrepresented.Beginning with 2010-2011, the IRS began using full-year tax return instead of partial-year. Overall, this increases the number of returns by 5 percent, and high-income returns by approximately 25 percent. Caution should be exercised in making comparisons across this time period. More information is available here: https://www.irs.gov/pub/irs-soi/soi-a-inmig-id1509.pdf. Data from the IRS is given for the year of the tax filing; people generally file their returns the year following the tax year (tax year 2013 returns are filed in 2014). PolicyMap displays the tax year, which is the year the migration occurred, not the filing year.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-93889603-1b20-4c1c-8daf-f145686e1ba9",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "IRS Statistics of Income Division",
+    "County-to-County Migration Data Files"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "In-migration And Out-migration Flows; Aggregate And Average Adjusted Gross Income Of Migrants"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2015",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.irs.gov/uac/SOI-Tax-Stats-Migration-Data\"}"
+}

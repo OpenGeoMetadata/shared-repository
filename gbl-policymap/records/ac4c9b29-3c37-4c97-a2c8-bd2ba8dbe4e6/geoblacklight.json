@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "FCC Broadband Deployment Data",
+  "dc_description_s": "All facilities-based broadband internet providers are required to file Form 477 with the FCC twice a year with information on where they offer internet access at speeds of 200 kbps or more in at least one direction. The wired and wireless data is accurate as of December 31, 2017.Data are provided at the Census block level. The data shown on PolicyMap indicates service available anywhere in the block, not necessarily for the entire block. For indicators showing number of providers, this is the number of providers throughout the block, even if they are not in the same part of the block, so it is not necessarily a measure of competition.Wireless data are also provided at the block level. However, because wireless signals often do not conform to these boundaries, the source data indicates how much of the block is covered by a particular provider. Separate data is provided for 4G LTE and 4G non-LTE service. Because these two technologies provide a similar level of service, they are shown as a single indicator on PolicyMap. The area covered by 4G service represents whichever one of the two technologies covers the most area, not necessarily the total area covered by the two technologies. Similarly, the area covered by all wireless broadband service represents whichever one of 3G, 4G, and 4G LTE covers the most area.Wired broadband access from the provider \u201cBarrier Communications Corporation\u201cis suppressed from this data due to data anomalies.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-ac4c9b29-3c37-4c97-a2c8-bd2ba8dbe4e6",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Federal Communication Commission (FCC)"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Broadband Internet Availability"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.fcc.gov/general/broadband-deployment-data-fcc-form-477\"}"
+}

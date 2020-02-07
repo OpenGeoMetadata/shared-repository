@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Census, Brown University\u2018s Longitudinal Tract Database, and PolicyMap",
+  "dc_description_s": "The tract-level persistent poverty data layer on PolicyMap was created by PolicyMap using poverty data from the 1990 and 2000 censuses and the 2010-2014 American Community Survey, as provided by Brown University\u2018s Longitudinal Tract Database (LTDB). In determining persistent poverty tracts, PolicyMap applied the same definition that the Community Development Financial Institutions (CDFI) Fund uses in determining persistent poverty county status, which is to assume a persistent poverty tract to be any tract that has had 20 percent of more of its population living in poverty over the past 30 years.PolicyMap downloaded the 1990, 2000 and 2010-2014 data at the 2010 tract boundaries from the LTDB. The LTDB, developed by a research team including John Logan (Brown University), Zengwang Xu (University of Wisconsin, Milwaukee), and Brian Stults (Florida State University), provides public-use tools to create estimates within 2010 tract boundaries for tract-level Census data that are available as far back as 1970. For a detailed explanation of the LTDB team\u2018s methodology for harmonizing data over this period, please see their website. Further explanation of the methodology can also be found in the Professional Geographer\u2018s article entitled \u201cInterpolating US Decennial Census Tract Data from as Early as 1970 to 2010: A Longitudinal Tract Database,\u201cwhich was authored by Loan, Xu, and Stults.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-1efbf90a-1bd6-4905-8ee4-f03d6081bf81",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Policymap"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2014",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.s4.brown.edu/us2010/Researcher/Bridging.htm\"}"
+}

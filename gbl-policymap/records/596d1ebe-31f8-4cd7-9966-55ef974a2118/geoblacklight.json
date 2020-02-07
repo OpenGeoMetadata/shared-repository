@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Census Manufacturing, Mining and Construction Statistics",
+  "dc_description_s": "9,000 out of the 20,000 permit-issuing places submit the Form C-404 report \u201cReport of Building or Zoning Permits Issued and Local Public Construction\u201con a monthly basis. The other places are surveyed only annually. The 9,000 surveyed monthly include: all permit-issuing places in the 75 Metropolitan Areas (MAs) with the largest number of permits (as of 2002); all permit-issuing places in states with limited numbers of permit-issuing places; permit-issuing places with special data reporting arrangements. The rest of the sample is stratified by state. Prior to 2005, monthly counts of building permits were based on a different sample of 8,500 out of 19,000 permit-issuing agencies. As a result, comparisons of building permit issuances between 2004 and 2005 should be made very cautiously.If a building permit report is not received for a given month or year, the missing data are either obtained from the Survey of Use of Permits (SUP) or imputed. The SUP is an annual survey of a smaller sample of permit-issuing areas that gathers data on housing construction, completion, sales, and characteristics of new housing.Monthly state and national data are estimates based on the sample data collected from the 9,000 permit-issuing agencies. For information on standard errors associated with these estimates see: http://www.census.gov/construction/bps/. Monthly county data are counts rather than estimates, and are therefore reported only for those counties where every permit office issues monthly reports. Annual data are obtained by summing monthly data reporters. If permit-issuing agencies submit both monthly and annual reports, the annual count is used. The annual building permit data on PolicyMap is unadjusted data.Building permit data will not accurately reflect construction activity in those areas where building permits are not issued. Nationally, only roughly 2 percent of housing starts are issued in areas not requiring permits, however this varies greatly state to state and region to region.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-596d1ebe-31f8-4cd7-9966-55ef974a2118",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Census Manufacturing",
+    "Mining"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.census.gov/construction/bps/\"}"
+}

@@ -1,0 +1,45 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Centers for Disease Control and Prevention (CDC) Flu Activity & Surveillance",
+  "dc_description_s": "The Centers for Disease Control (CDC) Flu Activity & Surveillance System dataset provides estimates of flu activity for states and territories of the U.S.Flu activity indicators are a measure of the proportion of visits to healthcare providers for influenza-like illness (ILI) symptoms. Estimates are collected from public health facilities participating in the Outpatient Influenza-like Illness Surveillance Network (ILINet). These data may disproportionately represent certain populations within a state; for instance, a severe flu outbreak in one city or region may cause the statewide activity level to be High, even if flu activity is low or minimal in other areas throughout the state. State health departments may have more geographically precise information available; contact information for these departments is available in FluView.Geographic spread of influenza is reported directly to CDC by state epidemiologists. This is a measure of how much of each state is affected by flu, and is not a measure of the severity of influenza activity. Weekly data and state and local surveillance information are available at the CDC Influenza Surveillance website.ILI activity and geographic spread measures are provided weekly. To obtain seasonal values, PolicyMap calculated the average of the numerical activity levels for all weeks ending in a given season. Flu season is defined as the period beginning in October and ending in March. For geographic spread, PolicyMap assigned a numerical scale where No Activity = 1 and Widespread = 5, in order to calculate the average spread for the year. Only states with at least 24 weeks of activity per season are included in these calculations. New York City reports flu data to CDC separately from New York State; as such, New York State flu activity and geographic spread measures do not take New York City into account.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-af73b7c3-020b-4b9f-a851-0920bcb213ef",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "CDC: FluView"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Seasonal Influenza",
+    "Flu"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.cdc.gov/flu/weekly/fluactivitysurv.htm\"}"
+}

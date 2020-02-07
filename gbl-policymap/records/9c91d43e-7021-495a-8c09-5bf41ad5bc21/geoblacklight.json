@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Bureau of Labor Statistics Quarterly Census of Employment and Wages",
+  "dc_description_s": "The Bureau of Labor Statistics\u2018gathers data on employment and wages from state workforce agencies and compiles it under the Quarterly Census of Employment and Wages (QCEW) program. The data are derived from quarterly tax reports submitted by employers to State workforce agencies under State Unemployment Insurance (UI) laws; and from Federal agencies under the Unemployment Compensation for Federal Employees (UCFE) program. PolicyMap displays only private sector employment and wage data.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-9c91d43e-7021-495a-8c09-5bf41ad5bc21",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Bureau of Labor Statistics Quarterly Census of Employment and Wages"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Wages"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.bls.gov/cew/\"}"
+}

@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "U.S. Fish and Wildlife Service, Critical Habitat",
+  "dc_description_s": "These are areas of habitat believed to be essential to endangered and threatened species\u2018conservation. Federal agencies are required to consult with the U.S. Fish and Wildlife Service to make sure actions they carry out, fund, or authorize do not destroy or negatively affect critical habitat.The source data was provided in polygon format. For display here, block groups are shaded as being critical habitats if they touch any critical habitat polygon. If a block group touches more than one critical habitat of different severity (eg. \u201cEndangered\u201cand \u201cThreatened\u201c\u00c2\u009d), the most severe status is displayed, where endangered is more severe than threatened, and threatened is more severe than recovery. Only habitat with \u201cFinal\u201cstatus are included.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-9c65887d-a570-4764-8271-b241a9ad016a",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Fish and Wildlife Service",
+    "U.S. Department of the Interior"
+  ],
+  "dc_subject_sm": [
+    "Sensitive Lands",
+    "Environment",
+    "Endangered Species",
+    "Threatened Species"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://ecos.fws.gov/crithab/\"}"
+}

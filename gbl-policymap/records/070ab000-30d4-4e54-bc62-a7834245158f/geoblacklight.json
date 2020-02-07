@@ -1,0 +1,48 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Centers for Disease Control and Prevention (CDC) Opioid Overdose Prevention",
+  "dc_description_s": "CDC prescription data comes from the QuintilesIMS Transactional Data Warehouse, which is based on a sample of approximately 59,000 retail (non-hospital) pharmacies that dispense roughly 88% of all retail prescriptions in the U.S. This database includes initial and refill prescriptions dispensed at retail pharmacies but does not include mail order prescriptions. Prescriptions include those purchased through commercial insurance, Medicaid, Medicare, or cash or its equivalent.Opioid prescriptions include butrans (buprenorphine), codeine, fentanyl, hydrocodone, hydromorphone, methadone, morphine, oxycodone, oxymorphone, propoxyphene, tapentadol, and tramadol. Cough and cold formulations containing opioids and buprenorphine, an opioid partial agonist used for treatment of opioid use disorder as well as for pain, are not included. In addition, methadone dispensed through methadone maintenance treatment programs is not included.Opioid prescription rates per 100 persons are calculated using population estimates from the Population Estimates Program, U.S. Census Bureau. Specifically, 2000and2010 Intercensal Estimates of the Resident Population for Counties and States were used for 2006and2010 rate calculations and 2010and2016 Postcensal Estimates of the Resident Population for Counties and National were used for 2011and2016 rate calculations. After a steady increase in overall opioid prescribing rates from 2006, total opioid prescriptions peaked in 2012 at 255 million and a rate of 81.3 prescriptions per 100 people. The rate does not represent the percent of the population receiving opioid prescriptions. Since an individual may receive multiple prescriptions in a year, many counties have rates that are greater than 100 prescriptions per 100 persons.Data is available for over 85% of all U.S. counties. Counties displayed as having insufficient data may indicate counties with no retail pharmacies, counties where no retail pharmacies were sampled, or counties where the prescription volume was erroneously attributed to an adjacent, more populous county according to the sampling rules used.This data differs from the data shown in the July 2017 issue of CDC Vital Signs, which featured different facets of opioid prescribing from 2006 to 2015. For more information visit https://www.cdc.gov/vitalsigns/opioids/index.html.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-070ab000-30d4-4e54-bc62-a7834245158f",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Centers for Disease Control and Prevention",
+    "National Center for Injury Prevention and Control",
+    "Division of Unintentional Injury Prevention"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Opioid Prescriptions"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.cdc.gov/drugoverdose/maps/rxrate-maps.html\"}"
+}

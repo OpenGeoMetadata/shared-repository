@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Glenmary Research Center and Association of Statisticians of American Religious Bodies (ASARB)",
+  "dc_description_s": "The Religious Congregations and Membership Study, carried out by the Association of Statisticians of American Religious Bodies (ASARB), was conducted with significantly different methodologies in 2000 and 2010. 2000 data were collected by the ASARB and include statistics for 149 religious groups, including number of churches and adherents. Dale E. Jones, Sherri Doty, Clifford Grammich, James E. Horsch, Richard Houseal, Mac Lynn, John P. Marcum, Kenneth M. Sanchagrin and Richard H. Taylor supervised the collection. These data originally appeared in Religious Congregations & Membership in the United States, 2000: An Enumeration by Region, State and County Based on Data Reported by 149 Religious Bodies, published by the Glenmary Research Center. The 2000 data excludes most of the historically African-American denominations and some other major groups. In an effort to correct for this, in 2002 the ASARB released an adjusted rate of adherence to all denominations per 1,000 people. The adjusted rate is included on PolicyMap; because of this correction some counties will have rates in excess of 1000. For more on the corrections see Roger Finke and Christopher P. Scheitle\u2018s article Accounting for the Uncounted athttp://www.thearda.com/mapsReports/Accounting%20for%20the%20Uncounted.pdf.2010 data were also collected by ASARB and include statistics for 236 religious groups, including number of churches and adherents. In contrast to the 2000 study, researchers obtained mailing lists for the eight largest historically African-American denominations. In addition to including membership information gathered from this list, online church locators were identified and used to identify additional congregation locations. For each congregation located in this way, a membership of 100 was assigned. However, it is important to note that, while the figures for African-American denominations are more accurate than those imputed for the 2000 U.S. Religion Census, the figures are still significantly lower than those reported by the denominations in the Yearbook of American and Canadian Churches, 2010. In total, the 236 groups reported 344,894 congregations with 150,686,156 adherents, comprising 48.8 percent of the total U.S. population in 2010.The data reported on Jews and Muslims are estimates rather than counts. For more information on how these estimates were calculated, including changes in the estimation methodologies from the 2000 to 2010 surveys, see:",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-322347ee-986c-479d-a08c-b34b961b353e",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Religious Adherence"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2010",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.thearda.com/mapsReports/rcms_notes.asp\"}"
+}

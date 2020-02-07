@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Pitney Bowes ZIP Code Boundaries",
+  "dc_description_s": "ZIP Code boundary files on PolicyMap are licensed from Pitney Bowes. Pitney Bowes builds its ZIP codes boundary files from individual addresses to align boundaries with streets; it is the source recommended for business by the US Postal Service.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-15d592e2-dfd3-4ca0-853c-be6dd1012ebe",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Pitney Bowes"
+  ],
+  "dc_subject_sm": [
+    "Boundaries",
+    "Zip Codes"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.pitneybowes.com/us/data/boundary-data/zip-code-data.html\"}"
+}

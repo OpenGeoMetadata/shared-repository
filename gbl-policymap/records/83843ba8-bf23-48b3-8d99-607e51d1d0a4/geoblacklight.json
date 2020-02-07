@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "FEMA National Flood Hazard Layer",
+  "dc_description_s": "The National Flood Hazard Layer (NFHL), published by FEMA, is used for floodplain management, mitigation, and insurance purposes. It includes the Digital Flood Insurance Rate Map (DFIRM) and Letters of Map Revision (LOMRs). The map divides areas into three primary risk classifications: 1 percent annual chance flood event (high risk), 0.2 percent annual chance flood event (moderate risk), and areas of minimal flood risk. The maps processed by PolicyMap show areas of high risk, moderate risk, minimal risk, and undetermined risk.These categories of risk are simplified from FEMA\u2018s more specific categories. High risk flood zones include flood zones categorized as A, A99, AE, AH, AO, V, and VE. Moderate risk includes X (shaded). Low risk includes X (unshaded).PolicyMap receives updates annually from FEMA, and classifies areas based on the Designations of FEMA Flood Zone Designations. Not all counties are included in the NFHL. A coverage map can be found at FEMA\u2018s website. Counties which show data available on the FEMA coverage map do not necessarily have complete coverage.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-83843ba8-bf23-48b3-8d99-607e51d1d0a4",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Flood Maps"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.msc.fema.gov/\"}"
+}
