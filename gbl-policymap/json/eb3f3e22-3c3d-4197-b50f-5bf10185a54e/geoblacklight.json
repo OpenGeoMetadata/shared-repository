@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "eb3f3e22-3c3d-4197-b50f-5bf10185a54e",
+  "dc_title_s": "Reinvestment Fund 2018 Limited Supermarket Access (LSA) Analysis",
+  "dc_description_s": "Reinvestment Fund\u2018s Limited Supermarket Access (LSA) analysis is a tool to identify areas across the 48 contiguous United States and the District of Columbia that have both inadequate and inequitable access to healthy food and sufficient market demand for new or expanded food retail operations. Click here to read an overview of the analysis. Using the LSA data on PolicyMap, a diverse range of clients\u201c\u00e2\u20ac\u009dincluding policymakers, government agencies, lending institutions, community organizations, and researchers\u201c\u00e2\u20ac\u009dcan investigate LSA Areas within their geographies of interest and craft strategies based on the conditions specific to those communities.Identifying LSA AreasThe LSA analysis measures access to healthy food by identifying areas that are well-served by supermarkets and those that have relatively limited access to supermarkets. Reinvestment Fund uses supermarkets (grocery stores with at least $2 million in annual sales) as a proxy for healthy food access because a review of the relevant research shows that supermarkets, compared to smaller stores (e.g., corner stores), most consistently offer the greatest variety of healthy foods at the lowest prices. Supermarket location data comes from the 2017 Nielsen TDLinx database. Supermarkets include the following store types from that database: supermarkets, supercenters, limited assortment stores, and natural food stores. Superettes and dollar stores are excluded because they are less likely to offer a wide range of healthy foods. Wholesale clubs are excluded because they require a paid membership. Military commissaries are excluded because they are not open to the public. Other data sources include the 2010 Decennial Census and the American Community Survey for population, residential land area, households, household incomes, and car ownership rates and the 2016 Bureau of Labor Statistics Consumer Expenditure Survey for spending on food for consumption at home.Access means different things in different places. In densely-populated urban areas, supermarkets tend to be located more closely together, and a neighborhood may have relatively limited access if its nearest store is a mile or two away. In rural areas, many if not most communities are miles from the nearest supermarket. To account for this variation, Reinvestment Fund assigns every census block group in the nation to one of seven classes based on that block group\u2018s population density and, for densely populated block groups, car ownership.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-eb3f3e22-3c3d-4197-b50f-5bf10185a54e",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Reinvestment Fund"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Food Access",
+    "Food Security"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.reinvestment.com/research-publications/2018-update-analysis-of-limited-supermarket-access\"}"
+}

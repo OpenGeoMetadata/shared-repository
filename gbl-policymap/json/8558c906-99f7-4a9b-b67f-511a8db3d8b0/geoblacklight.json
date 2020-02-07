@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "8558c906-99f7-4a9b-b67f-511a8db3d8b0",
+  "dc_title_s": "University of South Carolina, Hazards and Vulnerability Research Institute (HVRI), Baseline Resilience Indicators for Communities (BRIC)",
+  "dc_description_s": "The Baseline Indicators for Communities (BRIC) index models community resilience to natural hazards. BRIC was developed by the Hazards and Vulnerability Research Institute at the University of South Carolina. HVRI provides training, research, outreach, and leadership pertaining to the field of hazard vulnerability and resilience.BRIC considers six categories of disaster resilience: social, economic, infrastructural, community capital, institutional, and environmental. The US National Academy of Science defines disaster resilience as the ability to prepare and plan for, absorb, recover from, and more successfully adapt to adverse events. Such events may include floods or hurricanes in the context of BRIC. Overall resilience scores are calculated at the county level by summing category scores. BRIC can be used to compare resilience across counties, monitor county resilience over time, and identify specific attributes of resilient communities.The primary data source for BRIC is the Census American Community Survey. The variables used for each category of disaster resilience are listed below, followed by a list of the data sources: Category Variables:Social Resilience: absolute difference between percent population over 25 with college education and percent population over 25 with less than high school education (inverted), percent population below 65 years of age, percent households with at least one vehicle, percent households with telephone service available, percent population proficient in English, percent population without sensory, physical, or mental disability, percent population under age 65 with health insurance, psychosocial support facilities per 10,000 persons, food security rate, physicians per 10,000 persons.Economic Resilience: percent owner-occupied housing units, labor force employed, gini coefficient (inverted), percent employees not in farming, fishing, forestry, extractive industry, or tourism, absolute difference between male and female median income (inverted), ratio of large to small businesses, large retail stores per 10,000 persons, percent labor force employed by federal government.Infrastructural Resilience: percent housing units not mobile homes, percent vacant housing units that are for rent, number hospital beds per 10,000 persons, major road egress points per 10,000 persons, percent housing units built prior to 1970 or after 2000, number hotels/motels per 10,000 persons, number public schools per 10,000 persons, rail miles per square mile, percent population with access to broadband internet service.Community capital Resilience: percent population not foreign-born persons who came to US within previous 5 years, percent population born in state of current residence, percent voting age population participating in recent election, number affiliated with a religious organization per 10,000 persons, number civic organizations per 10,000 persons, number Red Cross volunteers per 10,000 persons, number Red Cross training workshop participants per 10,000 persons.Institutional Resilience: ten year average per capita spending for mitigation projects, percent housing units covered by National Flood Insurance Program, distance from count seat to state capital (inverted), distance from county seat to nearest county seat within a Metropolitan Statistical Area (inverted), number governments and special districts per 10,000 persons (inverted), number Presidential Disaster Declarations divided by number of loss-causing hazard events for ten year period, percent population in communities covered by Citizen Corps programs, population change over previous five-year period (inverted), percent population within 10 miles of nuclear power plant, crop insurance policies per square mile.Environmental Resilience: farms marketing products through Community Supported Agriculture per 10,000 persons, percent land in wetlands, megawatt hours per energy consumer (inverted), average percent perviousness, Water Supply Stress Index (inverted).Data Sources:",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-8558c906-99f7-4a9b-b67f-511a8db3d8b0",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "University of South Carolina Hazards and Vulnerability Research Institute"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Disaster Risk",
+    "Resilience"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2015",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://artsandsciences.sc.edu/geog/hvri/bric\"}"
+}

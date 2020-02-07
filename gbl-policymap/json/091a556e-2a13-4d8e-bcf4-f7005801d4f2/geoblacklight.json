@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "091a556e-2a13-4d8e-bcf4-f7005801d4f2",
+  "dc_title_s": "United States Department of Agriculture, Economic Research Service (ERS/USDA) Food Desert Locator",
+  "dc_description_s": "The Food Desert Locator is a project of the Economic Research Service, the economic information and research division of the U.S. Department of Agriculture. The Locator contains data about food access determined by the Treasury Department, Health and Human Services, and the Agriculture Department (USDA). A committee comprised of these three departments, along with staff from the Economic Research Service (ERS/USDA) determined a definition of food deserts used within the data and for determining eligibility for HFFI funds. It is an update of the 2006 USDA Food Desert data.Low access is defined in this study as (a) in urban tracts, the percentage of people that live more than one mile from a supermarket or large grocery store or (b) in rural tracts, the percentage of people that live more than 10 miles from a supermarket or large grocery store. These data were published by the Economic Research Service (ERS/USDA) as a part of a 2009 report to U.S. Congress. In the 2009 report, the ERS used 1-kilometer square grids as the base of the analysis as a method for measuring distance from the nearest source of healthy foods. For the 2011 release of the data online, the ERS converted the grid data to the census tract level data. Other data sources used in this report include a list of Stores Authorized to Receive SNAP benefits, as well as data from Trade Dimensions TDLinx, both from the year 2006. Data is only shown for Census tracts identified as having low access. Census tracts not identified as having low access appear as grey in the map.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-091a556e-2a13-4d8e-bcf4-f7005801d4f2",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture",
+    "Economic Research Service"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Food Access",
+    "Supermarkets"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2006",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.ers.usda.gov/data/foodDesert/index.htm\"}"
+}

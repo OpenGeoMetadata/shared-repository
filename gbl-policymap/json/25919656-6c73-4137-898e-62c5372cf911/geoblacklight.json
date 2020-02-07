@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "25919656-6c73-4137-898e-62c5372cf911",
+  "dc_title_s": "National Center for Education Statistics, Common Core of Data",
+  "dc_description_s": "The Common Core of Data (CCD) is a program of the U.S. Department of Education\u2018s National Center for Education Statistics that collects selected data about all public schools, public school districts and state education agencies in the United States every year. Data are supplied by state education agency officials.Some records have no student counts. This is because some schools contract with other schools or agencies to provide services for some students. Those student counts are not reported for the receiving school in order to avoid duplication. However, where all services are provided by a contracting school, no student counts are reported for the sending school.Certain indicators provided in this data on PolicyMap do not come from the NCES. Studenteacher ratio was calculated by PolicyMap by dividing the total number of students by the number of full-time-equivalent classroom teachers. The percentages of students of a given race were calculated by PolicyMap. The links to the GreatSchools school pages were made using a table from GreatSchools. Three indicators are included for consideration in matters related to the Office of Minority and Women Inclusion (OMWI). These indicators label a school as being all-female, majority-minority, or in an inner city. All-female schools were calculated by summing the number of female students in each race category (the NCES does not provide total numbers of students by sex). If that number is equal to the number of students in the school, it is label as all female. This simply means that all the students in the school in the given school year were female; it does not mean that the school is by policy an all-female school.Majority-minority was calculated by dividing the number of white students by the number of total students. If the percent of students who are white is less than 50%, the school is labeled majority minority.The inner city label was not calculated using NCES data. A spatial calculation was made using ACS data, using methodology similar to that developed by the Initiative for a Competitive City (see http://www.icic.org/research-and-analysis/research-definitions). Using this methodology, a census tract in a metropolitan statistical area is considered to be part of an inner city if its poverty rate is 20% or higher, or it meets at least two of the three following criteria:Poverty rate 1.5 times or more than that of the MSAMedian household income .5 or less than that of the MSAUnemployment rate (using ACS) of 1.5 times or more than that of the MSASchools without coordinates are excluded from the data.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-25919656-6c73-4137-898e-62c5372cf911",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Common Core of Data",
+    "National Center for Educational Statistics",
+    "provided by the U.S. Department of Education"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Education"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2015",
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://nces.ed.gov/ccd/\"}"
+}

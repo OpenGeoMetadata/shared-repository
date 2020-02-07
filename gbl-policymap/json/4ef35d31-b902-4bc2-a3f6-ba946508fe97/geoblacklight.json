@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "4ef35d31-b902-4bc2-a3f6-ba946508fe97",
+  "dc_title_s": "PolicyMap, Quantitative Innovations (QI), BLS, and Census: Consumer Spending Habits",
+  "dc_description_s": "PolicyMap and Quantitative Innovations (QI) developed Consumer Spending Habits data by combining information on household spending behavior from the Bureau of Labor Statistics Consumer Expenditure Survey (2016-2017) with demographic and economic data from the U.S. Census American Community Survey (2013-2017). Consumer Spending Habits data provides small area estimates of household expenditures for several major categories of household expenses. \u201cHouseholds\u201care defined here as \u201cconsumer units,\u201cindividuals living together who share major expenses. This differs from the Census definition of household, which may contain multiple consumer units if household members do not share all major expenses. PolicyMap and QI estimated total household expenditures, average household spending, and average percent of household income spent, by expense category. Available expense categories are total expenditures, food, food at home, food away from home, alcohol, education, and housing.Quantitative Innovations is a data strategy and applied analytics advisory firm that helps clients turn their data into strategic insights and actions.The Consumer Expenditure Survey, conducted by the Bureau of Labor Statistics (BLS), provides information on major household expenses such as housing and food. People who are surveyed report the amount of money that they or anyone else in their \u201cconsumer unit\u201cspent on items within certain categories over a specified amount of time. The BLS publishes Consumer Expenditure Survey microdata and summary tables once or twice a year, respectively. The American Community Survey (ACS), conducted by the Census Bureau, replaced the long form from the Decennial Census for 2010. The ACS provides estimates for many demographic, social, economic and housing characteristics for a moving five-year window.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-4ef35d31-b902-4bc2-a3f6-ba946508fe97",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "PolicyMap",
+    "Quantitative Innovations",
+    "Bureau of Labor Statistics Consumer Expenditure Survey",
+    "and U.S. Census American Community Survey"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Economy",
+    "Spending"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.bls.gov/cex/\"}"
+}

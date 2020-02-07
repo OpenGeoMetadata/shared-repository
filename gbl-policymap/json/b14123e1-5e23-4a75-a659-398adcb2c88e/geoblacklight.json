@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "b14123e1-5e23-4a75-a659-398adcb2c88e",
+  "dc_title_s": "Census and PolicyMap: Racial and Ethnic Diversity",
+  "dc_description_s": "PolicyMap calculated the diversity index and predominant race/ethnicity data layers using Census\u2018American Community Survey 2013-2017 estimates. For both data layers, PolicyMap used a total of 8 non-overlapping racial and ethnic categories provided by the US Census Bureau. These included the ethnic category Hispanic and the following 7 Non-Hispanic racial categories: White, African American, American Indian or Alaska native, Asian, Native Hawaiian or Pacific Islander, some other race, and two or more races. The diversity index reflects the probability that any two people chosen at random from a given study area (e.g., block group) are of different races or ethnicities. An index value of 0 indicates complete homogeneity (i.e., an area\u2018s entire population belonging to one racial or ethnic group), while the maximum index value represents complete heterogeneity (i.e., each racial or ethnic group constituting an equal proportion of an area\u2018s population). The maximum value is calculated as one minus the reciprocal of the number of racial or ethnic groups. For example, with 3 racial or ethnic groups, the index value reflecting complete diversity would be 1-(1/3) or 67%. Articulated further, with 3 racial groups of equal proportions (i.e., complete diversity), the index equation becomes 1 and (0.33^2 + 0.33^2 + 0.33^2) = 67%. Given 8 racial or ethnic categories, the maximum value of the index displayed on PolicyMap is 87.5%.With the diversity index data layer, lower index values between 0 and 20 suggest more homogeneity and higher index values above 50 suggest more heterogeneity. Racial and ethnic diversity can be indicative of economic and behavioral patterns. For example, racially and ethnically homogenous areas are sometimes representative of concentrated poverty or concentrated wealth. They could also be indicative of discriminatory housing policies or other related barriers.The predominant racial or ethnic group is calculated as the racial or ethnic group constituting the highest proportion of the population in a given geography. A \u201ctie\u201cwas noted in cases where the more than one racial or ethnic group shared the highest percent of population, rounded to the nearest 0.1 percent.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-b14123e1-5e23-4a75-a659-398adcb2c88e",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.census.gov/acs/\"}"
+}

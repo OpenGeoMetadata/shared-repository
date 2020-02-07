@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "e5edef91-8639-42c8-9b22-aab55646fc43",
+  "dc_title_s": "GreatSchools\u2018 School District Performance",
+  "dc_description_s": "GreatSchools is a national, independent nonprofit organization providing elementary, middle and high school information for public, private, and charter schools nationwide. PolicyMap licenses GreatSchools\u2018school district test score information for incorporation in PolicyMap.GreatSchools Summary Ratings are based on test scores, student or academic progress, college readiness, equity, advanced courses, and discipline and attendance disparities. In states where not all information is available, a rating based on test scores is given. GreatSchools ratings are designed to be a starting point to help parents compare schools, and should not be the only factor used in school selection. More information about GreatSchools Ratings can be found here.PolicyMap displays data for the following standardized tests:AlaskaAK Standards Based Assessment(SBA): In 2014-2015 Alaska used the Standards Based Assessment (SBA) to test students in grades 4, 8 and 10 in science. The SBA is a standards-based test, which means it measures specific skills defined for each grade by the state of Alaska. The goal is for all students to score at or above the proficient level. AK High School Graduation Qualifying Exam(HSGQE): In 2013-2014 Alaska used the High School Graduation Qualifying Examination (HSGQE) to test students in grade 10 in reading, writing and math. In some cases students may repeat the test during grades 11 or 12. The HSGQE is a standards-based test, which means that it measures how well students are mastering specific skills defined by the state of Alaska. The HSGQE is a high school graduation requirement. The goal is for all students to score at or above the proficient level.Alaska Measure of Progress(AMP): The Alaska Department of Education administered AMP (Alaska Measures of Progress) for the first time in spring of 2015. Previously, students in grades 3-10 took the Standards Based Assessments (SBAs). AMP is aligned to Alaska\u2018s English Language Arts and Mathematics Standards, which are much more rigorous than the Grade Level Expectations on which the SBAs were based. Because the two assessments measure very different standards, under no circumstances should the results be compared between these two assessments.AlabamaAL Alabama High School Graduation Exam(AHSGE): In 2012-2013 Alabama used the Alabama High School Graduation Exam (AHSGE) to test high school students in reading, math, language, biology and social studies. High school students must pass the AHSGE in order to graduate. The AHSGE is a standards-based test, which means it measures specific skills defined for each grade by the state of Alabama. The goal is for all students to pass the test.AL Reading and Mathematics Test(ARMT): In 2012-2013 Alabama used the Alabama Reading and Mathematics Test (ARMT) to test students in grades 3 through 8 in reading and math. The ARMT is a standards-based test, which means it measures specific skills defined for each grade by the state of Alabama. The goal is for all students to score at or above the state standard.AL Alabama Science Assessment(ASA): In 2013-2014 Alabama used the Alabama Science Assessment (ASA) to test students in grades 5 and 7 in science. The ASA is a standards-based test, which means it measures specific skills defined for each grade by the state of Alabama. The goal is for all students to score at or above proficiency level 3.AL ACT Aspire(ACT Aspire): In 2015-2016, students in Alabama took the ACT Aspire. The ACT Aspire is a standards-based assessment system that gauges student progression from grades 3 through 10 in english, math, and science. The ACT Aspire is administered to grades 3-8 and grade 10 students in Alabama public schools.AL ACT PLAN(ACT PLAN): ACT Plan contains four curriculum-based assessment-English, mathematics, reading, and science. Students in grade 10 receive scores on each subject test as well as a predictor composite score for the ACT. Score reports provide information to help students identify skills and knowledge required for college success as well as areas where extra help or additional high school courses were neededArkansas",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-e5edef91-8639-42c8-9b22-aab55646fc43",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Education"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.greatschools.org\"}"
+}

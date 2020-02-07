@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "b51c3626-bc15-4688-872c-6fe065fb9a48",
+  "dc_title_s": "Census and Opportunity Insights",
+  "dc_description_s": "Opportunity Insights, a team of researchers and policy analysts based at Harvard University, conducted a longitudinal study of economic and social conditions of adults based on where they were raised. One of the products of this study was a dataset published at https://opportunityinsights.org/. This dataset includes average household earnings and incarceration rates for adults who were raised in low income households in a given tract, county, or commuting zone.The researchers used demographic data from the 2000 and 2010 Census short forms, combined with data from the 2000 Census long form and 2015 American Community Survey. They linked this Census data with tax returns from 1989, 1994, 1995, and 1998 to 2015. By combining all this data at the person level, they were able to match people who were born from 1978 to 1983 with the census tracts where they were born and raised, and with the household earnings of their parents. They used this longitudinal dataset to calculate the incarceration rate (per 100 people) for people raised in households with incomes less than the 25th percentile based on whether they were in jail or prison on April 1, 2010, the reference date of the 2010 Census for two genders\u201c\u00e2\u20ac\u009dmen and women\u201c\u00e2\u20ac\u009dand three racial and ethnic groups\u201c\u00e2\u20ac\u009dBlack, Hispanic, and White. Average household income was also calculated for this age cohort and parental income group using the income data from the tax returns. Incarceration rates and average incomes were prorated based on how much time the person spent in a given tract or county in their youth, and information was suppressed for areas with fewer than 20 children. Some noise was also infused into the source data to preserve privacy.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-b51c3626-bc15-4688-872c-6fe065fb9a48",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Census And Opportunity Insights"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://opportunityinsights.org/\"}"
+}

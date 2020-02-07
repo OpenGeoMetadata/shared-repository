@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9d6a80ee-355f-4033-a0c4-11378ef8f3b6",
+  "dc_title_s": "HUD\u2018s Real Estate Assessment Center (REAC) Physical Inspection Scores",
+  "dc_description_s": "HUD\u2018s Real Estate Assessment Center (REAC) conducts physical property inspections of roughly 20,000 properties owned, insured or subsidized by HUD per year. The purpose of these inspections is to make sure that assisted families are provided with decent, safe and sanitary housing in good repair. The data currently available include multifamily inspections conducted from 2005 to February 2015 and public housing inspections conducted from 2005 to February 2015. Inspected properties receive an overall score from 0 to 100 based on five criteria: site, building exterior, building systems, common areas and units. Multifamily inspections note whether a site has health and safety violations or smoke detector issues.The REAC score received by the property sets its \u201cstandard\u201cand dictates how often HUD will return to evaluate the property:A score of 90 points or higher is designated a Standard 1 and required to undergo a physical inspection once every three years. A score between 80 and 89 is designated a Standard 2 and required to undergo a physical inspection once every two years.A score of less than 80 points is designated a Standard 3 and required to undergo an annual physical inspection.Standard 3 performing properties with scores below 60 are referred to HUD Departmental Enforcement Center.PolicyMap downloads geocoded data on HUD\u2018s multifamily and public housing sites from three different resources at HUD and wherever possible PolicyMap linked the data using the property ID. The three HUD housing datasets included are the Multifamily Assistance and Section 8 Contracts, A Picture of Subsidized Households and the REAC assessment scores report. All points are geocoded by HUD; where coordinates were not available, the point was not included on the map.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-9d6a80ee-355f-4033-a0c4-11378ef8f3b6",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "US Department of Housing and Urban Development\u2018s Real Estate Assessment Center (REAC)"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Hud Multifamily And Public Housing Sites"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.huduser.org/portal/datasets/pis.html\"}"
+}

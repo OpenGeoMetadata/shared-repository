@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "d983c4bd-9b29-4067-8259-d1e2d0c359b5",
+  "dc_title_s": "HUD\u2018s Picture of Subsidized Households",
+  "dc_description_s": "The Department of Housing and Urban Development (HUD) conducts a periodic survey of all households living in HUD-subsidized housing. HUD compiles this information into a series of reports called A Picture of Subsidized Households where household data are aggregated by program at various geographies including tract, county, place, and state. The programs in this report include public housing, Housing Choice Vouchers, Mod Rehab, Project Based Section 8, RentSup/RAP, Section 236/BMIR, and Section 202 and 811 Supportive Housing programs.Point-level data on HUD\u2018s multifamily and public housing sites are available on PolicyMap. PolicyMap downloaded and geocoded data on multifamily and public housing sites from three different HUD resources. Wherever possible, PolicyMap linked the data using the property ID. The three datasets included are the Multifamily Assistance and Section 8 Contracts, A Picture of Subsidized Households, and the REAC assessment scores report. All points are geocoded by HUD; where coordinates were not available, the point was not included on the map. 99.99% of public housing properties and 96% of multifamily properties contain coordinates and appear on the map.A Picture of Subsidized Households data is provided by HUD at the contract level, not property level. Multifamily properties may contain multiple contracts. For PolicyMap, contracts are aggregated together to create single values for each property. All contracts available in the Picture data are included, regardless of the contracts listed in the Multifamily Assistance database. Only properties listed in the HUD Multifamily database are included. State, county, place, and tract level data from Picture of Subsidized Households are aggregated for all HUD subsidy programs, and are also available for the Housing Choice Voucher recipients and for public housing residents. Data at the tract level is only available for HCV and public housing data. Percent calculations against the general population were made by PolicyMap by using Census 2010 data as denominators for 2012, and the latest American Community Survey data for 2013 and later.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-d983c4bd-9b29-4067-8259-d1e2d0c359b5",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "US Department of Housing and Urban Development\u2018s A Picture of Subsidized Households"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Housing Subsidies",
+    "Section 8 Rental Assistance",
+    "Public Housing",
+    "Multifamily"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2009",
+    "2010",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.huduser.gov/portal/datasets/assthsg.html\"}"
+}

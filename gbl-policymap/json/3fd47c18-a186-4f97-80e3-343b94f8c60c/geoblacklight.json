@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "3fd47c18-a186-4f97-80e3-343b94f8c60c",
+  "dc_title_s": "Head Start",
+  "dc_description_s": "PolicyMap downloads the geocoded Head Start locations using the Head Start locator at the website listed above. Head Start locations are classified as Early Head Start, Head Start, Migrant or Seasonal Head Start, or American Indian and Alaskan Native Head Start. Individual centers receive funding from a grantee authority and are located in defined federal regions.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-3fd47c18-a186-4f97-80e3-343b94f8c60c",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Head Start Locator-Office of the Administration for Children and Families Early Childhood Learning and Knowledge Center"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Head Start Centers"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://eclkc.ohs.acf.hhs.gov/hslc/data/center-data\"}"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "b7b6f9ba-683b-490a-8b54-8c5c72ae37e1",
+  "dc_title_s": "Institute of Museum and Library Services, Museum Universe Data File",
+  "dc_description_s": "The Museum Universe Data file contains the locations and basic information of known museums and related organizations. Museums include aquariums, arboretums, botanical gardens, art museums, children\u2018s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks. IMLS compiled this information from federal tax records, private foundations, and third-party commercial vendors. Points were geocoded by IMLS.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-b7b6f9ba-683b-490a-8b54-8c5c72ae37e1",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Institute of Museum and Library Services"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Museums"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2015",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.imls.gov/research-evaluation/data-collection/museum-universe-data-file\"}"
+}

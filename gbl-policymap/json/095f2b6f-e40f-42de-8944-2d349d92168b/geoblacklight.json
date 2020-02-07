@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "095f2b6f-e40f-42de-8944-2d349d92168b",
+  "dc_title_s": "The Institute for College Access & Success (TICAS), The Project on Student Debt",
+  "dc_description_s": "The Project on Student Debt is an initiative of the Institute for College Access and Success (TICAS), a nonprofit organization dedicated to making college available and affordable to people from all backgrounds. To create this database, TICAS licensed Common Data Set (CDS) survey data from Peterson\u2018s Undergraduate Financial Aid and Undergraduate Databases. CDS is a shared survey used by publishers of college guides.The data provided here have several limitations that may impact state averages. While colleges are asked to report cumulative debt, they may not be aware of all private loans that are carried by students. In addition, debt already accumulated from incoming transfer students is not included. Finally, very few for-profit colleges are included in the survey responses where borrowing levels are on average higher.For detailed information about individual schools see the TICAS website: http://projectonstudentdebt.org/state_by_state-data.php.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-095f2b6f-e40f-42de-8944-2d349d92168b",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "CollegeInSight",
+    "from the Institute for College Access and Success (TICAS)"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Student Loans",
+    "Student Debt"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2004",
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://projectonstudentdebt.org/\"}"
+}

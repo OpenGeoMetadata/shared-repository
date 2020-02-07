@@ -1,0 +1,54 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "8232e93c-c85e-43f6-a9fb-48b6425394e8",
+  "dc_title_s": "CDFI (Community Development Financial Institutions) Fund and PolicyMap",
+  "dc_description_s": "The Community Development Financial Institutions (CDFI) Fund, a division of the US Department of the Treasury, administers the New Markets Tax Credit (NMTC). PolicyMap has performed calculations on various data sources in order to map eligibility and threshold requirements established by the CDFI Fund for Part II (Community Impact) of the NMTC Allocation Application. The NMTC Allocation Application data on PolicyMap is available as follows.Note that the latest eligibility criteria use Census American Community Survey (ACS) 2011-2015 estimates. In 2017, there was a one-year transition period for investments started under the 2006-2010 ACS data; that data is also available. More information is available here: https://www.cdfifund.gov/Documents/NMTC%20CIMS%20November-Census%20Transition%202011-2015%20ACS%20Oct30-2017-4.30pm.pdfCDFI Fund New Markets Tax Credit NMTC EligibilityNMTC Eligible Census tracts include those that have either (1) Median Family Income at or below 80% of Area Median Income (AMI) in the period of 2006-2010/2011-2015 or (2) Poverty Rate of 20% or greater in the period of 2006-2010/2011-2015. PolicyMap provides a map of those eligible Census tracts (\u201cEligible Tracts\u201c\u00c2\u009d), as well as the underlying data used to create that map in the (\u201cEligibility Criteria\u201c\u00c2\u009d). PolicyMap also provides the underlying data without the NMTC thresholds (\u201cTract Family Income as % of AMI\u201cand \u201cPoverty\u201c\u00c2\u009d). According to the NMTC application, an applicant generally scores more favorably that serves tracts with \u201cSevere Distress\u201cor in non-metropolitan counties, or qualifies for two or more other criteria.Severe Distress and Non-MetropolitanMeeting the NMTC Severe Distress or Non-Metropolitan criteria is based on whether or not a given Census tract meets basic NMTC Eligibility, plus one of the following factors: having a median family income at or below 60% of AMI in the period of 2006-2010/2011-2015; having a poverty rate at or above 30% in the period of 2006-2010/2011-2015; having an unemployment rate of at least 1.5 times the national unemployment rate in the period of 2006-2010/2011-2015; or being in a county that is not part of a metropolitan statistical area.*The median family income threshold for NMTC, more specifically, is: Census tracts with, if located within a non-Metropolitan Area, median family income at or below 60% of statewide median family income or, if located within a Metropolitan Area, median family income at or below 60% of the greater of the statewide median family income or the Metropolitan Area median family income.Other Criteria for NMTCOther criteria can include two of the following: meeting NMTC Heavy Distress requirements; being located within: an SBA Designated HUB Zone, a Medically Underserved Area (MUA), a Census tract within which a Brownfield is located, a HOPE VI Redevelopment Area, a Federal Native Area, an Appalachian Regional Commission or Delta Regional Authority Area, a Colonias Area, a State or Local Economic Zone (such as TIF or KOZ), a FEMA Disaster Area, or a ERS/USDA Food Desert. Please note that the data on PolicyMap do not take into account the following, due to unavailability of data: HOPE VI Redevelopment Areas, Federal Native Areas, Colonias Areas, State or Local Economic Zones, and FEMA Disaster Areas. Included in this submenu are the data for each of the available factors that constitute the Secondary Criteria for NMTC Severely Distressed.The data used for the NMTC Eligibility maps include numerous sources, listed below.Data for the 2018 Application:Median Family Income|Census ACS 2006-2010/2011-2015|Area Median Income|Census ACS 2006-2010/2011-2015|Poverty Rate|Census ACS 2006-2010/2011-2015|Unemployment Rate|Census ACS 2006-2010/2011-2015|SBA HUBZones|Small Business Administration HUBZones|Medically Underserved Areas|US Department of Health and Human Services Health Resources and Services Administration Shortage Areas|Delta Regional Authority Distressed Counties|Delta Regional Authority Distressed List (http://dra.gov/funding-programs/states-economic-development-assistance-program/distressed-counties-and-parishes/)|Appalachian Regional Commission|County Economic Status and Distressed Areas in Appalachia (http://www.arc.gov/appalachian_region/CountyEconomicStatusandDistressedAreasinAppalachia.asp)|Brownfield locations|EPA Brownfields|ERS/USDA Food Deserts|ERS, USDA|Because any of these data sources may have been updated since the production of these calculations, users should verify eligibility directly with the CDFI Fund. Information in PolicyMap does not include HOPE VI Redevelopment Areas, Federal Native Areas, Colonias Areas, or State or Local Economic Zones. FEMA Disaster Areas are accessible under Federal Guidelines in the Data Points menu.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-8232e93c-c85e-43f6-a9fb-48b6425394e8",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Community Development Financial Institutions Fund",
+    "US Department of the Treasury",
+    "US Census"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Nmtc Program Eligibility",
+    "Severe Distress",
+    "Very Low Income",
+    "Poverty",
+    "Poverty",
+    "Unemployment"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2010",
+    "2013",
+    "2014",
+    "2015",
+    "2018 "
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.cdfifund.gov/programs-training/Programs/new-markets-tax-credit/Pages/apply-step.aspx#step2\"}"
+}

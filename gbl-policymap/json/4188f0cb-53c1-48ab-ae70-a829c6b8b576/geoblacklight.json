@@ -1,0 +1,41 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "4188f0cb-53c1-48ab-ae70-a829c6b8b576",
+  "dc_title_s": "Centers for Disease Control and Prevention (CDC) State Cancer Profiles",
+  "dc_description_s": "The data presents the estimated Annual Incidence Rate and Average Cases of cancer by type per year in state and county level geographies. The data is available in the aggregate, but also divides into demographic characteristics, including: race and age. In some cases, data have been suppressed to ensure confidentiality and stability of rate estimates. Counts are suppressed if fewer than 16 cases were reported in a specific area-sex-race category.This data is collected from public health surveillance systems by using either their published reports or public use files. Many states provide Web sites with just their state\u2018s data. This data may be more recent or in more detail than can be provided nationally.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-4188f0cb-53c1-48ab-ae70-a829c6b8b576",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Centers for Disease Control and Prevention (CDC) and National Cancer Institute (NCI)"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Cancer"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2015",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://statecancerprofiles.cancer.gov/\"}"
+}

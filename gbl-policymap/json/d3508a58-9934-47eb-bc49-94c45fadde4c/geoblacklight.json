@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "d3508a58-9934-47eb-bc49-94c45fadde4c",
+  "dc_title_s": "Reinvestment Fund Study of Childcare Access (Philadelphia)",
+  "dc_description_s": "Reinvestment Fund\u2018s study of childcare access in Philadelphia is an analysis estimating the supply of and demand for childcare services in the Philadelphia region.Unfortunately, there is no single data source that permits the adequate modeling of the supply of childcare. Nor is there a single source of data that indicates the demand for childcare services. Supply figures are often, at best, an estimate. And where demand data does exist, it is difficult to directly know which children are in childcare and which are not; which are in childcare near where their parents live or near where they work. Because of this, Reinvestment Fund statistically estimated both the supply of and demand for childcare by combining data from several different datasets to best approximate both sides of the supply/demand equation.The following data were used to approximate supply. The amount of information contained in each database varies considerably; they are listed in order below from the dataset with the most information to the least information:OCDEL database (June 2013 and updates quarterly) and Includes all 1,888 state licensed childcare centers in Philadelphia. The database includes information on the location, capacity, Keystone STARS rating (i.e., quality), and whether the center has certain types of programs (Head Start, Pre-K, or school age). PA DED License and Enrollment data for Pre-K (June 2013 and updates annually) and Enrollment data from 118 Pre-K programs in Philadelphia. It includes enrollment information only.National Establishment Time Series (NETS) (2011 and updates annually) and Includes 859 establishments listed under the Standard Industrial Code (SIC) \u201c8351-Child Daycare Services\u201cin the historical listing of all business establishments in Philadelphia. These 859 establishments are not in the OCDEL data.InfoUSA (circa 2012, ongoing updates) and Contains only location information for 200 centers not in any other database.Head Start (circa 2013 and updates annually) and Locations of 102 Head Start centers without enrollment information.For demand, Reinvestment Fund relied primarily on various releases of data from the US Census. All databases were acquired or aggregated to the Census block group level:Census 2010 (updates every 10 years) and Counts of children ages 5 years and under.American Community Survey (2007-2011 5-yr sample and updates annually) and Information on the destination of workers with children under the age of 5.Longitudinal Employer Household Dynamics (LEHD) (2011 and updates annually) and Detailed information on the origin and destination of workers.Methodology:",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-d3508a58-9934-47eb-bc49-94c45fadde4c",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Reinvestment Fund"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Childcare Access"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2013",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\"}"
+}

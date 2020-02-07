@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "f10b1a81-1abf-404c-bf70-fa6a825a91a2",
+  "dc_title_s": "Public Health Management Corporation Southeastern PA Household Health Survey",
+  "dc_description_s": "Public Health Management Corporation (PHMC), a Philadelphia-based nonprofit institute for public health research and consulting, provided PolicyMap with data from the 2012 Southeast Pennsylvania Household Health Survey. These data were collected through household phone interviews conducted by PHMC. Estimates are mapped to Southeast Pennsylvania zip regions, Philadelphia Health Districts, Philadelphia Planning Analysis Areas, and Philadelphia Planning Districts. These areas were created based on crosswalks provided to PolicyMap by PHMC. Southeast Pennsylvania Zip Regions are based on Pitney Bowes zip codes; Planning Analysis Areas, Planning Districts, and Health Districts are based on 2010 census tracts within the city of Philadelphia. Any area with fewer than 30 responses to a survey question are suppressed in the data.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-f10b1a81-1abf-404c-bf70-fa6a825a91a2",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Public Health Management Corporation"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Health Insurance",
+    "Dental Care",
+    "Access To Health Care",
+    "Cigarettes",
+    "Children With Asthma",
+    "Depression"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2012",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.chdbdata.org/\"}"
+}

@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "8549f9f2-5bb6-4c2a-aa64-a36c7a054d1d",
+  "dc_title_s": "Bureau of Labor Statistics Local Area Unemployment Statistics",
+  "dc_description_s": "The Bureau of Labor Statistics\u2018Local Area Unemployment Statistics (LAUS) program produces monthly and annual employment, unemployment, and labor force data for Census regions and divisions, States, counties, metropolitan areas, and many cities, by place of residence. PolicyMap contains county and state counts of people employed, unemployed, and in the labor force, as well as the unemployment rate. The annual values presented in PolicyMap are annual averages for the years listed as provided by the BLS.The concepts and definitions used by LAUS come from the Current Population Survey (CPS), the household survey that is the official measure of the labor force for the nation. According to this definition, employed persons include people who did any paid work as employees, worked in their own business or farm, or did unpaid work of 15 or more hours in an establishment owned by a relative. Unemployed persons include people who had no employment but were available for and seeking employment. People in the labor force are all those people classified as employed or unemployed. The labor force does not include military (active duty) and institutionalized persons.Every April, the Bureau of Labor Statistics re-releases revised data for the previous five years. PolicyMap\u2018s data reflects these revisions. In 2015, the BLS changed the methodology of their model, with changes relating to structural differences, real-time benchmarking, smoothed seasonal adjustment, and treatment of outliers. At the state-level data, this methodology was used to re-estimate all data back to 1976 (PolicyMap displays data for 2000 and later). At sub-state geographies (city, county, CBSA, metropolitan division), the new methodology was only used to re-estimate data going back to January 2010. For this reason, comparisons between data before and after this change are not advised. Certain sub-state areas have the revised methodology re-estimated back to 1990: New York City (back to 1976), the Los Angeles-Long Beach-Glendale metropolitan division, the Chicago-Naperville-Arlington Heights, IL metropolitan division; the Cleveland-Elyria, OH metropolitan area; the Detroit-Warren-Dearborn, MI metropolitan area; the Miami-Miami Beach-Kendall, FL metropolitan division; and the Seattle-Bellevue-Everett, WA metropolitan division. Note that the previous methodology disaggregated data from the state level; because the state methodology is being re-estimated for before 2010, sub-state level data is indirectly affected.This data reflects recent county geography changes not yet implemented on PolicyMap: Bedford city (county equivalent) in Virginia was added to Bedford County; Petersburg Borough in Alaska was created out of parts of the former Petersburg Census Area and part of Hoonah-Angoon Census Area; and Prince of Wales-Hyder Census Area in Alaska added a part of the former Petersburg Census Area. These removed counties still appear on the map, showing insufficient data. Data for counties with geography changes (such as Bedford County, Virginia) reflect the new geography which is not visible on PolicyMap.The annual data contains percent change calculations on the number of people in the labor force and employed, as well as a change in percent calculation of the unemployment rate. These were calculated by PolicyMap.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-8549f9f2-5bb6-4c2a-aa64-a36c7a054d1d",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Bureau of Labor Statistics Local Area Unemployment Statistics Program"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Employment",
+    "Unemployment",
+    "Labor Force"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2019",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.bls.gov/lau/lauov.htm\"}"
+}

@@ -1,0 +1,42 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "f5bdcc6e-03ab-44d3-b54c-55019cb99d53",
+  "dc_title_s": "FBI Uniform Crime Reports and Hate Crime Statistics",
+  "dc_description_s": "The Federal Bureau of Investigation\u2018s Uniform Crime Reporting (UCR) Program compiles standardized incident reports from local law enforcement agencies in order to produce reliable, uniform, and national crime data. The UCR Program is voluntary, and includes data for only counties and cities with population over 10,000. As a result, coverage is not universal. The UCR Program collects data on known offenses and persons arrested by law enforcement agencies. The UCR Program does not record the findings of a court, coroner, jury, or the decision of a prosecutor.The Hate Crime Statistics Program within the FBI\u2018s (UCR) Program collects data regarding criminal offenses that were motivated, in whole or in part, by the offender\u2018s bias against a race, ethnicity, ancestry, gender, gender identity, religion, disability or sexual orientation and were committed against persons, property, or society. Hate crime data is captured by including the element of bias in offenses already being reported to the UCR Program. State hate crime counts reflect the sum of all reported offenses from agencies within the state that submitted data to the FBI. The state population count used in the rate calculations is an estimate of the number of people served by the agencies within the state that report offenses. In 2015, a total of 14,997 law enforcement agencies participated in the Hate Crime Statistics Program, and, of those, a total of 1,742 agencies reported hate crime occurring within their jurisdiction. The State of Hawaii does not participate in the Hate Crime Statistics Program. Due to variation in reporting and hate crime definitions changing over time, FBI hate crime statistics should not be compared across states, and should not be compared from one year to another. An agency can report up to four bias motivation types per offense. While hate crime counts are available on PolicyMap for 2010-2015, hate crime rates are only available as of 2015.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-f5bdcc6e-03ab-44d3-b54c-55019cb99d53",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "FBI Uniform Crime Reports"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Hate Crime Counts And Rates"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2015",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://ucr.fbi.gov/hate-crime/2015/home\"}"
+}

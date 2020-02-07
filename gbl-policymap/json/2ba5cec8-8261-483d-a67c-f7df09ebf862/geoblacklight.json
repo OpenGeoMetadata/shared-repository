@@ -1,0 +1,57 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "2ba5cec8-8261-483d-a67c-f7df09ebf862",
+  "dc_title_s": "Federal Housing Finance Agency (FHFA)",
+  "dc_description_s": "The housing price index (HPI) is a broad measure of the movement of single-family house prices based on transactions involving conforming, conventional mortgages purchased or securitized by Fannie Mae or Freddie Mac. The HPI is a weighted, repeat-sales index, meaning that it measures average price changes in repeat sales or refinancings on the same properties.The annual indices for smaller geographies should be considered developmental. As with the standard FHFA HPIs, revisions to these indexes may reflect the impact of new data or technical adjustments. Indexes are calibrated using appraisal values and sales prices for mortgages bought or guaranteed by Fannie Mae and Freddie Mac. An index is not reported in cases where sample sizes on mortgage transactions are too small for a given geographic area. These indices were developed as part of FHFA Working Paper 16-01 (Bogin, A., Doerner, W. and Larson, W. (2016). Local House Price Dynamics: New Indices and Stylized Facts. Federal Housing Finance Agency, Working Paper 16-01.) The working paper may be accessed at http://www.fhfa.gov/papers/wp1601.aspx.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-2ba5cec8-8261-483d-a67c-f7df09ebf862",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Federal Housing Finance Agency (FHFA)",
+    "Housing Price Index datasets"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Home Sales",
+    "Housing Prices"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx#qpo\"}"
+}

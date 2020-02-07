@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "fd3f7805-c2c8-4ad7-8196-ecc22136b5e9",
+  "dc_title_s": "United States Department of Agriculture (USDA) Rural Development, Single Family Housing",
+  "dc_description_s": "Direct LoansThe Rural Housing Service of USDA Rural Development provided aggregated data on borrower and loan characteristics for single family properties included in the Section 502 single family housing direct loan program. Data is aggregated by county and congressional district. Borrower characteristics include income, racial and ethnic classifications, as well as household characteristics such as number of dependents. Loan characteristics include average loan amounts for all active loans as well as loans within specified fiscal year ranges.Data in PolicyMap was aggregated to the county and congressional district level by USDA.Guaranteed Loans The Rural Housing Service of USDA Rural Development provided aggregated data on borrower, loan and property characteristics for single family properties included in the Section 502 single family housing guaranteed loan program. Data is aggregated by county and congressional district. Borrower characteristics include income, racial and ethnic classifications, first-time homebuyer status as well as household characteristics such as number of dependents. Property characteristics include information on the housing development type and the individual structure type and square footage. Loan characteristics include average loan amount, appraised value and loan-to-value ratio.Data in PolicyMap was aggregated to the county and congressional district level by USDA.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-fd3f7805-c2c8-4ad7-8196-ecc22136b5e9",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "USDA Rural Development",
+    "Rural Housing Service"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Usda Rural Development Single Family Direct Loans And Guaranteed Loans"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.sc.egov.usda.gov/data/data_files.html\"}"
+}

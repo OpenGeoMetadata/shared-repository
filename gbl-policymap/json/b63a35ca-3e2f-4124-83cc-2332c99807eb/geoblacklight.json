@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "b63a35ca-3e2f-4124-83cc-2332c99807eb",
+  "dc_title_s": "HUD Qualified Census Tracts and Difficult Development Areas",
+  "dc_description_s": "Qualified Census Tracts:PolicyMap downloads data on Low-Income Housing Tax Credit (LIHTC) Qualified Census Tracts (QCT) from tables at HUD\u2018s website. A Qualified Census Tract is any census tract (or equivalent geographic area defined by the Bureau of the Census) in which at least 50 percent of households have an income less than 60 percent of the Area Median Gross Income (AMGI). There is a limit on the number of Qualified Census Tracts in any Metropolitan Statistical Area (MSA) or Primary Metropolitan Statistical Area (PMSA) that may be designated to receive an increase in eligible basis: all of the designated census tracts within a given MSA/PMSA may not together contain more than 20 percent of the total population of the MSA/PMSA. For purposes of HUD designations of Qualified Census Tracts, all non-metropolitan areas in a state are treated as if they constituted a single metropolitan area.Difficult Development Areas:PolicyMap downloads data on Difficult Development Areas (DDA) from tables at HUD\u2018s website. A Difficult Development Area is any area designated by the Secretary of HUD as an area that has high construction, land, and utility costs relative to the Area Median Gross Income (AMGI). All designated Difficult Development Areas in Metropolitan Statistical Areas (MSA) or Primary Metropolitan Statistical Areas (PMSA) may not contain more than 20 percent of the aggregate population of all MSAs/PMSAs, and all designated areas not in metropolitan areas may not contain more than 20 percent of the aggregate population of all non-metropolitan counties. Beginning in 2016, DDAs are comprised of Counties and Zip Code Tabulation Areas (ZCTAs). Some ZCTAs sit in multiple counties and county subdivisions, and only certain portions of the ZCTA are DDAs. Therefore, the data is shown on the map as a cross between ZCTAs and county subdivisions, so every area on the map is shown with the correct status.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-b63a35ca-3e2f-4124-83cc-2332c99807eb",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "US Department of Housing and Urban Development Qualified Census Tracts and Difficult Development Areas"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Qualified Census Tract",
+    "Area Median Gross Income",
+    "Low Income Housing Tax Credit"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2009",
+    "2010",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2019",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://qct.huduser.gov/index\"}"
+}

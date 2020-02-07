@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "7d338b1e-0829-43ea-b452-33afd8638cee",
+  "dc_title_s": "Census Geography Division",
+  "dc_description_s": "Every ten years, following the Decennial Census, there are major updates to many of the Census boundaries based on a new population count. Additionally, there are minor updates annually reflecting changes to local geographies (for example, in 2014, the county-equivalent Bedford City, Virginia, was combined with its adjacent county). These minor updates also reflect more accurate surveying techniques by the Census.Because of the significant changes that were made to underlying geography files in 2010, PolicyMap displays different data at Census 2000 and 2010 boundaries. In some cases a single dataset will display some years of data at the 2000 vintage and other years at the 2010 vintage. For example, Census 2000 data is shown at the 2000 Census boundaries while the most recent American Community Survey (ACS) data is displayed at the 2010 boundaries.In cases where a single dataset relies on multiple boundary files, percent changes are calculated using relationship files and other materials provided by the Census. For more, see: http://www.census.gov/geo/maps-data/data/relationship. In most cases the materials provided by the Census were adequate to make the calculations. However, the process for calculating Block Group percent changes was more complex because the Census does not provide Block Group relationship files. PolicyMap relied on the Census Block relationship files for these calculations using a family, household, or population multiplier to crosswalk the 2000 data to 2010 boundaries to make the calculation. Percent changes that involve both 2000 and 2010 vintages are all displayed using 2010 Census boundary files. For additional information on percent change calculations please see data directory entries for individual datasets.PolicyMap has the following geographies with distinct boundaries for the 2000 vintage and 2010 vintage: block group, tract, county, county subdivision, and place. The state boundaries do not have substantial changes from 2000 to 2010 (changes are simply related to improved surveying), so only the latest 2010 state file is loaded in PolicyMap.Core-based Statistical Area (CBSA) and Metropolitan Division boundary files have been released on a different schedule than the other boundaries, as they are delineated by the Office of Management and Budget (OMB). Significant changes were made in 2003 and 2013. PolicyMap uses 2010 CBSAs (which are based on the 2003 OMB delineation) and 2013 CBSAs. CBSA encompasses both metropolitan and micropolitan areas. For additional information on metro areas and their historical and current delineations please see: http://www.census.gov/population/metro/.Places (identified as \u201cCities\u201con PolicyMap) are defined by the Census as either incorporated places or Census Designated Places (CDPs). Incorporated places are legally established to provide governmental functions for a concentration of people. An incorporated place is usually a city, town, village, or borough, but can take other forms. CDPs are statistical entities created by the Census \u201cto provide data for settled concentrations of population that are identifiable by name but are not legally incorporated under the laws of the state in which they are located\u201c\u00c2\u009d. For more on the difference between incorporated areas and CDPs, see: https://www.census.gov/geo/reference/gtc/gtc_place.html The vintages of Place boundaries used in PolicyMap are 2009 and 2010. The 2009 cities are labeled on PolicyMap as 2000 for the sake of consistency and ease of use, because they are used for Census 2000 data.Zip Code Tabulation Areas (ZCTAs) are based on US Postal Service ZIP Codes, but they are not identical, and in many cases, may be significantly different. Though ZIP Codes change continuously, ZCTAs are set in 2010, and remain unchanged throughout the decade.The vintage and or year and of the boundary used can be found in several places throughout the site. On the Maps page, the boundary type and boundary year is shown in the legend once data is loaded on the map. There is also an option to overlay additional 2000 and 2010 boundaries by clicking on \u201cMap Boundaries\u201cfrom the purple bar at the base of the map. You can choose \u201cSelect Current\u201cto display the boundaries associated with the dataset currently loaded on the map or choose your desired boundary from a menu of available options by clicking \u201cAll.\u201c\u00c2\u009dWhen you search for a geography using the Set Location Bar, a dropdown menu will appear allowing you to select the vintage of the boundary you would like to see. If the boundary for the area of your search has changed, you can select either the 2000 or the 2010 boundary definition. If the boundary has not changed there will only be one item in the dropdown labeled \u201c2000 and 2010 boundary\u201c\u00c2\u009d.PolicyMap ZIP codes are licensed from Pitney Bowes. See: Pitney Bowes ZIP Code Boundaries.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-7d338b1e-0829-43ea-b452-33afd8638cee",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "US Census Bureau",
+    "Geography Division"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Boundary Files"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2010",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.census.gov/geo/maps-data/data/tiger\"}"
+}

@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "711fb788-47aa-4134-a7c9-8957c0008252",
+  "dc_title_s": "HUD\u2018s Multifamily Assistance and Section 8 Contracts Database",
+  "dc_description_s": "The Multifamily Assistance and Section 8 Contracts Database was created to provide HUD partners/clients with a way of measuring the potential impact of expiring project-based subsidy contracts in their communities. PolicyMap linked the HUD Multifamily Assistance Properties to the HUD Multifamily Assistance and Section 8 Contracts available as of 1/31/2017 to show the details for up to four contracts per property. The most recent four contracts are shown; if a property has more than four contracts, the number of additional older contracts is displayed.PolicyMap downloaded and geocoded data on HUD\u2018s multifamily sites from three different resources at HUD and, wherever possible, PolicyMap linked the data using the property ID. The three datasets included are the Multifamily Assistance and Section 8 Contracts, A Picture of Subsidized Households and the REAC assessment scores report. PolicyMap was able to locate 93% of multifamily properties on a map.This data is displayed with HUD\u2018s A Picture of Subsidized Households, which shows data about the subsidized households at these properties. Picture data is provided by HUD at the contract level, not property level. For PolicyMap, contracts are aggregated together to create single values for each property. All contracts available in the Picture data are included, regardless of the contracts listed in the Multifamily Assistance database. Only properties listed in the HUD Multifamily database are included.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-711fb788-47aa-4134-a7c9-8957c0008252",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "US Department of Housing and Urban Development\u2018s Multifamily Assistance and Section 8 Contracts Database"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Hud Multifamily Sites"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.hud.gov/program_offices/housing/mfh/exp/mfhdiscl\"}"
+}

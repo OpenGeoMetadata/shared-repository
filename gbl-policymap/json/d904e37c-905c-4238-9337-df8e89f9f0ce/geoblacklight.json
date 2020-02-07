@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "d904e37c-905c-4238-9337-df8e89f9f0ce",
+  "dc_title_s": "Centers for Medicare & Medicaid Services (CMS) and Health Resources Services Administration (HRSA) and Hospital Compare: Quality of Care",
+  "dc_description_s": "The Hospital Compare dataset is part of a data repository maintained by the Centers for Medicare & Medicaid Services (CMS), focusing on the quality of care at over 4,500 Medicare-certified hospitals (including acute care hospitals, critical access hospitals (CAHs), children\u2018s hospitals, and hospital outpatient departments) across the country. The dataset was created in collaboration with organizations representing consumers, doctors, hospitals, employers, accrediting organizations, and other federal agencies, as part of an overall effort to improve patient safety and care.The Hospital Compare dataset on PolicyMap includes data on:General information (Overall Rating, Mortality, Safety of Care, Readmission, Patient Experience, Effectiveness of Care, Timeliness of Care, Effective use of Medical Imaging): The overall hospital rating is given in stars from 1 to 5, while all other measures are designated as either being below, same, or above the national average. Data for these measures is compiled through the Inpatient/Outpatient Quality Reports and other programs mandatory for Medicare-certified hospitals. All comparisons on national average were standardized to ensure a common scale and direction for each measure. This implies that hospitals that perform above average on mortality or readmission comparison have a higher standardized z-score on these measures, based on lower mortality and readmission rates than the national average. The overall star rating in this section is intended primarily for acute care hospitals, due to which CMS may have omitted the measure for specialty hospitals. More details on the methodology for calculating overall ratings can be found here. Structural Measures (Presence of facilities which include ability to receive lab results electronically, ability to track lab results, tests, and referrals electronically, presence of various registries): These measures are designated a Yes or No classification depending on whether a given facility is available at a hospital. Data for these measures is submitted by hospital and their vendors through an online data entry tool.Survey of patients\u2018experiences and (Ratings on Care transition, Cleanliness, Communication, Pain Management, Staff Responsiveness, Quietness, Discharge Information, and overall hospital ratings): All of these measures are assigned a star rating from 1 to 5. Data for these measures is compiled using the Hospital Consumer Assessment of Healthcare Providers and Systems survey [HCAHPS], which is administered to a random sample of adult inpatients after discharge. In order to receive HCAHPS Star Ratings, hospitals must have at least 100 completed HCAHPS surveys over a given four-quarter period. While all of the star ratings are based on direct patient responses, the summary star rating is calculated as a weighted measure using all categories of patient responses, including overall patient rating. More details on the methodology for calculating HCAHPS star ratings can be found here.Healthcare Associated Infections (HAI): HAI measures show how often patients in a particular hospital contract certain infections during the course of their medical treatment, when compared to like hospitals. These infections can often be prevented when healthcare facilities follow guidelines for safe care. Hospitals currently submit information on central line-associated bloodstream infections (CLABSIs), catheter-associated urinary tract infections (CAUTIs), colon and abdominal hysterectomy surgical site infections (SSIs), MRSA Bacteremia, and C.difficile laboratory-identified events. More details on the methodology for calculating HCAHPS star ratings can be found here.Reasons for exclusion of certain measures for a hospital may include when number of cases/patients is too few to report, results are based on a shorter time period than required, data suppressed by CMS for one or more quarters, results are not available for this reporting period, there were discrepancies in the data collection process, this result is not based on performance data; the hospital did not submit data and did not submit a waiver, data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs.More details on data collection and computation methodology for each dataset can be found here.This dataset is available on PolicyMap as point data based on hospital location, and can be viewed upon clicking each respective point. The CMS Hospital Compare data was joined by PolicyMap to hospital locations using data from HRSA. HRSA hospital location data can be found here.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-d904e37c-905c-4238-9337-df8e89f9f0ce",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Centers for Medicare and Medicaid Services (CMS) and Health Resources Services Administration (HRSA)"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Healthcare Quality"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.medicare.gov/hospitalcompare/\"}"
+}

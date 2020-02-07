@@ -1,0 +1,50 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "d2aa6ee8-e6e0-482e-b778-4fc412506687",
+  "dc_title_s": "Selected Premium Subscriber Datasets",
+  "dc_description_s": "The Pennsylvania Department of Community and Economic Development (PA DCED) has worked with PolicyMap to spatially display the information available on their Investment Tracker website. The website and the data PolicyMap obtained from PA DCED as of May 9, 2012 contain information on projects that are either underway or have been completed across the state of Pennsylvania, as well as the number of jobs created and the amount of money invested in these projects.There are a number of circumstances in which double counting occurs in the data. If a project crosses either county or Congressional District boundaries, both counties or Districts take credit for the entire investment amount and the number jobs created by the project. Projects indicated as \u201cstatewide\u201calso include the entire investment amount and the number of jobs created by the project. For example, if a given project is indicated in the Investment Tracker data as being a part of Montgomery County, Philadelphia County, and Statewide, the two counties and the state are each allocated the entire amount and the total number of jobs. Also, if a project is funded by more than one program, all programs listed claim the entire number of jobs created by the project. For example, if the Ashley Furniture Industries project, which is funded by the OppGrant program and the JCTC program, creates 720 jobs, both the OppGrant program and the JCTC program will each claim they created 720 jobs. Projects that occur at the county level are projects that took place specifically within that county. For example, if a project is listed as taking place in Bucks County, the project will count towards the county total. Likewise, if a project is listed as taking place in Philadelphia, Montgomery, and Bucks County, the project will be counted towards the county totals for all three counties.Statewide or Multi-County projects are those that occur at the state level. These are projects specifically listed as \u201cstatewide,\u201c\u201cstate projects,\u201cor projects that occur in \u201call\u201ccounties. These projects occur on a state level and are not counted towards the county totals in addition to the statewide totals. As such, statewide totals are typically smaller than the individual county totals. Statewide totals only take into account projects that take place on a statewide level, and do not represent a cumulative sum of the total investments made across all counties.The PA DCED also has information regarding programs and projects that occur on a regional level. Regional projects include the following: Governor\u2018s Center for Local Government Services Regions, Pennsylvania Department of Community & Economic Development Regions, Governor\u2018s Action Team (GAT) Regions, Partnerships for Regional Economic Performance (PREP) Regions, Local Development Districts, and Pennsylvania Regional Export Network Regions.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-d2aa6ee8-e6e0-482e-b778-4fc412506687",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Community Economic Development",
+    "DCED"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Community & Economic Development Data"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2012",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.dced.state.pa.us/investmenttracker/\"}"
+}

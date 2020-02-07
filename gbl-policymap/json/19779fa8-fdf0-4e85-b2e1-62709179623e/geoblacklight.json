@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "19779fa8-fdf0-4e85-b2e1-62709179623e",
+  "dc_title_s": "HUD Neighborhood Stabilization Program Targeting",
+  "dc_description_s": "HUD\u2018s Neighborhood Stabilization Program (NSP) provides assistance to state and local governments to acquire and redevelop foreclosed and abandoned properties that might otherwise become sources of blight within their communities and induce overall neighborhood decline. The program is currently in its third round, commonly called NSP3, as authorized by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) of 2010. If you were allocated funding for the NSP3 program and have specific questions about your application for HUD you can contact them directly at http://hudnsphelp.info/.PolicyMap shows eligibility data released by HUD for each of the three allocations (detailed below). PolicyMap also displays the target areas covered by each of the allocations. You can explore target area boundaries, grantees active in your community as well as the award amount.NSP3 Data:PolicyMap\u2018s NSP3 data is current as of 2010. This is data applicants will need to submit grant applications to HUD. For additional information on this update as well as HUD resources see: http://portal.hud.gov/hudportal/HUD?src=/program_offices/comm_planning/communitydevelopment/programseighborhoodspgsp3HUD has provided a mapping tool that allows you to draw boundaries and submit them for HUD to calculate a score and email you back. The underlying data is now available on PolicyMap at the tract and block group geographies, allowing applicants to see the data in real time rather than emailing and waiting for a response. Applicants can check eligibility of geographies and custom target areas by clicking around on the map and assembling supporting numbers and documentation. To access HUD\u2018s mapping tool see: http://www.huduser.org/NSPsp3Eligibility and Scores:PolicyMap shows NSP3 eligibility for block groups and tracts throughout the country. To be eligible a neighborhood must either have an NSP3 score of 17 or higher OR have a score greater than or equal to the state\u2018s minimum threshold score. The numerical NSP3 scores as well as the state minimum thresholds are available on PolicyMap as well. Applicants can create target areas composed of multiple tracts or block groups. To do so, the eligibility scores of the component tracts or block groups are combined using a weighted average based on the total number of housing units. This housing unit count is also available on PolicyMap to allow applicants to make those calculations.If you are uncertain about the eligibility of individual properties because they lie on the boundaries of tracts, please contact HUD directly for final clarification. They can answer your question here: http://hudnsphelp.info/.Supporting Data:",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-19779fa8-fdf0-4e85-b2e1-62709179623e",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "US Department of Housing and Urban Development (HUD) Neighborhood Stabilization Program (NSP) Data"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Foreclosure And Delinquency Risk",
+    "Foreclosure Rate",
+    "Income Eligibility",
+    "High Cost Loans"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.hud.gov/offices/cpd/communitydevelopment/programs/neighborhoodspg/\"}"
+}

@@ -2,10 +2,10 @@ import csv
 import json
 import os
 from datetime import datetime
-​
+
 single_dict = { #dictionary to translate single-value Dublin Core/GBL fields into GBLJson
     "layer-slug":["layer_slug_s"],
-    "dc_identifier_s":["dc_identifier_s"],
+    "identifier":["dc_identifier_s"],
     "title":["dc_title_s"],
     "description":["dc_description_s"],
     "solr year":["solr_year_i"],
@@ -26,12 +26,12 @@ multiple_dict = { #dictionary to translate multivalue Dublin Core/GBL fields int
     }
 if not os.path.exists("json"): #create a folder to store the jsons if one does not already exist
     os.mkdir("json")
-​
+
 csvfile = open('policy-map-data-directory.csv', 'r') #opens the csv with the GBL data. Change this as needed
-​
+
 reader = csv.DictReader(csvfile)
 date_modified = datetime.today().strftime('%Y-%m-%d')+"T"+datetime.today().strftime('%X')+"Z" #sets date modified to the current date
-​
+
 for row in reader: #each row is a dictionary
     identifier = ""
     ref = []

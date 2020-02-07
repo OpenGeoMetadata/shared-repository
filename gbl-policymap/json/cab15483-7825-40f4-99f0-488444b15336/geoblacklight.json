@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "cab15483-7825-40f4-99f0-488444b15336",
+  "dc_title_s": "Census County Business Patterns",
+  "dc_description_s": "County Business Pattern Data (CBP) is an annual series that provides economic data by industry. The data describe the number and type of jobs that are located in any given place. This is different from describing the occupations of people living in the same area.CBP covers most of the country\u2018s economic activity. The series excludes data on self-employed individuals, employees of private households, railroad employees, agricultural production employees, and most government employees.CBP data are extracted from the Business Register, the Census Bureau\u2018s file of all known single and multi-establishment companies. The Company Organization Survey (annual) and Economic Censuses (every five years) provide individual establishment data for multi-location firms. Data for single-location firms are obtained from various surveys conducted by the Census Bureau, such as the Economic Censuses, the Annual Survey of Manufacturers, and Current Business Surveys, as well as from administrative records of the Internal Revenue Service, the Social Security Administration, and the Bureau of Labor Statistics.Jobs in the CBP data are reported by North American Industry Classification System (NAICS, pronounced \u201cNakes\u201c\u00c2\u009d) categories. NAICS is the standard for use by Federal statistical agencies in classifying business establishments for the collection, analysis, and publication of statistical data related to the national business economy. NAICS is run through the Office of Management and Budget (OMB), and, in 1997, replaced the Standard Industrial Classification (SIC) system. Business establishments self-assign their NAICS code based on the primary economic activities in which they engage. CBP data is given using two different methodologies. At the county, CBSA, state, and nation level, values are given for the number of employees in a given industry. These values are infused with noise added by the Census in order to avoid disclosing data that would be identifiable to a specific employer. In addition, some values are withheld by the Census to avoid disclosing data for individual companies. In these cases, the Census provides a range within which the value falls, but these are not included on PolicyMap, and are shown as Insufficient Data.On PolicyMap, the data is also given as an \u201cestimate\u201c\u00c2\u009d. For each industry, at every geography, (including Zip code) CBP provides values for the number of establishments that fall in various ranges of number of employees. These ranges are 1-4 employees, 5-9, 10-19, 20-49, 50-99, 100-249, 250-499, 500-999, and 1000 or more. There are additional higher ranges at the county and CBSA level. PolicyMap takes the midpoint of each range (so, for 10-19 it would be 14.5) and multiplies that by the number of establishments. Establishments with 1,000 or more employees are given a value of 1,750. This number for each range is added together to get the estimate. Though this number is less precise, its advantages are that there are no longer suppressions (so there is better coverage on the map), and ZIP code data is included.Number of establishments is also provided for three industries relating to health: Fitness and Recreational Sports Centers; Beer, Wine, and Liquor Stores; and Limited-Service Restaurants. Both the count of establishments and rate of establishments per 100,000 people are provided. The rate uses population data from the American Community Survey. Population rate data not available at the ZIP code level.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-cab15483-7825-40f4-99f0-488444b15336",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "US Census",
+    "Census County Business Patterns"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2003",
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.census.gov/econ/cbp/\"}"
+}

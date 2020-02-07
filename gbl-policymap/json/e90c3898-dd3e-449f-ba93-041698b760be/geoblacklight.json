@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "e90c3898-dd3e-449f-ba93-041698b760be",
+  "dc_title_s": "GreatSchools School Points",
+  "dc_description_s": "GreatSchools is a national, independent nonprofit organization providing elementary, middle and high school information for public, private, and charter schools nationwide. PolicyMap licenses GreatSchools school directory, school ratings, and test score information for incorporation in PolicyMap. The GreatSchools subscriber point data, including scores and ratings, is updated with 2016 data. Schools whose coordinates fall outside the county in which they\u2018re listed are not displayed on the map.The GreatSchools Overall School Rating is a measure of overall school performance by state. The GreatSchools rating system is based on a score ranging from 1 to 10, with 10 having the highest performance. GreatSchools Summary Ratings are based on test scores, student or academic progress, college readiness, equity, advanced courses, and discipline and attendance disparities. In states where not all information is available, a rating based on test scores is given. GreatSchools ratings are designed to be a starting point to help parents compare schools, and should not be the only factor used in school selection. More information about GreatSchools Ratings can be found here. School ratings should not be compared across states, as they are relative to the state in which the school operates.For information about tests administered in each state, please see the Data Directory entry for GreatSchools School District Performance.GreatSchools School Points data is downloadable only for individual Census Tracts and Block Groups.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-e90c3898-dd3e-449f-ba93-041698b760be",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Education"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2017",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.greatschools.net\"}"
+}

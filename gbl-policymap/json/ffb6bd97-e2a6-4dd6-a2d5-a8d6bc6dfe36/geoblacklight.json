@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "ffb6bd97-e2a6-4dd6-a2d5-a8d6bc6dfe36",
+  "dc_title_s": "United States Department of Agriculture (USDA) Food Environment Atlas",
+  "dc_description_s": "The Food Environment Atlas is a project of the Economic Research Service, the economic information and research division of the U.S. Department of Agriculture. The Atlas assembles data about food choices, health and well-being, and community characteristics. Data are available at various geographies including county, state and region.Health related indicators, including low-income preschool obesity rates, come from the Centers for Disease Control and Prevention (CDC). The low income preschool figures were derived by a CDC analysis of the Pediatric Nutrition Surveillance System, see http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6231a4.htm?s_cid=mm6231a4_w.Data on the Supplemental Nutrition Assistance Program (SNAP), formerly known as the Food Stamp Program, come from the Food and Nutrition Service of USDA\u2018s SNAP Benefits Redemption Division. Data on the Women, Infants, and Children (WIC) program come from the Food and Nutrition Service of USDA\u2018s Program Analysis and Monitoring Branch, Supplemental Food Programs Division. SNAP benefits data are calculated by the Bureau of Economic Analysis at the U.S. Department of Commerce. Low-income participants in the SNAP program come from Small Area Income and Poverty Estimates, U.S. Census Bureau. Population data used to determine rates is from the U.S. Census Bureau.Data on farms with direct sales to consumer are from the 2007 Agricultural Census, see: http://www.agcensus.usda.gov/Publications/2007/index.asp.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-ffb6bd97-e2a6-4dd6-a2d5-a8d6bc6dfe36",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Agriculture",
+    "Economic Research Service"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Health",
+    "Federal Nutrition Programs",
+    "Local Foods"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2012",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.ers.usda.gov/FoodAtlas/\"}"
+}

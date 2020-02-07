@@ -1,0 +1,55 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9d8004ef-47ac-458f-ab34-9f9e72b31677",
+  "dc_title_s": "Census: Business Dynamics Statistics (BDS)",
+  "dc_description_s": "Business Dynamics Statistics (BDS) provides data over time on openings and closings of businesses, as well as detailed information about those businesses. Data comes from the Longitudinal Business Database.Data provided on PolicyMap includes number and percent of firms of various sizes and ages. This can be used to see the activity of small businesses and startups, as well as larger and established businesses.Firms included in our calculations include all which have at least one active physical establishment in a given area. (If one firm has two establishments in two different areas, it will be counted once in each location.) Firm age is calculated by assigning an initial age according to the age of the oldest establishment that is part of the firm when it is created. (If a firm is created out of a merger or acquisition, its age is based on the age of the oldest establishment in the original firm or acquisition.) Firm size is calculated by the average employment in the current and previous year.BDS data is available at the state and CBSA level. To view CBSA data, select \u201cMetro Area\u201cfrom the \u201cShaded by\u201cmenu in the map legend.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-9d8004ef-47ac-458f-ab34-9f9e72b31677",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Census Bureau",
+    "Business Dynamics Statistics"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Firms By Size",
+    "Firms By Age",
+    "Startups",
+    "Small Businesses"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "2001",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2014",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.census.gov/ces/dataproducts/bds/\"}"
+}

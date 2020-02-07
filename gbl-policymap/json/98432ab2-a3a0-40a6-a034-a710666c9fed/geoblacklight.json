@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "98432ab2-a3a0-40a6-a034-a710666c9fed",
+  "dc_title_s": "National Park Service Federal Historic Preservation Tax Incentives",
+  "dc_description_s": "Technical Preservation Services, a division of the National Park Service, provided PolicyMap with a list of all approved Federal Historic Preservation Tax Incentives Program Part 3 applications from fiscal year 2002 through fiscal year 2018. Part 3 application approvals represent completed and certified projects eligible for the 20% federal tax credit for the rehabilitation of a historic building. The tax credit applies to qualifying costs associated with capital improvements when undertaking a substantial rehabilitation consistent with the historic character of a certified historic building.Project Costs in this data represent the entire estimated cost of historic rehabilitation, including, but not limited to the estimated rehabilitation costs submitted to the National Park Service on the Part 3 application. The indicated date is for certification of the project by the National Park Service, and is not necessarily when the construction project was completed.The data represent tax credit project approvals since October 1, 2001, through September 30th of the most recently available fiscal year. Street addresses are those submitted to the National Park Service on the Part 3 applications; PolicyMap was able to locate 99% of the addresses on a map. Data are updated annually. The Federal Historic Preservation Tax Incentives Program is administered by the National Park Service, State Historic Preservation Offices, and the Internal Revenue Service. For more information on Federal Historic Tax Credits visit the National Park Service: http://www.nps.govps/index.htm. For additional information visit the National Trust Community Investment Corporation: https:/tcic.com/invest/htc/",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-98432ab2-a3a0-40a6-a034-a710666c9fed",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Technical Preservation Services",
+    "National Park Service"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2001",
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.nps.gov/tps/index.htm\"}"
+}

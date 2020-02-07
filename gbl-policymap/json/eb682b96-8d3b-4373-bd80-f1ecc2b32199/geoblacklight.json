@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "eb682b96-8d3b-4373-bd80-f1ecc2b32199",
+  "dc_title_s": "PolicyMap & National Center for Education Statistics (NCES)",
+  "dc_description_s": "PolicyMap created estimates of the average cost of public college in the United States using NCES\u2018s Integrated Postesecondary Education Data System (IPEDS) data on 2-year and 4-year public institutions. For each institution category, the sum of the cost for in-state tuition, in-state fees, books and supplies, on-campus room and board, and other on-campus expenses was multiplied by the full-time undergraduate enrollment, using the total full-time enrollment within the state to calculate the state average. Institutions with either no full-time undergraduate enrollment, or no information for both in-state tuition and in-state fees were excluded from the calculations. Cost of public college data is based on a custom download of preliminary data from http:/ces.ed.gov/ipeds/datacenter/InstitutionByName.aspx. It applies to the 2017-2018 school year and was downloaded in May, 2019.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-eb682b96-8d3b-4373-bd80-f1ecc2b32199",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "PolicyMap",
+    "NCES"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Cost Of College",
+    "Tuition"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://nces.ed.gov/ipeds/datacenter/\"}"
+}

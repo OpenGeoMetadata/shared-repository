@@ -1,0 +1,38 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "e2fab960-a3f3-48c0-b27a-ba756c2f45bd",
+  "dc_title_s": "U.S. Department of Transportation, Deficient Bridges",
+  "dc_description_s": "Structurally deficient and functionally obsolete are two classifications commonly used to describe the condition of the nation\u2018s bridges. Structurally deficient bridges are characterized by deteriorating conditions and reduced load-carrying capacity. Although this classification does not imply that a bridge is unsafe, these structures typically require significant maintenance and repair to remain in service and eventually may need major rehabilitation or to be fully replaced. Functionally obsolete bridges do not meet current design standards either due to increased traffic volumes or revised engineering design standards.The source of the data is the National Bridge Inventory (NBI), a database of more than 600,000 bridges located on public roads. This data was compiled in 2018 by the Federal Highway Administration (FHWA) and collected from individual state departments of transportation. Bridges are assigned geographic coordinates in the source data. Bridge condition information does not reflect recently implemented improvements.Count and percent indicators were determined based on a spatial join performed by PolicyMap that involved matching geocoded bridge locations to standard Census geographic boundaries. Bridges without geographic coordinates assigned were not included in the spatial join.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-e2fab960-a3f3-48c0-b27a-ba756c2f45bd",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Department of Transportation"
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Public Infrastructure",
+    "Deteriorating Infrastructure"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.fhwa.dot.gov/bridge/deficient.cfm\"}"
+}

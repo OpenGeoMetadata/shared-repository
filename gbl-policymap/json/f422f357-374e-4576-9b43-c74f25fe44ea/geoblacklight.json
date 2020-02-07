@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "f422f357-374e-4576-9b43-c74f25fe44ea",
+  "dc_title_s": "USAspending.gov",
+  "dc_description_s": "USAspending.gov is a publicly accessible website providing information on all financial assistance being administered by federal agencies. The site was mandated by the Federal Funding Accountability and Transparency Act of 2006 with the intention of informing the American public on how taxpayer money is being spent.PolicyMap aggregated FY2016, FY2017 and FY2018 contract, grant and loan transaction data by the place of performance to the zip code, county, and state geographies for three federal agencies: the Department of Housing and Urban Development, the Department of Education, and the Department of Transportation. In the case of the Department of Education grants and loans, these are aggregated to the place rather than the county geography. The aggregations include prime awards of both negative and positive amounts. According to the source, negative dollar amounts may occur because the agency reduced or withdrew a portion of the original award amount, there is a negative subsidy on a loan and the funds are being returned to the Treasury, or if duplicate corrections reports have been submitted by the agency. Since the data is provided by the source at the transaction level, a contract, grant or loan can be represented more than once in the count. According to the source, in many cases, multiple transactions are clustered to the center of a zip code. Due to some contract, grant and loan transactions being statewide or just not having a zip code, place or county assigned to them, zip code, place and county aggregations do not always add up to the state aggregations. Thus, the state-level aggregations can be expected to be the most complete. Areas for which no contract, grant or loan transactions were reported appear on the map as having Insufficient Data. For more detail on what is included in the USASpending.gov data, please see the USASpending.gov website.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-f422f357-374e-4576-9b43-c74f25fe44ea",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "USAspending.gov"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Federal Government Spending"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2016",
+    "2017",
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.usaspending.gov\"}"
+}

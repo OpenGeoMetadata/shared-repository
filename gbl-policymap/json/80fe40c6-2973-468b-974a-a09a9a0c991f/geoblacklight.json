@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "80fe40c6-2973-468b-974a-a09a9a0c991f",
+  "dc_title_s": "Census and PolicyMap: Racial and Ethnic Segregation",
+  "dc_description_s": "https://www.census.gov/housing/patterns/about/multigroup_entropy.pdfPolicyMap calculated Theil\u2018s H index of segregation using the U.S. Census Bureau\u2018s 2010 Decennial Census estimates. For this index, PolicyMap used a total of 8 non-overlapping racial and ethnic categories provided by the US Census Bureau. These categories included the ethnic category Hispanic and the following 7 Non-Hispanic racial categories: White, African American, American Indian or Alaska native, Asian, Native Hawaiian or Pacific Islander, some other race, and two or more races.Theil\u2018s H is an index ranging from 0 to 1 that estimates the extent to which racial and ethnic groups are evenly distributed in a sub-area as compared to a larger area. Values approaching 0 suggest that sub-areas have a composition similar to the larger area (i.e., even distribution, less segregation) and values approaching 1 suggest that the racial and ethnic composition of sub-areas within a larger area deviates from the larger area (i.e., non-uniform distribution, more segregation). On PolicyMap, sub-areas are defined at the level of the Census block and are compared to the following larger areas: block groups, tracts, counties and Core-Based Statistical Areas (CBSAs), which are an approximation of metropolitan areas. The calculation of Theil\u2018s H is based on the methodology presented in the report, \u201cThe Multigroup Entropy Index\u201cby John Iceland (2004). This methodology involves calculating the entropy, a measure of diversity, for each sub-area and larger area and calculating the population-weighted deviation in entropy values across all sub-areas within each larger area.Geographies for which no data or limited data were provided or for which the population was less than 10 are represented as having \"Insufficient Data.\" See https://www.census.gov/housing/patterns/about/multigroup_entropy.pdf for more information.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-80fe40c6-2973-468b-974a-a09a9a0c991f",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Segregation"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2010",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.census.gov/2010census/\"}"
+}

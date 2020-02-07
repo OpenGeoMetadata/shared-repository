@@ -1,0 +1,44 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "627546fd-ec12-4034-aec2-7b6d190b9cc7",
+  "dc_title_s": "National Oceanic and Atmospheric Association (NOAA)/National Weather Service",
+  "dc_description_s": "The National Oceanic and Atmospheric Association (NOAA) and the National Weather Service provide Annual Time Series UV Index data through their Climate Prediction Center. The average UV Index is an average of every UV Index issued within the year by the NOAA/National Weather Service for selected cities. When issuing the UV Index, the NOAA uses the World Health Organization\u2018s Exposure Categories of 0-2 as being low, 3-5 as moderate, 6-7 as high, 8-10 as very high, and 11 or more as extreme.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_geom_type_s": "Mixed",
+  "layer_slug_s": "gbl-627546fd-ec12-4034-aec2-7b6d190b9cc7",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "National Oceanic and Atmospheric Administration (NOAA)"
+  ],
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.cpc.ncep.noaa.gov/products/stratosphere/uv_index/uv_annual.shtml/\"}"
+}
