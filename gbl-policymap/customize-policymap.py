@@ -11,7 +11,7 @@ single_dict = { #dictionary to translate single-value Dublin Core/GBL fields int
     "solr year":["solr_year_i"],
     "provenance":["dct_provenance_s"],
     "format":["dc_format_s"],
-    "geometry yype":["layer_geom_type_s"],
+    "geometry type":["layer_geom_type_s"],
     "rights":["dc_rights_s"],
     "solr_geom":["solr_geom"]
     }
