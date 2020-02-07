@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Urban Mapping",
+  "dc_description_s": "System Location AltamontCommuter Express Stockton-San Jose, CA, BayArea Rapid Transit San Francisco Bay AreaUrban Mapping Inc. provided PolicyMap with public transit rail lines for 53 transit systems in the US. Data is available for systems in the following areas: Caltrain|San Francisco||||Bay AreaCapitalMetropolitan Transportation Authority|Austin, TX||||CentralPuget Sound Regional Transit Authority|Greater Seattle,||||WAChicagoTransit Authority \"L\" Trains|Greater Chicago,||||ILDallasArea Rapid Transit|Greater Dallas,||||TXDenver",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-39baa7a2-e0e8-4365-95f6-a1b46c16bbf3",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Urban Mapping Inc."
+  ],
+  "dc_subject_sm": [
+    "Transportation",
+    "Public Transit",
+    "Mass Transit"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2009"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2009",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.bart.gov/about/reports/ridership\"}"
+}

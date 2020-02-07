@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "United States Department of Labor, Wage and Hour Division",
+  "dc_description_s": "The United States Department of Labor compiles the minimum wage laws in each state. The minimum wages in this data apply to nonsupervisory nonfarm private sector employment. Though there is a federally mandated minimum wage currently set at $7.25 per hour, some states have legislated their own minimum wage. Some states have a statutory minimum wage below the federal minimum wage; in these cases, they are superseded by the federal minimum wage, and the federal minimum wage is shown on PolicyMap. Where the state minimum wage is higher than the federal minimum wage, the state minimum wage applies and is shown. Some local municipalities and counties have minimum wages higher than the wage set by the state; these are not included in this data.A number of states have minimum wage levels linked to the consumer price index. They generally increase annually around January 1st. Some states\u2018changes occur in July. This data represents the minimum wage on January 1, 2019.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-f21d8b9f-b173-45e7-a611-3d2dbace0243",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Wage and Hour Division",
+    "United States Department of Labor"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Minimum Wage"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2019"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2019",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.dol.gov/whd/minwage/america.htm\"}"
+}

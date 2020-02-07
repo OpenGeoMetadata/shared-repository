@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "HUD Promise Zone Designees",
+  "dc_description_s": "In areas designated as Promise Zones, the federal government will partner to help local agencies access resources. Under the Promise Zones program, federal partners will collaborate with local leaders on economic development, education, and crime-related projects. Federal incentives available to areas designated as Promise Zones are listed at https://www.hudexchange.info/promise-zones/federal-partner-funding-and-technical-assistance-opportunities/. The twelve federal partners in the Promise Zones program include the U.S. Department of Agriculture, U.S. Department of Commerce, Corporation for National and Community Service, U.S. Department of Education, U.S. Department of Health and Human Services, U.S. Department of Housing and Urban Development, U.S. Department of Justice, U.S. Department of Labor, National Endowment for the Arts, Small Business Administration, U.S. Department of Transportation, and U.S. Department of the Treasury. In total, 20 urban, rural, and tribal communities will be designated as Promise Zones by the end of 2016.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-388f688d-46e4-4b40-967f-ddb839e98101",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "US Department of Housing and Urban Development (HUD)"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Promise Zones"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.hudexchange.info/promise-zones/\"}"
+}

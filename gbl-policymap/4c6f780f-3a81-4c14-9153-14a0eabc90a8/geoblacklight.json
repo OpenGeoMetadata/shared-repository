@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "HUD Housing Choice Voucher Housing Opportunity Index",
+  "dc_description_s": "The Housing Choice Voucher Marketing Opportunity Index is an index for every Census tract and block group to identify the area\u2018s potential opportunity for Housing Choice Voucher holders seeking housing. It is a measure of neighborhoods\u2018high quality housing and neighborhood conditions. A higher number indicates a higher potential opportunity for HCV holders seeking housing. It can be used by Public Housing Authorities to help voucher holders find neighborhoods that have low poverty rates, available rental units at or below Fair Market Rent limits, a high level of employment and educational opportunities, and a low density of households who receive housing assistance. The calculation through which the index is calculated is available in a PDF document at the link provided. The calculation through which the index is calculated is available in a PDF document downloadable from the page at the link provided above.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-4c6f780f-3a81-4c14-9153-14a0eabc90a8",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Office of Policy Development and Research",
+    "US Department of Housing and Urban Development"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Housing Choice Voucher",
+    "Public Housing Authorities",
+    "Poverty",
+    "Rental Units"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2011",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.huduser.org/portal/publications/pubasst/housing_choice_voucher\"}"
+}

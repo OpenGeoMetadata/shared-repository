@@ -1,0 +1,53 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Valassis Lists",
+  "dc_description_s": "Valassis Lists, one of the nation\u2018s largest direct mail marketing company, compiles a resident and business list with over 99% coverage of all addresses. PolicyMap\u2018s vacancy data from Valassis Lists contains combined data from two distinct data products: vacancy and no-stat counts for business and residential addresses from the United States Postal Service (USPS), and the USPS Computerized Delivery Sequence (CDS). These data reflect a point-in-time snapshot of vacancy at the end of each quarter. The data do not include a measure of how long an individual address has been vacant or no-stat. Downloading Valassis Lists data from PolicyMap in any format is prohibited.Vacant addresses are those where mail has not been collected for at least 90 days (and typically for no more than 9 months). No-stat addresses include inactive addresses that are under construction, demolished, blighted, or are otherwise unable to receive postal mail. Rural route addresses that are vacant for more than 90 days are also classified as no-stat.For vacancy and no stat counts, PolicyMap aggregated address-level data, provided by Valassis Lists, to the block group level and higher geographies. PO Boxes addresses and addresses classified by USPS as deleted were not included in the aggregations. For counts of the total number of residential and business postal address, PolicyMap used block group level counts from the CDS database, as provided by Valassis Lists. PO Boxes addresses and addresses classified by USPS as deleted were not included. Because of discrepancies between data sources, some block groups may show vacant or no-stat addresses in excess of the total number of addresses from CDS.PolicyMap aggregated the block group values provided by the source to larger geographies. In some cases, Valassis Lists could not assign vacancy and no-stat values to a valid block group. In some cases, the address could not be accurately geo-located by the source, resulting in an incomplete census identifier. For zip+4 or zip code matches, an exact block group could not always be determined if the block group code assigned to the address is located in a different county than the zip code. For 2019 Q1 data, about 1.4% of vacant residential addresses, 1.2% of business vacancies, and 18.1% of no-stat addresses in the original data could not be matched due to these geocoding issues. Rural areas show more geocoding anomalies than urban areas. The values from these unmatched block group records are included in county, CBSA and state records, depending on availability. Block groups without valid data are disregarded in aggregate values (tract, zip code, and Census place). Block group, tract, place, and zip values for no-stat and vacancy should be used with caution, as these numbers may be low or inexact.Percent change from the previous quarter and previous year are calculated for all indicators where possible.Valassis Lists data is not available for download from PolicyMap.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-0e73804a-9dbb-47a8-aa64-51d3b486bf9d",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Valassis Lists"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Vacancy"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2014",
+    "2014",
+    "2015",
+    "2015",
+    "2015",
+    "2015",
+    "2016",
+    "2016",
+    "2016",
+    "2016",
+    "2017",
+    "2017",
+    "2017",
+    "2017",
+    "2018",
+    "2018",
+    "2018",
+    "2018",
+    "2019"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2019",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.valassislists.com/all_inclusive.php\"}"
+}

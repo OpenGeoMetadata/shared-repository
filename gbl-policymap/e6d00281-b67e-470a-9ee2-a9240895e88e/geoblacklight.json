@@ -1,0 +1,46 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "FBI Uniform Crime Reports",
+  "dc_description_s": "The Federal Bureau of Investigation\u2018s Uniform Crime Reporting (UCR) Program compiles standardized incident reports from local law enforcement agencies in order to produce reliable, uniform, and national crime data. The UCR Program is voluntary, and includes data for only counties and cities with population over 10,000. As a result, coverage is not universal. The UCR Program collects data on known offenses and persons arrested by law enforcement agencies. The UCR Program does not record the findings of a court, coroner, jury, or the decision of a prosecutor.As the FBI does not provide standard geographic identifiers, PolicyMap assigns the data to places and counties using the US Department of Justice\u2018s Law Enforcement Agency Identifier Crosswalk from 2005. The Crosswalk relates originating agency identifiers to Federal Information Processing Standards Codes (FIPS codes). PolicyMap uses the matched FIPS codes to display the data on the map.Data was reported to the FBI for selected places and counties by local law enforcement agencies. The FBI compiled the data and provided PolicyMap with those statistics that met FBI reporting standards. County counts reflect the sum of all reported offenses from agencies within the county that submitted data to the FBI. The county count may not include all offenses if agencies within the county did not report or if reported figures did not comply with FBI reporting standards. Those places or counties either not reporting to the FBI or not complying with FBI reporting standards and, thus, not compiled by the FBI, are shown as having Insufficient Data in the map. Certain counties, such as those in New York City, are not shown on PolicyMap because the FBI reported no population in those counties. Data for agencies in these counties was reported by the FBI, but not included in the FBI\u2018s county aggregation. Values for places were obtained by matching each agency with the place it is in based on the Crosswalk. Where multiple agencies reported data in one place, the values were aggregated by PolicyMap.The FBI cautions against using UCR data to rank municipalities, as many factors contribute to the number of crimes that occur and are reported. More information can be found here: https://ucr.fbi.gov/ucr-statistics-their-proper-use. PolicyMap divides the total number of aggravated assaults that were reported in a county or place by the population count provided by the FBI and multiplied that ratio by 100,000. The population count used for places in this calculation is from the FBI. The county population count is an estimate of the number of people served by the agencies within the county that report offenses.In 2015, Vermont data may not be complete due to technical issues at agencies in the state. According to the FBI, underreporting of data is highly likely.Data is shown at 2000 County boundaries.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-e6d00281-b67e-470a-9ee2-a9240895e88e",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "FBI Uniform Crime Reports"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Crime Rates"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.fbi.gov/ucr/ucr.htm\"}"
+}

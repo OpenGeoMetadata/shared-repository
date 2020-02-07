@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Dartmouth Atlas of Health Care",
+  "dc_description_s": "Hospital Referral Region (HRR) and Hospital Service Area (HSA) boundaries, downloaded from the Dartmouth Atlas of Health Care, are geographic representations of access to medical care. HRRs represent regional health care markets, and were determined based on the locations of referrals for major cardiovascular surgeries and neurosurgery procedures. HSAs represent smaller, local health care markets, based on Medicare hospitalizations.HRR and HSA boundaries were created by the Dartmouth Atlas in 2005, based on contemporary hospital and Medicare data. Hospital Service Area boundaries are available only for the contiguous United States. Hospital Referral Region boundaries include Alaska and Hawaii.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-199cfbd2-4a53-4c48-acb3-06a568f02463",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Dartmouth Atlas of Health Care at the Dartmouth Institute for Health Policy and Clinical Practice"
+  ],
+  "dc_subject_sm": [
+    "Health",
+    "Medicare"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2005",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.dartmouthatlas.org/\"}"
+}

@@ -1,0 +1,39 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "US Geological Survey (USGS) Gap Analysis Program (GAP) Protected Areas of the United States (PAD-US)",
+  "dc_description_s": "The USGS Protected Areas Database of the United States (PAD-US) is an inventory of protected areas dedicated to the preservation of biological diversity and other natural, recreational, and cultural uses. The database was originally designed to support biodiversity assessments; however, its scope expanded in recent years to include all public and nonprofit lands and waters. PAD-US is an aggregation of \u201cbest available\u201cspatial data provided by agencies and organizations at a point in time. This includes both fee ownership of lands as well as management through leases, easements, or other binding agreements. The data also tracks Congressional designations, Executive designations, and administrative designations identified in management plans.There are several published versions of the PAD-US spatial database. The data currently reflected in PolicyMap is from the PAD-US 2.0 dataset released in September 2018. This version of the dataset was separated into fee owned lands, conservation (and other) easements, management designations overlapping fee, marine areas, and proclamation boundaries. The data available in PolicyMap is a combination of the protected areas included in the fee owned lands and easement categories.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-ecc9e86c-e531-4e9e-abab-0a30ca2742f8",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Gap Analysis Program",
+    "United States Geological Survey",
+    "United State Department of the Interior"
+  ],
+  "dc_subject_sm": [
+    "Sensitive Lands",
+    "Environment",
+    "Parks",
+    "Open Space"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://gapanalysis.usgs.gov/padus/data/\"}"
+}

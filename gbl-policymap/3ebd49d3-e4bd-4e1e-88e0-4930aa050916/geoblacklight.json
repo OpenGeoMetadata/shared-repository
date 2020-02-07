@@ -1,0 +1,43 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "National Center for Education Statistics, Private School Universe Survey",
+  "dc_description_s": "The Private School Universe Survey (PSS) is a program of the U.S. Department of Education\u2018s National Center for Education Statistics that collects selected data about all private schools every two years. The current data is for the 2015-2016 school year. Data are supplied through a survey that is compiled by administrative personnel in private schools. The NCES definition of a private school is \u201cA private school is not supported primarily by public funds, provides classroom instruction for one or more of grades K-12 or comparable ungraded levels, and has one or more teachers. Organizations or institutions that provide support for home schooling without offering classroom instruction for students are not included.\u201c\u00c2\u009d",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-3ebd49d3-e4bd-4e1e-88e0-4930aa050916",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Private School Universe Survey (PSS)",
+    "National Center for Educational Statistics",
+    "provided by the US Department of Education"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Private School",
+    "Education",
+    "Religious Orientation",
+    "Educational Attainment",
+    "Size Of School",
+    "Student Poverty"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2015",
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://nces.ed.gov/surveys/pss/index.asp\"}"
+}

@@ -1,0 +1,36 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "Environmental Protection Agency (EPA), Brownfields Sites Reports",
+  "dc_description_s": "The EPA regularly updates its Brownfields Sites Report List. The points in PolicyMap are as of December of 2018. The coordinates used in PolicyMap are provided by the EPA. PolicyMap removes points that do not appear in the site\u2018s listed state.The points shown on PolicyMap include brownfield sites that have received assessment, cleanup, and/or redevelopment funding from the EPA. Brownfields designated by states or local entities, sites that may qualify for but have not received EPA assessment funding, and underground storage tanks are not included on the map.Each point represents a transfer of funds related to a known brownfield site. Multiple points for the same brownfield location indicate multiple actions over a period of time; the entity receiving funds may differ.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-6bb250cc-0731-4a4a-8e28-5f200bf4a398",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Cleanups in my Community",
+    "US EPA"
+  ],
+  "dc_subject_sm": [
+    "Environment",
+    "Brownfields"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://epa.gov/brownfields/\"}"
+}

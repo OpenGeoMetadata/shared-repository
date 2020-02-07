@@ -1,0 +1,47 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "FFIEC: HMDA (Federal Financial Institutions Examination Council: Home Mortgage Disclosure Act)",
+  "dc_description_s": "The Home Mortgage Disclosure Act (HMDA), which was enacted by Congress in 1975, requires most mortgage lenders located in metropolitan areas to collect data about their housing-related lending activity, report the data annually to the government, and make the data publicly available. The public database of lending activity is called Loan Application Register and Transmittal Sheets (LARS & TS). PolicyMap aggregated originated purchase and refinance loans for owner-occupied, one-to-four family dwellings, in order to construct categories that would be useful to policymakers and descriptive of neighborhoods and markets, such as Prime Refinance Loans, or Purchase Loans to African Americans.PolicyMap contains HMDA data for 2004 through 2016. All high-cost (those with a reported rate spread) and prime loans for 2015 reflect the reporting rule changes implemented in 2009Q4, discussed below. In order to accurately display the data according to these rule adjustments, PolicyMap divided the 2009 data into 2009Q1-2009Q3 and 2009Q4. The reason for this is that in the fourth quarter of 2009, HMDA changed its rules for reporting rate spreads in an effort to more accurately capture the current high-cost lending activity. Change calculations between previous years and 2009 through 2016 should not be made due to the change in HMDA\u2018s definition of high cost. In the 2009 data, due to the high incidence of error notations in the manufactured home loan data in 2009, medians are shown as \u201cN/A\u201cwherever error notations were present.For more information and analysis of the 2016 HMDA data, see the published article in the Federal Reserve Bulletin, available at https://www.federalreserve.gov/pubs/bulletin/2016/pdf/2015_HMDA.pdf.When performing aggregations and calculations on the HMDA data, medians were not calculated and percents were not computed where the count of loan events of that type or the denominator of the calculation was less than five. These places are identified on the map as having Insufficient Data. High-Cost Loans and PolicyMap\u2018s High-Cost Loan CalculationsPolicyMap classifies loans as high cost if they had a reported rate spread. In 2009, HMDA changed its rules for reporting rate spreads for the fourth quarter of the year in an effort to more accurately capture the current high-cost lending activity. In the first three quarters of 2009 and previous to 2009, the rate spread on a loan was the difference between the Annual Percentage Rate (APR) on the loan and the treasury security yields as of the date of the loan\u2018s origination. Rate spreads were only reported by financial institutions if the APR was 3 or more percentage points higher for a first lien loan, or 5 or more percentage points higher for a second lien loan. A rate spread of 3 or more suggested that a loan was of notably higher price than a typical loan, indicating that it could be classified as high cost. The new rules introduced in the fourth quarter of 2009 indicate that the rate spread on a loan is the difference between the Annual Percentage Rate (APR) on the loan and the estimated average prime offer rate (APOR). With the rule change, rate spreads are only reported by financial institutions if the APR is more than 1.5 percentage points higher for a first lien loan, or more than 3.5 percentage points higher for a second lien loan. A rate spread of 1.5 or more suggests that a loan is of notably higher price than a typical loan, indicating that it is to be classified as high cost.Likewise, all loans without reported rate spreads are considered to be prime, as the APR is within reasonable range of the treasury security yield (or, in the case of 2009Q4 and 2010 through 2016, within reasonable range of the estimated average prime offer rate). PolicyMap previously denoted high-cost loans as \u201csubprime\u201c\u00c2\u009d, but changed the terminology with the release of the 2008 data to reflect language used by the Federal Reserve Bank. The \u201chigh-cost\u201cdesignation is not to be confused with \u201cHOEPA\u201c\u00c2\u009d. HOEPA loans are a subset of the high-cost loan category.\u201c80-20\u201cor \u201cPiggyback\u201cLoans and PolicyMap\u2018s Algorithm for \u201c80-20\u201cor \u201cPiggyback\u201cLoan EstimatesPolicyMap contains layer data on the number of loans originated for the purpose of a home purchase that had multiple mortgages. Termed \u201c80-20 loans\u201cor \u201cpiggyback loans\u201c\u00c2\u009d, a multiple mortgage transaction is when a buyer obtains at least two loans in order to purchase a home. The second loan finances that part of the purchase price not being financed by the first loan. The 80-20 or piggyback loan has been used to avoid underwriting standards held by most lenders that require private mortgage insurance (or PMI) when less than a 20% down payment is made by the buyer. Studies suggest that these transactions have a higher risk of default and foreclosure as the homebuyers have little or no equity at risk. HMDA data does not explicitly identify 80-20 or piggyback loans. PolicyMap created an algorithm for estimating transactions involving multiple loans to purchase a property. First- and second-position loans in the same census tract, from the same lender, and to applicants with the same race, ethnicity, gender, and income were flagged as multiple loans for the same property. These loans were then combined into one record, the loan amounts summed, thus reflecting the total loan for the property transaction. These loans were originated for the purchase of an owner-occupied, one-to-four family dwelling, as reported by HMDA.\u201cOther\u201cRacesPolicyMap contains data for specific race categories and for grouped race categories, such as those identified as \u201cother\u201craces. \u201cOther\u201craces is defined as American Indian or Alaska Native, Asian, Native Hawaiian or Other Pacific Islander, and individuals who either did not provide information or provided inapplicable information.Prime Loans and PolicyMap\u2018s Prime Loan CalculationsPrime loans are defined as loans with no reported rate spread. PolicyMap assumes for the purpose of its PolicyMap calculations that a loan without a reported rate spread is of a \u201ctypical\u201cAPR and most likely prime. The rate spread for 2004-2009Q3 on a loan was the difference between the Annual Percentage Rate (APR) on the loan and the treasury security yields as of the date of the loan\u2018s origination. For that time period, rate spreads were only reported by financial institutions if the APR was 3 or more percentage points higher for a first lien loan, or 5 or more percentage points higher for a second lien loan, the rate spread for 2009Q4 and 2010 through 2016 is the difference between the Annual Percentage Rate (APR) on the loan and the estimated average prime offer rate (APOR). In that same quarter, rate spreads are reported by financial institutions if the difference between the APR and the APOR is 1.5 or more percentage points for a first lien loan, or 3.5 or more percentage points higher for a second lien loan).",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-56744f50-5bba-4630-be19-8ed414d93210",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    ""
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Mortgages"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2004",
+    "2005",
+    "2006",
+    "2007",
+    "2008",
+    "2009",
+    "2010",
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2016",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.ffiec.gov/hmda/\"}"
+}

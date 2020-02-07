@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "CDFI (Community Development Financial Institutions) Fund",
+  "dc_description_s": "The Community Development Financial Institution (CDFI) Fund, a division of the US Department of the Treasury, administers the New Markets Tax Credit (NMTC) and Bank Enterprise Award (BEA) programs, and supports and invests in Community Development Financial Institutions. For information about the NMTC, please see entry, below. The CDFI Fund maintains a list of Census Tracts and their program eligibility or designation, based on income, poverty and unemployment data provided by the Census Bureau\u2018s 2011-2015 American Community Survey (ACS) for 2010 census tracts. During a one year transition period (until October 1, 2019), the designations based on 2006-2010 ACS data will remain in effect. For more on these programs users should consult the CDFI Fund website directly: www.cdfifund.gov.Designations are current as of October 2018, but may be changed at any time by the CDFI Fund. For this reason, users should verify eligibility directly with the CDFI Fund. For CDFI Program Investment Areas, information in PolicyMap does not include Native American Areas.CDE locations are no longer updated by the source. PolicyMap will remove this data in 2020 unless the dataset is updated or another source is found.",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-28e19251-c5d7-452b-b254-a9fd0145cc97",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Community Development Financial Institutions Fund",
+    "US Department of the Treasury"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Cdfi Fund Investment Areas",
+    "Distressed Communities"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2018"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2018",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"https://www.cdfifund.gov/Documents/CDFI%20Investment%20Areas%20potential%20FAQs%20FINAL%20100118.pdf,\"}"
+}

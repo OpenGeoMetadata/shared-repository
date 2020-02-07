@@ -1,0 +1,40 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "dc_title_s": "FEMA Disaster Declarations",
+  "dc_description_s": "Federal disaster areas are places where the state or tribal government has requested and received federal assistance to protect the public's health and safety in an emergency. After a governor seeks a presidential disaster declaration, FEMA conducts a preliminary damage assessment before recommending a decision to the president. Factors influencing the declaration of a federal disaster include the amount and type of damage, impact on infrastructure or critical facilities, imminent threats to health and public safety, impacts to essential government services and functions, unique capability of the Federal government to provide resources and available assistance from other sources, dispersion or concentration of damage, level of local insurance coverage, state and local resource commitments from previous events, and the frequency of recent disaster events. FEMA provides disaster funding though four programs: Individuals and Households, Individual Assistance, Public Assistance, Hazard Mitigation. For more information on the programs, visit FEMA\u2018s website. Each declaration area is assigned a sequential disaster number. Disaster numbers are unique to states. Disasters indicate both the dates the incident itself began and ended, as well as the date of the disaster declaration and the date all financial transactions for all programs are completed (the closeout date). Disaster areas are displayed as groups of counties and/or Indian areas. Federal disaster declarations are only displayed on PolicyMap since 2012, and do not include disasters declared before January 1, 2012 or after March 25th, 2019. Please visit www. fema. gov/disasters for a comprehensive list of current and/or historical disaster declarations. ",
+  "dc_rights_s": "Restricted",
+  "dc_type_s": [
+    "Dataset"
+  ],
+  "layer_slug_s": "gbl-e6c38c3b-3b79-4dc5-831e-9ea73c5e74ed",
+  "dc_format_s": "Tabular Data",
+  "dc_language_s": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Federal Emergency Management Agency"
+  ],
+  "dc_subject_sm": [
+    "Society",
+    "Disaster Areas",
+    "Fires",
+    "Floods",
+    "Hurricanes",
+    "Severe Storms"
+  ],
+  "dct_isPartOf_sm": [
+    "PolicyMap"
+  ],
+  "dct_temporal_sm": [
+    "2012",
+    "2019"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
+  "solr_year_i": "2019",
+  "dct_provenance_s": "GeoBlacklight",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.policymap.com/maps\",\"http://lccn.loc.gov/sh85035852\":\"http://www.fema.gov/disasters/\"}"
+}
