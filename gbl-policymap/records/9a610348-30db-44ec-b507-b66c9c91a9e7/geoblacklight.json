@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9a610348-30db-44ec-b507-b66c9c91a9e7",
   "dc_title_s": "National Conservation Easement Database",
   "dc_description_s": "The National Conservation Easement Database (NCED) is a national database of conservation easements. It is compiled of records from land trusts and public agencies throughout the United States. Partner organization The Trust for Public Land collects public easement data, and Ducks Unlimited collects private easement data. Only publicly available information is included. In some instances, the land trust requests concealing the exact location of an easement; in such cases, they are excluded from the map.According to the NCED, the data is not complete. The NCED provides estimates of completeness by state, which can be accessed here: https://www.conservationeasement.us/completeness/.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-9a610348-30db-44ec-b507-b66c9c91a9e7",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

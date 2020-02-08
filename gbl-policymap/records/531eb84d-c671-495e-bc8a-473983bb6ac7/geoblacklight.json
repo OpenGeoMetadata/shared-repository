@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "531eb84d-c671-495e-bc8a-473983bb6ac7",
   "dc_title_s": "US Geological Survey (USGS) National Elevation Dataset (NED)",
   "dc_description_s": "The United States Geological Survey\u2018s National Elevation Dataset (NED) is the USGS\u2018s primary source for elevation data. PolicyMap calculates the average elevation as a weighted average of all available elevation counts in a given area. Because the NED does not provide full coverage of elevation data for the entire United States, some areas may be represented by an average of the available data. The USGS updates its database as improved source data becomes available.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-531eb84d-c671-495e-bc8a-473983bb6ac7",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

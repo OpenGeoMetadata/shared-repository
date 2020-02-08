@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "51c1a145-c272-4a08-a8d7-6e8cd71c40d1",
   "dc_title_s": "Environmental Protection Agency (EPA), AirData Air Quality Index Report",
   "dc_description_s": "The United States\u2018Environmental Protection Agency (US EPA) provides a Median Air Quality Index (AQI) at the county level. The median AQI is based on the value for which half of daily AQI values during the year were less than or equal to the median value, and half equaled or exceeded it. Air quality is defined by the EPA as follows: good air quality ranges from 0-50; moderate air quality ranges from 51-100; unhealthy air quality for sensitive groups ranges from 101-150; and unhealthy air quality is 151 or higher, which includes the AQI categories of unhealthy, very unhealthy and hazardous.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-51c1a145-c272-4a08-a8d7-6e8cd71c40d1",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

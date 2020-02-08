@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "67ab4044-dbec-4ed2-a402-f689af8b5614",
   "dc_title_s": "US Geological Survey (USGS), National Hydrography Dataset (NHD)",
   "dc_description_s": "The National Hydrography Dataset (NHD) contains surface water information for the United States. It contains features such as lakes, ponds, streams, rivers, canals, dams, and streamgages.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-67ab4044-dbec-4ed2-a402-f689af8b5614",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

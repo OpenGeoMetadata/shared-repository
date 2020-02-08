@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "318f8cfe-c79c-4b4b-942b-fabd84460103",
   "dc_title_s": "Centers for Medicare and Medicaid Services (CMS) and Opioid Prescriptions",
   "dc_description_s": "Centers for Medicare and Medicaid Services\u2018(CMS) opioid prescription claims data comes from Medicare Part D claims prescribed by health care providers, as collected from Part D Prescriber public use files. Medicare opioid prescribing rates were calculated as the rate of opioid prescription claims per 100 total Medicare Part D prescription claims, including both prescriptions and refills.Opioid claims and prescribing rates are available for all opioids as well as extended-release and long-acting (ER/LA) opioid formulations. Prescription numbers and rates for ER/LA opioids are also counted within the \u201call opioids\u201cindicators. ER/LA opioids are designed to deliver more stable dosing for chronic pain patients and reduce dosage frequency but may pose a higher risk of overdose when misused. Certain methadone types are considered ER/LA. For a list of opioids included see https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/OpioidDrugList.zip.CMS opioid prescription data includes claims for beneficiaries enrolled in Medicare Advantage Prescription Drug Plans and stand-alone Prescription Drug plans, but does not include prescriptions for patients on Medicaid, those with commercial insurance, or self-pay patients. Approximately 70% of Medicare beneficiaries have Medicare prescription drug coverage either from a Part D plan or a Medicare Advantage Plan offering Medicare prescription drug coverage. In 2016, Medicare Part D spending was $146 billion, while U.S. retail prescription drug spending was around $329 billion. Due to data redactions for geographies with 10 or fewer claims, county and Zip code opioid claim totals may not add up to state totals or may be lower than the true program totals.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-318f8cfe-c79c-4b4b-942b-fabd84460103",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

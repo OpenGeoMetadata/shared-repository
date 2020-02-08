@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "40d410e4-0544-4cfb-9c35-a64a7b5248e0",
   "dc_title_s": "PolicyMap, Census, and HUD Home Ownership and Rental Affordability Estimates",
   "dc_description_s": "PolicyMap created indicators on Home Ownership and Rental Affordability using data on incomes, housing values, and rental costs published by HUD and the Census Bureau. Rental Affordability calculations assume that a family can afford to spend 30% or less of their income on rent, which corresponds to the threshold for housing cost burden as defined by the Census Bureau. This translates to 1/36th of the family\u2018s annual income each month. For example, a family of four with an income of $30,000 could afford to rent a two-bedroom apartment for $750 or less per month. Home Ownership Affordability estimates assume that a family can afford to purchase a home valued at three times their annual salary. This means that a family of four with an income of $30,000 could afford to purchase a home valued at less than $90,000. These estimates can be used to compare the relative affordability of the housing stock in different areas, or to determine whether the existing housing stock in an area is sufficient to meet the needs of low- or middle-income residents.The 2013-2017 calculations rely on HUD\u2018s FY2019 Area Median Income (AMI) data. The 30%, 50% (Very Low Income), and 80% (Low Income) of median income by family size as well as the overall area median income are provided by HUD. PolicyMap calculated 60% of Area Median Income by multiplying the 50% threshold by 1.2 and calculated 120% of AMI by multiplying the 50% threshold by 2.4, per instructions in the Low Income Housing Tax Credit (LIHTC) legislation, on HUD\u2018s website, and in communications between PolicyMap and the HUD User electronic help desk resource. Counts of owner- and renter-occupied housing units by value or rental price were obtained from the Census Bureau\u2018s 2013-2017 American Community Survey.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-40d410e4-0544-4cfb-9c35-a64a7b5248e0",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

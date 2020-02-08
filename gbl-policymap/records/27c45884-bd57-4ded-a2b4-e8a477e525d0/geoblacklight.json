@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "27c45884-bd57-4ded-a2b4-e8a477e525d0",
   "dc_title_s": "HUD Community Development Block Grant Activity Locations",
   "dc_description_s": "The Community Development Block Grant (CDBG) program, which was enacted by Congress in 1974, is intended to fund local government activities benefiting low and moderate income people such as ensuring access to affordable housing, creating jobs through retention and expansion of local businesses, and providing basic services to the most vulnerable residents. CDBG funds are allocated on a formula basis and grantees need to submit a Consolidated Plan showing that the activities funded will benefit in majority low and moderate income people.This dataset includes the primary locations of CDBG activities that have occurred since 1996. Below are the CDBG activity categorizations used by HUD:Asset Acquisition and activity related to acquisition, including disposition, clearance and demolition, and clean-up of contaminated Sites/brownfields. Economic Development and activity related to economic development, including commercial or industrial rehab, commercial or industrial land acquisition, commercial or industrial construction, commercial or industrial infrastructure development, direct assistance to businesses, and micro-enterprise assistance.Housing and activity related to housing, including multifamily rehab, housing services, code enforcement, operation and repair of foreclosed property and public housing modernization.Public Improvements and activity related to public improvements, including senior centers, youth centers, parks, street improvements, water/sewer improvements, child care centers, fire stations, health centers, non-residential historic preservation, etc.Public Services and activity related to public services, including senior services, legal services, youth services, employment training, health services, homebuyer counseling, food banks, etc.Other and activity related to urban renewal completion, non-profit organization capacity building, and assistance to institutions of higher education.To learn more about the CDBG program, please see the following HUD website: https://www.hud.gov/program_offices/comm_planning/communitydevelopment/programs.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-27c45884-bd57-4ded-a2b4-e8a477e525d0",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

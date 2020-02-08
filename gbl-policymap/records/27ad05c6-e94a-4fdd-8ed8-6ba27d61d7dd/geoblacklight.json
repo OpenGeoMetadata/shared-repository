@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "27ad05c6-e94a-4fdd-8ed8-6ba27d61d7dd",
   "dc_title_s": "Census: Longitudinal Employer Household Dynamics",
   "dc_description_s": "The Longitudinal Employer-Household Dynamics (LEHD) program is part of the Center for Economic Studies at the U.S. Census Bureau. The LEHD program combines federal, state and Census Bureau data on employers and employees under the Local Employment Dynamics (LED) Partnership. Under the LED partnership, states share Unemployment Insurance earnings data and the Quarterly Census of Employment and Wages (QCEW) data with the Census. Census combines these data with additional federal administrative data, Census data, and surveys. The LEHD program also creates a partially synthetic dataset on workers\u2018residential patterns, offering a dynamic link showing where people live and where they work.LED was built state by state, and a handful of state-year combinations are not available. These include Arizona (2002 and 2003), Arkansas (2002), the District of Columbia (2002-2009), Massachusetts (2002-2010), Mississippi (2002 and 2003), New Hampshire (2002), Wyoming (2014-2015), Puerto Rico (all years), and the U.S. Virgin Islands (all years). Data on the resident workforce is available for these locations for all years. However, the employment-based numbers are loaded as insufficient data. For more on the LED Partnership see: http://lehd.ces.census.gov/state_partners/.Federal employment is not counted in state Unemployment Insurance data, and as a result federal employment was not included in LEHD until 2010. Data shown by default on PolicyMap later than 2010 contain federal employment. However, additional variables in the legend allow users to see earlier data, without federal employment numbers. In order to calculate percent changes in employment and workforce numbers, PolicyMap subtracted federal employment from certain indicators (as noted) from 2010 onwards. Percent change numbers involving any year between 2002 and 2009 does not include federal jobs.Some demographic variables were introduced in 2009, including race, ethnicity, educational attainment, and sex. Because of the incomparability of the data between 2009 and 2010 with the introduction of Federal employment, PolicyMap chose to begin mapping these additional indicators in 2010. LODES data are released at the 2010 Census tabulation block geographies and PolicyMap aggregated up to the larger geographies using Census provided relationship tables. Data is aggregated using LEHD\u2018s TIGER 2016 crosswalk files. However, PolicyMap displays all LEHD data at the TIGER 2010 boundary geographies, except CBSAs, which are shown at 2013 geographies.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-27ad05c6-e94a-4fdd-8ed8-6ba27d61d7dd",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "5ef8778d-a42a-4265-a285-0d419d4264a2",
   "dc_title_s": "United States Department of Agriculture (USDA) Agricultural Marketing Service",
   "dc_description_s": "Farmers\u2018market points are taken from USDA\u2018s Agricultural Marketing Service (AMS) through the Farmers\u2018Market Directory. The Directory is a reporting system where local farmers\u2018market managers list the locations of their markets and basic details. The data may not include all farmers\u2018markets. AMS reports geographic coordinates as reported through the Directory. PolicyMap geocoded market addresses whose geographic coordinates fell outside the reported county, and was able to display 99% of the provided locations on a map.The Farmers\u2018Market Directory is updated on a rolling basis. AMS data will be updated on PolicyMap annually.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-5ef8778d-a42a-4265-a285-0d419d4264a2",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

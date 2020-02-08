@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9c91d43e-7021-495a-8c09-5bf41ad5bc21",
   "dc_title_s": "Bureau of Labor Statistics Quarterly Census of Employment and Wages",
   "dc_description_s": "The Bureau of Labor Statistics\u2018gathers data on employment and wages from state workforce agencies and compiles it under the Quarterly Census of Employment and Wages (QCEW) program. The data are derived from quarterly tax reports submitted by employers to State workforce agencies under State Unemployment Insurance (UI) laws; and from Federal agencies under the Unemployment Compensation for Federal Employees (UCFE) program. PolicyMap displays only private sector employment and wage data.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-9c91d43e-7021-495a-8c09-5bf41ad5bc21",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

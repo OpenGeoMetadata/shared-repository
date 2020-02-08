@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "8f66ed17-a07b-49c2-9778-c1df5908c6e6",
   "dc_title_s": "Social Security Administration: Supplemental Security Income",
   "dc_description_s": "The SSI program is a cash assistance program for low-income aged, blind, or disabled people. States have the option of supplementing their residents\u2018SSI payments and may choose to have the additional payments administered by the federal government. When a state chooses federal administration, the Social Security Administration maintains the payment records and issues the federal payment and the state supplement in one check. SSI data in PolicyMap are for federal and federally administered state payments only. State-administered supplementary payments are not included.The data come from the Supplemental Security Record, the principal administrative data file for the SSI program. To avoid disclosure of the reason for individuals\u2018eligibility, data on eligibility categories are suppressed for counties with fewer than 15 recipients or where all recipients are in the same category. Therefore, county counts may not sum to reported state numbers. The amount of payments is not shown for counties with fewer than four recipients. These suppressed payment data are included in the state and national totals.To calculate the percentages in a given area, Census Population Estimates for counties and states were used. Information can be found at http://www.census.gov/popest/.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-8f66ed17-a07b-49c2-9778-c1df5908c6e6",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

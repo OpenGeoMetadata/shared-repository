@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "103ce569-bfb7-473d-ba9e-cd1b2d4812e8",
   "dc_title_s": "New Localism Advisors: Social Needs Index",
   "dc_description_s": "Social need rankings were calculated for Qualified Opportunity Zone eligible Low Income Community (LIC) census tracts by New Localism Advisors using 2012-2016 Census American Community Survey data. Tracts with higher rankings (closer to 10) are considered higher need. The social need index takes into consideration the following variables: population below poverty, households with rent or mortgages greater than 30% of income, population not in the labor force, population with less than a high school degree, and Gini index of concentrated income. Factor analysis was applied to the variables to create a weighted composite index of social need. Rankings are relative to all other eligible LIC tracts in the state.This index was developed by New Localism Advisors to determine priority investment locations in Qualified Opportunity Zones. To learn more please visit https://www.thenewlocalism.com/wp-content/uploads/2018/03/Guiding-Principles-for-Opportunity-Zones_TheNewLocalism_March92018.pdf.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-103ce569-bfb7-473d-ba9e-cd1b2d4812e8",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

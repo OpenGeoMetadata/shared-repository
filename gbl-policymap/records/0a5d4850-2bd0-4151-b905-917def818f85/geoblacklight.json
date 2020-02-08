@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "0a5d4850-2bd0-4151-b905-917def818f85",
   "dc_title_s": "U.S. Election Atlas",
   "dc_description_s": "Dave Leip\u2018s Atlas of U.S. Presidential Elections provides information on elections for president, senate, and house of representatives. It also provides information on turnout to these elections. Included are the general elections of 2004, 2006, 2008, 2010, 2012, 2014, 2016, and 2018. Midterm elections are not included. County-level data for Alaska is not included because Alaska does not report its election results by county. Turnout data is only available for presidential elections, as midterm elections in different states do not have a standard top-of-the-ballot race by which turnout is calculated.Margin of victory maps provide a handy guide to see who won a given geography, and by how much. Values are calculated by subtracting the number of votes for the runner-up candidate from the number of votes for the winning candidate, and dividing that number by the total number of votes cast. Ranges, and not specific numbers, are available for each area.\u201cChange in percent\u201ccalculations were calculated by subtracting the 2004 presidential candidate\u2018s vote percentage from the 2008 candidate\u2018s vote percentage. For example, if John Kerry won 45% of a county in 2004, and Barack Obama won 55% of that county in 2008, the change in percent would be 10%. Note that for House of Representative elections, this is calculated every two years. When elections are uncontested (ie., a candidate from one party runs, and no other candidates from another party run), we label the non-contesting parties as having received zero percent of the vote, even though they did not appear on the ballot. In some congressional districts where a candidate ran unopposed, no vote total was tallied by election officials; we label candidates in these districts as having \u201cInsufficient data\u201cfor vote counts, and the winner as having 100 percent of the vote for the percent and change-in-percent calculations. The Congressional district boundaries changed in 2012 due to redistricting. Some states gained districts and some states lost districts, and within each state, the shapes of most districts changed. For this reason, change-in-percent calculations are not possible from the 2010 Congressional election to the 2012 election. Additionally, some boundaries in Florida, North Carolina, and Virginia changed in 2016 due to redistricting; percent changes are not shown in 2016 for these districts. Results from the North Carolina 9th Congressional District are suppressed.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-0a5d4850-2bd0-4151-b905-917def818f85",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

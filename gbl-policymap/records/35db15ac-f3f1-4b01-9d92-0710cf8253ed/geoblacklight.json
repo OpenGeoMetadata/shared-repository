@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "35db15ac-f3f1-4b01-9d92-0710cf8253ed",
   "dc_title_s": "U.S. Small Business Administration, Small Business Development Centers",
   "dc_description_s": "Small Business Development Centers (SBDCs) help small business and entrepreneurs with free business consulting and low-cost training services including business plan development, manufacturing assistance, financial packaging and lending assistance, exporting and importing support, disaster recovery assistance, procurement and contracting aid, market research help, 8(a) program support, and healthcare guidance. SBDCs are hosted by universities and state economic development agencies, and funded through a partnership with SBA.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-35db15ac-f3f1-4b01-9d92-0710cf8253ed",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

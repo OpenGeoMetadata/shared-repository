@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "d93cf0e2-15d1-43cb-8169-0299ed52503b",
   "dc_title_s": "Environmental Protection Agency (EPA), Landfill Methane Outreach Program",
   "dc_description_s": "The Environmental Protection Agency (EPA) tracks landfills that are participants or candidates for the EPA\u2018s Landfill Methane Outreach Program (LMOP). This program is a voluntary assistance program focused on capturing methane from landfills.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-d93cf0e2-15d1-43cb-8169-0299ed52503b",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

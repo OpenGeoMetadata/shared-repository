@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "54aeac35-344c-4f9e-b030-0cba1068eb5a",
   "dc_title_s": "HUD Community Development Block Grant Eligibility Criteria",
   "dc_description_s": "The Community Development Block Grant (CDBG) program, which was enacted by Congress in 1974, is intended to fund local government activities benefiting low and moderate income people such as ensuring access to affordable housing, creating jobs through retention and expansion of local businesses, and providing basic services to the most vulnerable residents. CDBG funds are allocated on a formula basis and grantees need to submit a Consolidated Plan showing that the activities funded will benefit in majority low and moderate income people.In order to be eligible for CDBG funds on an area basis, at least 51% of the activity\u2018s beneficiaries must be of low and moderate income. The U.S. Department of Housing and Urban Development (HUD) defines as low and moderate income all individuals living in a household with income below 80% of the area median family income. Through FY 2013, HUD published a summary of the number of people who are low and moderate income at the split block group level. During this time, HUD based its figures on the decennial Census. In FY 2014, HUD started basing its figures on the Census\u2018American Community Survey (2006-2010). Because ACS has a smaller sample and is less precise than the decennial Census, for FY 2014, HUD published a summary of the number of people who are low and moderate income at the block group, but not the split block group, level. For FY 2018, HUD based its figures on the 2011-2015 ACS.In addition, HUD publishes every year a list of \u201cexception grantees,\u201cwhich are areas with smaller overall concentrations of low and moderate income people. In these areas, the block groups in the highest quartile in terms of concentration of persons of low and moderate income are deemed eligible. The list of exception grantees can be found at: https://www.hudexchange.info/manage-a-program/acs-low-mod-summary-data-exception-grantees/.Finally, HUD publishes every year a list of block groups in \u201cuncapped areas.\u201cThese are metropolitan areas that are allowed to use different income limits and as specified by HUD and in their Consolidated Plans. To find out if you are an \u201cuncapped\u201carea and what your special income limits are please visit the HUD website at: https://www.hudexchange.info/manage-a-program/acs-low-mod-summary-data-uncapped-grantees/. PolicyMap displays the number and percentage of persons with medium income (household income below 120% AMI), low and moderate income (household income below 80% AMI), and low income (household income below 50% AMI) at the block group, census tract, place, and county geographies.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-54aeac35-344c-4f9e-b030-0cba1068eb5a",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

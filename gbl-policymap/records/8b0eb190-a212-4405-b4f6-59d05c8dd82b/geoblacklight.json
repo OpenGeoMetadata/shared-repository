@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "8b0eb190-a212-4405-b4f6-59d05c8dd82b",
   "dc_title_s": "National Nursing Center Consortium",
   "dc_description_s": "Spreadsheet received from National Nursing Center Consortium on October 16, 2015. PolicyMap was able to locate 90% of the points in the spreadsheet.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-8b0eb190-a212-4405-b4f6-59d05c8dd82b",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

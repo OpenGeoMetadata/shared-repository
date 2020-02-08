@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "caad6d6b-4f45-4911-91d5-49bec1a19af2",
   "dc_title_s": "CDFI (Community Development Financial Institutions) Fund CDFI Program",
   "dc_description_s": "The Community Development Financial Institutions (CDFI) Fund, a division of the US Department of the Treasury, supports and invests in Community Development Financial Institutions through the CDFI Program and Native American CDFI Assistance Program. CDFIs are financial institutions that provide products and services in economically distressed target markets. The CDFI Fund certifies CDFIs through an application process on a rolling basis, depending on the type of institution. Not all CDFIs are certified, but certification is a requirement for some federal program funding.PolicyMap was able to locate 99% of CDFI addresses on a map. Data are updated twice annually.Data on CDFI loans and investments comes from the Community Investment Impact System (CIIS), a database through which CDFI\u2018s self-report their investment activity. The data on PolicyMap is from the Transaction Level Report (TLR) and Institution Level Report (ILR), and is aggregated to states, counties, and census tracts. Median and aggregate investment amounts are calculated by type of CDFI and for select transaction characteristics. For CDFI transactions that span multiple census tracts or counties, medians are calculated using the total project cost while aggregations are calculated by dividing the total transaction cost by the number of census tracts or counties involved. Transaction or project counts at smaller geographies may not match larger geography counts given the double counting of split transactions and projects across census tracts and counties. Subcategories of transactions, such as CDFI Investments by Borrower Type, may not sum to the total amount of CDFI investments in a given area.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-caad6d6b-4f45-4911-91d5-49bec1a19af2",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

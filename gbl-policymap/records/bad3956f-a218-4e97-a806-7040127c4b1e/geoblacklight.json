@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "bad3956f-a218-4e97-a806-7040127c4b1e",
   "dc_title_s": "Bureau of Economic Analysis: Personal Income",
   "dc_description_s": "Personal income consists of income received in return for provision of labor, land, and capital used in current production, as well as other income such as personal current transfer receipts. It is the sum of wages and salaries, supplements to wages and salaries, proprietors\u2018income with inventory valuation and capital consumption adjustments, rental income of persons with capital consumption adjustment, personal dividend income, personal interest income, and personal current transfer receipts, less contributions for government social insurance plus the adjustment for residence.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-bad3956f-a218-4e97-a806-7040127c4b1e",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

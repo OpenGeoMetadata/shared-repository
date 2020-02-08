@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "9179c9a2-6f9c-421d-9af6-41c7bb458dc7",
   "dc_title_s": "US Fish and Wildlife Service, National Wetlands Inventory",
   "dc_description_s": "The National Wetlands Inventory provides information on the extant and status of wetlands across the country.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-9179c9a2-6f9c-421d-9af6-41c7bb458dc7",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

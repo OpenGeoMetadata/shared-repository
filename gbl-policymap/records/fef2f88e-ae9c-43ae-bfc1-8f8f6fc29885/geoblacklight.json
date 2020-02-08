@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "fef2f88e-ae9c-43ae-bfc1-8f8f6fc29885",
   "dc_title_s": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
   "dc_description_s": "PolicyMap downloaded the geocoded mental health and drug and alcohol treatment facilities from the Substance Abuse and Mental Health Services Administration\u2018s (SAMHSA) Behavioral Health Treatment Services Locator, a product of SAMHSA\u2018s Center for Behavioral Health Statistics and Quality (CBHSQ). The Locator is compiled from responses to CBHSQ\u2018s annual surveys of treatment facilities (the National Survey of Substance Abuse Treatment Services and the National Mental Health Services Survey). For more information about which centers are eligible for inclusion in the Behavioral Health Treatment Services Locator, please see SAMHSA\u2018s website: https://findtreatment.samhsa.gov/locator/about.PolicyMap also downloaded the geocoded locations of physicians certified to prescribe buprenorphine to combat opioid dependency from the SAMHSA Buprenorphine Treatment Physician Locator. Eligibility and certification requirements for prescribing buprenorphine are set by the Drug Addiction Treatment Act of 2000 (DATA 2000). SAMHSA works with physicians to assist in obtaining waivers to meet the requirements of DATA 2000 and also tracks the number of \u201cDATA and Certified Physicians\u201cthroughout the country. For more information, please visit: http://www.samhsa.gov/programs-campaigns/medication-assisted-treatment/physician-program-data.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-fef2f88e-ae9c-43ae-bfc1-8f8f6fc29885",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "a63cd81d-9ab1-4e7f-a97d-f9d88547f6a3",
   "dc_title_s": "Census\u2018Small Area Income and Poverty Estimates",
   "dc_description_s": "The Census\u2018Small Area Income & Poverty Estimates (SAIPE) dataset provides more current estimates of selected income and poverty statistics than the most recent decennial census. Estimates are created for states, counties, and school districts, depending on the data. This dataset mainly serves administrators of federal programs who need current statistics on the demonstrated need of places.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-a63cd81d-9ab1-4e7f-a97d-f9d88547f6a3",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

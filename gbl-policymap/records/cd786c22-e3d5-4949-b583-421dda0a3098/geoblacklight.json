@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "cd786c22-e3d5-4949-b583-421dda0a3098",
   "dc_title_s": "IRS Statistics of Income and Individual Income Tax Statistics",
   "dc_description_s": "The Internal Revenue Service\u2018s Statistics of Income (IRS SOI) provides detailed information on tax returns including income and liability data, and detailed tax deduction and credit information.Information comes from individual Form 1040 tax returns. Each year\u2018s data includes returns filed in the 12-month period after the tax year (so, data for 2012 includes all returns filed from January 1, 2013 to December 31, 2013). Note that a small number of returns filed during this period represent a year previous to the most recent tax year, and are still included. Not all individuals are required to submit a tax return. Returns with negative adjusted gross income are excluded from the data. Returns representing a specified (but unreleased) percent of the value of an amount are excluded (for example, if one return was responsible for 80% of the residential energy credit dollar amount in a zip code, it may be excluded).The ZIP code shown on a tax return may not reflect the taxpayer\u2018s actual residence. Returns with ZIP codes not matching the state are excluded. The ZIP code reflects only the ZIP code written on the tax return; for this data, no attempt is made by the IRS to verify the return\u2018s address. ZIP codes on PolicyMap reflect the most recent ZIP code map available; an address may have changed ZIP codes in the intervening time, but the ZIP code data is not changed. State-level data are an aggregation of county-level data in each state. They are not equal to state-level data provided by the IRS.Beginning in 2012, all counts of returns are rounded to the nearest 10. Any category with fewer than 20 returns per ZIP code are excluded from the data by the IRS. Any average or percent with a denominator of less than 10 is suppressed by PolicyMap.Numbers of returns and aggregate amounts are made available by the IRS. Percents and averages are calculated by PolicyMap. Percents use total returns as a denominator, and averages use returns of that type as a denominator (for example, average charitable contributions is total charitable contributions divided by the number of returns claiming any charitable contributions). Generally, returns represent households, not individuals.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-cd786c22-e3d5-4949-b583-421dda0a3098",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

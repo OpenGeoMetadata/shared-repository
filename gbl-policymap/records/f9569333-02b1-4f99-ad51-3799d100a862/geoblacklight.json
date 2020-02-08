@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "f9569333-02b1-4f99-ad51-3799d100a862",
   "dc_title_s": "Environmental Protection Agency (EPA), Safe Drinking Water Information System",
   "dc_description_s": "The EPA\u2018s Safe Drinking Water Information System provides information on public water systems, and their quantity and types of violations of drinking water regulations. Using EPA guidelines, PolicyMap categorizes each violation as a health violation or a monitoring and reporting violation. The source data comes at the agency-level; PolicyMap determines what county the water system is in and provides county-level data. Only water systems that serve 10,000 people or more are included. In counties where multiple water systems were included, the average number of violations was calculated weighted by the population size served by each system.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-f9569333-02b1-4f99-ad51-3799d100a862",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [

@@ -1,12 +1,14 @@
 {
   "geoblacklight_version": "1.0",
-  "layer_modified_dt": "2020-02-07T14:48:38Z",
+  "layer_modified_dt": "2020-02-07T15:45:53Z",
+  "dc_identifier_s": "e738da83-0e67-40db-9ea8-bb90a99908ce",
   "dc_title_s": "Census Public Elementary-Secondary Education Finance Data",
   "dc_description_s": "The U.S. Census provides annual survey data on public school finances. Data is available at school district geographies. It includes the following indicators: student enrollment, total elementary-secondary revenue, total revenue from federal sources, total revenue for Title I, total revenue for children with disabilities, total revenue for child nutrition act, total revenue from state sources, total revenue from local sources, total elementary-secondary expenditures. Rates calculated by PolicyMap (such as revenue per student) were suppressed for school districts with 0 students in the given year.",
   "dc_rights_s": "Restricted",
   "dc_type_s": [
     "Dataset"
   ],
+  "layer_geom_type_s": "Mixed",
   "layer_slug_s": "gbl-e738da83-0e67-40db-9ea8-bb90a99908ce",
   "dc_format_s": "Tabular Data",
   "dc_language_s": [
