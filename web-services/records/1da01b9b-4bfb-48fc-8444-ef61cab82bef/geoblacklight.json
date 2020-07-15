@@ -1,0 +1,30 @@
+{
+  "dc_identifier_s": "1da01b9b-4bfb-48fc-8444-ef61cab82bef",
+  "dc_title_s": "Anti-Eviction Mapping Project",
+  "dc_description_s": "The Anti-Eviction Mapping Project is a data-visualization, data analysis, and storytelling collective documenting dispossession and resistance upon gentrifying landscapes. Primarily working in the San Francisco Bay Area, Los Angeles, and New York City, we are all volunteers producing digital maps, oral history work, film, murals, and community events. Working with a number of community partners and in solidarity with numerous housing movements, we study and visualize new entanglements of global capital, real estate, technocapitalism, and political economy. Our narrative oral history and video work centers the displacement of people and complex social worlds, but also modes of resistance. Maintaining antiracist and feminist analyses as well as decolonial methodology, the project creates tools and disseminates data contributing to collective resistance and movement building.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Stanford",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://antievictionmap.com//\"}",
+  "layer_id_s": "1da01b9b-4bfb-48fc-8444-ef61cab82bef",
+  "layer_slug_s": "stanford-1da01b9b-4bfb-48fc-8444-ef61cab82bef",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2020-07-09T00:03:08Z",
+  "dc_format_s": "Web Application",
+  "dc_language_s": "English",
+  "dc_type_s": "Service",
+  "dc_publisher_s": "San Francisco Tenants Union",
+  "dc_subject_sm": [
+    "Eviction",
+    "Housing"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-125.102, -66.134, 50.1019992, 23.9979992)",
+  "solr_year_i": 2020,
+  "geoblacklight_version": "1.0"
+}
