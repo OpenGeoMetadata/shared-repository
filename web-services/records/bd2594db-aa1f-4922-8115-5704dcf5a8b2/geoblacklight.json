@@ -1,0 +1,30 @@
+{
+  "dc_identifier_s": "bd2594db-aa1f-4922-8115-5704dcf5a8b2",
+  "dc_title_s": "CoreLogic tax and deed data",
+  "dc_description_s": "This data set contains two sets of data, nationwide tax and deed data for all counties in the United States, approximately 145 million properties, residential and commerical. Data are collected from U.S. County Assessor and Recorder offices, cleaned and normalized by CoreLogic.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Stanford",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://searchworks.stanford.edu/view/11416021/\"}",
+  "layer_id_s": "bd2594db-aa1f-4922-8115-5704dcf5a8b2",
+  "layer_slug_s": "stanford-bd2594db-aa1f-4922-8115-5704dcf5a8b2",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2020-09-07T00:03:08Z",
+  "dc_format_s": "Web Application",
+  "dc_language_s": "English",
+  "dc_type_s": "Service",
+  "dc_publisher_s": "CoreLogic",
+  "dc_subject_sm": [
+    "Property tax",
+    "Deeds"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-125.102, -66.134, 50.1019992, 23.9979992)",
+  "solr_year_i": 2020,
+  "geoblacklight_version": "1.0"
+}
