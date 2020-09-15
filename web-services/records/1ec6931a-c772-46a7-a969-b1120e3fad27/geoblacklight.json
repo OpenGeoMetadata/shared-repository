@@ -1,0 +1,30 @@
+{
+  "dc_identifier_s": "1ec6931a-c772-46a7-a969-b1120e3fad27",
+  "dc_title_s": "Electing the House of Representatives",
+  "dc_description_s": "This site maps House of Representatives elections from before the Civil War until today showing changing patterns across regions and between urban and rural areas.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Stanford",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://dsl.richmond.edu/panorama/congress/\",\"http://schema.org/downloadUrl\":\"https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58&text=downloads\"}",
+  "layer_id_s": "1ec6931a-c772-46a7-a969-b1120e3fad27",
+  "layer_slug_s": "stanford-1ec6931a-c772-46a7-a969-b1120e3fad27",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2020-09-15T00:03:08Z",
+  "dc_format_s": "Web Application",
+  "dc_language_s": "English",
+  "dc_type_s": "Service",
+  "dc_publisher_s": "American Panorama",
+  "dc_subject_sm": [
+    "United States. Congress. House",
+    "Elections"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-125.102, -66.134, 50.1019992, 23.9979992)",
+  "solr_year_i": 2020,
+  "geoblacklight_version": "1.0"
+}
