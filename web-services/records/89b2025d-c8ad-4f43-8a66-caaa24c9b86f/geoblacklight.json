@@ -1,0 +1,31 @@
+{
+  "dc_identifier_s": "89b2025d-c8ad-4f43-8a66-caaa24c9b86f",
+  "dc_title_s": "Black Lives Matter Protests 2020",
+  "dc_description_s": "Web map tracking global cities thaty have had BLM protests to date (beginiing May 25th 2020).",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Stanford",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.creosotemaps.com/blm2020/\"}",
+  "layer_id_s": "89b2025d-c8ad-4f43-8a66-caaa24c9b86f",
+  "layer_slug_s": "89b2025d-c8ad-4f43-8a66-caaa24c9b86f",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2020-09-15T00:03:08Z",
+  "dc_format_s": "Web Application",
+  "dc_language_s": "English",
+  "dc_type_s": "Service",
+  "dc_publisher_s": "Creosote Maps",
+  "dc_subject_sm": [
+    "Black lives matter movement",
+    "Social justice",
+    "Protest movements"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-125.102, -66.134, 50.1019992, 23.9979992)",
+  "solr_year_i": 2020,
+  "geoblacklight_version": "1.0"
+}
