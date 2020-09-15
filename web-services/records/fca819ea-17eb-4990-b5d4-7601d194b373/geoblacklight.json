@@ -1,0 +1,29 @@
+{
+  "dc_identifier_s": "fca819ea-17eb-4990-b5d4-7601d194b373",
+  "dc_title_s": "National Crimes: A New National Data Set of Lynchings in the United States, 1883 to 1941",
+  "dc_description_s": "Following Tolnay and Beck (1995), we began our data collection with contemporaneous lynching inventories from the NAACP and Chicago Tribune. We also drew on published lists of lynching victims from historians (Barrow 2005; Campney 2008, 2018; Carrigan 2004; Carrigan and Webb 2013; Downey 2013; Downey and Hyser 2011; Frazier 2015; Pfeifer 2011, 2013; Williams 2001). Our data include every lynching victim we were able to locate and confirm with local newspapers from 1883 to 1941 in the 38 contiguous U.S. states not included in the original Tolnay-Beck data. We coded each lynching for the size of the mob, the race and gender of the victim, the alleged offense claimed to have incited the mob, and the method by which the mob murdered the victim.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Stanford",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://doi.org/10.1177/2378023119841780/\",\"http://schema.org/downloadUrl\":\"https://osf.io/kr8yc/\"}",
+  "layer_id_s": "fca819ea-17eb-4990-b5d4-7601d194b373",
+  "layer_slug_s": "stanford-fca819ea-17eb-4990-b5d4-7601d194b373",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2020-09-15T00:03:08Z",
+  "dc_format_s": "Web Application",
+  "dc_language_s": "English",
+  "dc_type_s": "Service",
+  "dc_publisher_s": "Socius",
+  "dc_subject_sm": [
+    "Lynching"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "solr_geom": "ENVELOPE(-125.102, -66.134, 50.1019992, 23.9979992)",
+  "solr_year_i": 2020,
+  "geoblacklight_version": "1.0"
+}
