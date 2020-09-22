@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "California"
   ],
-  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "solr_geom": "ENVELOPE(-124.416178, -114.131991, 42.009381, 32.534213)",
   "solr_year_i": 2020,
   "geoblacklight_version": "1.0"
 }
