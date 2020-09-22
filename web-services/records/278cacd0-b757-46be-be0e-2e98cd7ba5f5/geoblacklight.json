@@ -6,7 +6,7 @@
   "dct_provenance_s": "Stanford",
   "dct_references_s": "{\"http://schema.org/url\":\"https://policescorecard.org/\"}",
   "layer_id_s": "278cacd0-b757-46be-be0e-2e98cd7ba5f5",
-  "layer_slug_s": "stanford-c278cacd0-b757-46be-be0e-2e98cd7ba5f5",
+  "layer_slug_s": "stanford-278cacd0-b757-46be-be0e-2e98cd7ba5f5",
   "layer_geom_type_s": "Mixed",
   "layer_modified_dt": "2020-08-09T00:03:08Z",
   "dc_format_s": "Web Application",
@@ -16,7 +16,7 @@
   "dc_subject_sm": [
     "Police",
     "Police misconduct",
-    "POlice brutality"
+    "Police brutality"
   ],
   "dct_issued_s": "2020",
   "dct_temporal_sm": [
