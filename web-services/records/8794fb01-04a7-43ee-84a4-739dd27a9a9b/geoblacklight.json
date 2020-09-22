@@ -23,7 +23,7 @@
   "dct_spatial_sm": [
     "United States"
   ],
-  "solr_geom": "ENVELOPE(-179.147355, 179.778465, 71.38921, 17.674398)",
+  "solr_geom": "ENVELOPE(-125.102, -66.134, 50.1019992, 23.9979992)",
   "solr_year_i": 2020,
   "geoblacklight_version": "1.0"
 }
