@@ -1,0 +1,32 @@
+{
+  "dc_identifier_s": "cea59e26-7b3c-4005-a605-3cc6848a0771",
+  "dc_title_s": "CAL FIRE Statewide Fire Map & Incident Information",
+  "dc_description_s": "Latest earthquakes map and list",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Stanford",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://www.fire.ca.gov/incidents/\"}",
+  "layer_id_s": "cea59e26-7b3c-4005-a605-3cc6848a0771",
+  "layer_slug_s": "stanford-cea59e26-7b3c-4005-a605-3cc6848a0771",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2020-11-19T00:03:08Z",
+  "dc_format_s": "Web Application",
+  "dc_language_s": "English",
+  "dc_type_s": "Interactive Resource",
+  "dc_publisher_s": "Fire and Resource Assessment Program (Calif.)",
+    "dc_creator_sm": [
+    "Fire and Resource Assessment Program (Calif.)"
+  ],
+  "dc_subject_sm": [
+    "Earthquakes"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_spatial_sm": [
+    "Earth (Planet)"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "solr_year_i": 2020,
+  "geoblacklight_version": "1.0"
+}

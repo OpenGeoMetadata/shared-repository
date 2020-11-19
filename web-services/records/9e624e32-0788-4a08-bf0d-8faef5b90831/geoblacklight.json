@@ -1,0 +1,29 @@
+{
+  "dc_identifier_s": "9e624e32-0788-4a08-bf0d-8faef5b90831",
+  "dc_title_s": "Latest earthquakes map and list for U.S. and worldwide",
+  "dc_description_s": "Latest earthquakes map and list",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Stanford",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://earthquake.usgs.gov/earthquakes/map/\"}",
+  "layer_id_s": "9e624e32-0788-4a08-bf0d-8faef5b90831",
+  "layer_slug_s": "stanford-9e624e32-0788-4a08-bf0d-8faef5b90831",
+  "layer_geom_type_s": "Mixed",
+  "layer_modified_dt": "2020-11-19T00:03:08Z",
+  "dc_format_s": "Web Application",
+  "dc_language_s": "English",
+  "dc_type_s": "Interactive Resource",
+  "dc_publisher_s": "Geological Survey (U.S.)",
+  "dc_subject_sm": [
+    "Earthquakes"
+  ],
+  "dct_issued_s": "2020",
+  "dct_temporal_sm": [
+    "2020"
+  ],
+  "dct_spatial_sm": [
+    "Earth (Planet)"
+  ],
+  "solr_geom": "ENVELOPE(-180, 180, 90, -90)",
+  "solr_year_i": 2020,
+  "geoblacklight_version": "1.0"
+}
